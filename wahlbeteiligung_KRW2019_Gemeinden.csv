@@ -1,0 +1,178 @@
+"","gemeinde_bfsnr","gemeinde_bez","wahlbeteiligung","letzte_wahl_wahlbeteiligung"
+"1",10261,"Zürich, Kreis 1+2",NA,NA
+"2",20261,"Zürich, Kreis 3",NA,NA
+"3",60261,"Zürich, Kreis 9",NA,NA
+"4",30261,"Zürich, Kreis 4+5",NA,NA
+"5",40261,"Zürich, Kreis 6",NA,NA
+"6",70261,"Zürich, Kreis 10",NA,NA
+"7",50261,"Zürich, Kreis 7+8",NA,NA
+"8",80261,"Zürich, Kreis 11",NA,NA
+"9",90261,"Zürich, Kreis 12",NA,NA
+"10",241,"Aesch",NA,NA
+"11",242,"Birmensdorf",NA,NA
+"12",243,"Dietikon",NA,NA
+"13",244,"Geroldswil",NA,NA
+"14",245,"Oberengstringen",NA,NA
+"15",246,"Oetwil an der Limmat",NA,NA
+"16",247,"Schlieren",NA,NA
+"17",248,"Uitikon",NA,NA
+"18",249,"Unterengstringen",NA,NA
+"19",250,"Urdorf",NA,NA
+"20",251,"Weiningen",NA,NA
+"21",1,"Aeugst am Albis",NA,NA
+"22",2,"Affoltern am Albis",NA,NA
+"23",3,"Bonstetten",NA,NA
+"24",4,"Hausen am Albis",NA,NA
+"25",5,"Hedingen",NA,NA
+"26",6,"Kappel am Albis",NA,NA
+"27",7,"Knonau",NA,NA
+"28",8,"Maschwanden",NA,NA
+"29",9,"Mettmenstetten",NA,NA
+"30",10,"Obfelden",NA,NA
+"31",11,"Ottenbach",NA,NA
+"32",12,"Rifferswil",NA,NA
+"33",13,"Stallikon",NA,NA
+"34",14,"Wettswil am Albis",NA,NA
+"35",131,"Adliswil",NA,NA
+"36",135,"Kilchberg",NA,NA
+"37",136,"Langnau am Albis",NA,NA
+"38",137,"Oberrieden",NA,NA
+"39",138,"Richterswil",NA,NA
+"40",139,"Rüschlikon",NA,NA
+"41",141,"Thalwil",NA,NA
+"42",293,"Wädenswil",NA,NA
+"43",295,"Horgen",NA,NA
+"44",151,"Erlenbach",NA,NA
+"45",152,"Herrliberg",NA,NA
+"46",153,"Hombrechtikon",NA,NA
+"47",154,"Küsnacht",NA,NA
+"48",155,"Männedorf",NA,NA
+"49",156,"Meilen",NA,NA
+"50",157,"Oetwil am See",NA,NA
+"51",158,"Stäfa",NA,NA
+"52",159,"Uetikon am See",NA,NA
+"53",160,"Zumikon",NA,NA
+"54",161,"Zollikon",NA,NA
+"55",111,"Bäretswil",NA,NA
+"56",112,"Bubikon",NA,NA
+"57",113,"Dürnten",NA,NA
+"58",114,"Fischenthal",NA,NA
+"59",115,"Gossau",NA,NA
+"60",116,"Grüningen",NA,NA
+"61",117,"Hinwil",NA,NA
+"62",118,"Rüti",NA,NA
+"63",119,"Seegräben",NA,NA
+"64",120,"Wald",NA,NA
+"65",121,"Wetzikon",NA,NA
+"66",191,"Dübendorf",NA,NA
+"67",192,"Egg",NA,NA
+"68",193,"Fällanden",NA,NA
+"69",194,"Greifensee",NA,NA
+"70",195,"Maur",NA,NA
+"71",196,"Mönchaltorf",NA,NA
+"72",197,"Schwerzenbach",NA,NA
+"73",198,"Uster",NA,NA
+"74",199,"Volketswil",NA,NA
+"75",200,"Wangen-Brüttisellen",NA,NA
+"76",172,"Fehraltorf",NA,NA
+"77",173,"Hittnau",NA,NA
+"78",176,"Lindau",NA,NA
+"79",177,"Pfäffikon",NA,NA
+"80",178,"Russikon",NA,NA
+"81",180,"Weisslingen",NA,NA
+"82",181,"Wila",NA,NA
+"83",182,"Wildberg",NA,NA
+"84",296,"Illnau-Effretikon",NA,NA
+"85",297,"Bauma",NA,NA
+"86",10230,"Winterthur Altstadt",NA,NA
+"87",20230,"Winterthur O'Winterthur",NA,NA
+"88",30230,"Winterthur Seen",NA,NA
+"89",40230,"Winterthur Töss",NA,NA
+"90",50230,"Winterthur Veltheim",NA,NA
+"91",60230,"Winterthur Wülflingen",NA,NA
+"92",70230,"Winterthur Mattenbach",NA,NA
+"93",211,"Altikon",NA,NA
+"94",213,"Brütten",NA,NA
+"95",214,"Dägerlen",NA,NA
+"96",215,"Dättlikon",NA,NA
+"97",216,"Dinhard",NA,NA
+"98",218,"Ellikon a.d.Thur",NA,NA
+"99",219,"Elsau",NA,NA
+"100",220,"Hagenbuch",NA,NA
+"101",221,"Hettlingen",NA,NA
+"102",223,"Neftenbach",NA,NA
+"103",224,"Pfungen",NA,NA
+"104",225,"Rickenbach",NA,NA
+"105",226,"Schlatt",NA,NA
+"106",227,"Seuzach",NA,NA
+"107",228,"Turbenthal",NA,NA
+"108",231,"Zell",NA,NA
+"109",294,"Elgg",NA,NA
+"110",298,"Wiesendangen",NA,NA
+"111",21,"Adlikon",NA,NA
+"112",22,"Benken",NA,NA
+"113",23,"Berg am Irchel",NA,NA
+"114",24,"Buch am Irchel",NA,NA
+"115",25,"Dachsen",NA,NA
+"116",26,"Dorf",NA,NA
+"117",27,"Feuerthalen",NA,NA
+"118",28,"Flaach",NA,NA
+"119",29,"Flurlingen",NA,NA
+"120",30,"Andelfingen",NA,NA
+"121",31,"Henggart",NA,NA
+"122",32,"Humlikon",NA,NA
+"123",33,"Kleinandelfingen",NA,NA
+"124",34,"Laufen-Uhwiesen",NA,NA
+"125",35,"Marthalen",NA,NA
+"126",37,"Ossingen",NA,NA
+"127",38,"Rheinau",NA,NA
+"128",39,"Thalheim an der Thur",NA,NA
+"129",40,"Trüllikon",NA,NA
+"130",41,"Truttikon",NA,NA
+"131",43,"Volken",NA,NA
+"132",292,"Stammheim",NA,NA
+"133",51,"Bachenbülach",NA,NA
+"134",52,"Bassersdorf",NA,NA
+"135",53,"Bülach",NA,NA
+"136",54,"Dietlikon",NA,NA
+"137",55,"Eglisau",NA,NA
+"138",56,"Embrach",NA,NA
+"139",57,"Freienstein-Teufen",NA,NA
+"140",58,"Glattfelden",NA,NA
+"141",59,"Hochfelden",NA,NA
+"142",60,"Höri",NA,NA
+"143",61,"Hüntwangen",NA,NA
+"144",62,"Kloten",NA,NA
+"145",63,"Lufingen",NA,NA
+"146",64,"Nürensdorf",NA,NA
+"147",65,"Oberembrach",NA,NA
+"148",66,"Opfikon",NA,NA
+"149",67,"Rafz",NA,NA
+"150",68,"Rorbas",NA,NA
+"151",69,"Wallisellen",NA,NA
+"152",70,"Wasterkingen",NA,NA
+"153",71,"Wil",NA,NA
+"154",72,"Winkel",NA,NA
+"155",81,"Bachs",NA,NA
+"156",82,"Boppelsen",NA,NA
+"157",83,"Buchs",NA,NA
+"158",84,"Dällikon",NA,NA
+"159",85,"Dänikon",NA,NA
+"160",86,"Dielsdorf",NA,NA
+"161",87,"Hüttikon",NA,NA
+"162",88,"Neerach",NA,NA
+"163",89,"Niederglatt",NA,NA
+"164",90,"Niederhasli",NA,NA
+"165",91,"Niederweningen",NA,NA
+"166",92,"Oberglatt",NA,NA
+"167",93,"Oberweningen",NA,NA
+"168",94,"Otelfingen",NA,NA
+"169",95,"Regensberg",NA,NA
+"170",96,"Regensdorf",NA,NA
+"171",97,"Rümlang",NA,NA
+"172",98,"Schleinikon",NA,NA
+"173",99,"Schöfflisdorf",NA,NA
+"174",100,"Stadel",NA,NA
+"175",101,"Steinmaur",NA,NA
+"176",102,"Weiach",NA,NA
+"177",261,"Zürich",NA,NA
