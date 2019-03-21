@@ -61,27 +61,32 @@ wahlbetGem <- flatten(json_wahlbet$wahlbeteiligung_auf_gemeindeebene)
 
 #Hier das gleiche machen wie bei Kanton, da nur ein Object
 
+stadt <- json_wahlbet$wahlbeteiligung_stadtzh
+stadt <- toJSON(stadt)
+stadt <- c("[",stadt,"]")
+stadt <- jsonlite::fromJSON(stadt)
 #dann flatten
-wahlbetStadtZH <- flatten(json_wahlbet$wahlbeteiligung_stadtzh)
+wahlbetStadtZH <- stadt
 wahlbetStadtZH$gemeinde_bfsnr <- 261
+wahlbetStadtZH$gemeinde_bez <- "Zürich"
 
-wahlbetGem %>%
+wahlbetGem <- wahlbetGem %>%
     select(gemeinde_bfsnr,gemeinde_bez,wahlbeteiligung,letzte_wahl_wahlbeteiligung)
 
-wahlbetStadtZH %>%
+wahlbetStadtZH <- wahlbetStadtZH %>%
   select(gemeinde_bfsnr,gemeinde_bez,wahlbeteiligung,letzte_wahl_wahlbeteiligung)
 
 wahlbetGem <- rbind(wahlbetGem,wahlbetStadtZH)
 
 
-
 #Kantonsebene
 kanton <- json_wahlbet$wahlbeteiligung_auf_kantonsebene
-kanton <- data.frame(matrix(unlist(kanton)))
-                     
-kanton <- jsonlite::fromJSON(json_wahlbet$wahlbeteiligung_auf_kantonsebene)
-wahlbetZH <- flatten(kanton)
+kanton <- toJSON(kanton)
+kanton <- c("[",kanton,"]")
+kanton <- jsonlite::fromJSON(kanton)
 
+head(kanton)
+head(wahlbetZH)
 
 
 write.csv(wahlbetZH, file = "wahlbeteiligung_KRW2019_Kanton.csv")
