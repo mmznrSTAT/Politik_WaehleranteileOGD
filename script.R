@@ -2,7 +2,6 @@ library(rjson)
 library(jsonlite)
 library(dplyr)
 library(RJSONIO)
-library(tibble)
 
 #####################
 ##  Wähleranteile  ##
@@ -19,6 +18,8 @@ json_data1 <- jsonlite::fromJSON(json_file1)
 flat1 <- flatten(json_data$listen_auf_gemeindeebene)
 flat2 <- flatten(json_data$listen_stadtzh)
 flat3 <- flatten(json_data1$listen_auf_kantonsebene)
+
+head(flat1)
 
 flat2$wahlkreis_nr <- NA
 flat2$wahlkreis_bez <- NA
@@ -40,8 +41,8 @@ flat <- rbind(flat1,flat2)
 flat$jahr <- 2019
 flat3$jahr <- 2019
 
-flat <- flat %>%  select(jahr,gemeinde_bfsnr,waehlerproz)
-flat3 <- flat3 %>%  select(jahr,waehlerproz)
+flat <- flat %>%  select(jahr,gemeinde_bfsnr,listen_code,listen_nr,waehlerproz)
+flat3 <- flat3 %>%  select(jahr,listen_code,listen_nr,waehlerproz)
 
 
 write.csv(flat, file = "Waehleranteile_KRW19_Gemeinden.csv", row.names=FALSE)
