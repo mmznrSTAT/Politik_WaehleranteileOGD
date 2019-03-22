@@ -1,10 +1,6 @@
 # Wähleranteile und Wahlbeteiligung KRW2019 für GPZH
 
-R Skript zur Erstellung von csv-Dateien für den Import ins GPZH
-
-## Getting Started
-
-Nimmt die beiden
+R Skript zur Erstellung von csv-Dateien für die Wähleranteile und die Wahlbeteiligung bei den Kantonsratswahlen 2019 zum Import ins GPZH
 
 ## Datengrundlage
 
