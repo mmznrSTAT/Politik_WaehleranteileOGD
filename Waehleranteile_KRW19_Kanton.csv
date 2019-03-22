@@ -1,14 +1,14 @@
-"","listen_nr","listen_code","stimmentotal","stimmenproz","waehler","waehler_zr","waehlerproz","waehlerproz_zr","sitze","letzte_wahl_stimmenproz","letzte_wahl_waehlerproz","letzte_wahl_waehlerproz_zr","letzte_wahl_sitze","gewinn_stimmenproz","gewinn_waehlerproz","gewinn_waehlerproz_zr","gewinn_sitze"
-"1",1,"SVP",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,54,NA,NA,NA,NA
-"2",2,"SP",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,36,NA,NA,NA,NA
-"3",3,"FDP",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA,NA
-"4",4,"GLP",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,NA,NA,NA,NA
-"5",5,"Grüne",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
-"6",6,"CVP",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,NA,NA,NA,NA
-"7",7,"EVP",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,NA,NA,NA,NA
-"8",8,"AL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,NA,NA
-"9",9,"BDP",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,NA,NA
-"10",10,"EDU",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,NA,NA
-"11",11,"Helvida",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"12",12,"die Guten",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"13",13,"PdA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"listen_nr","listen_code","stimmentotal","stimmenproz","waehler","waehler_zr","waehlerproz","waehlerproz_zr","sitze","letzte_wahl_stimmenproz","letzte_wahl_waehlerproz","letzte_wahl_waehlerproz_zr","letzte_wahl_sitze","gewinn_stimmenproz","gewinn_waehlerproz","gewinn_waehlerproz_zr","gewinn_sitze"
+1,"SVP",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,54,NA,NA,NA,NA
+2,"SP",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,36,NA,NA,NA,NA
+3,"FDP",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,NA,NA,NA,NA
+4,"GLP",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,NA,NA,NA,NA
+5,"Grüne",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,13,NA,NA,NA,NA
+6,"CVP",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9,NA,NA,NA,NA
+7,"EVP",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,NA,NA,NA,NA
+8,"AL",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,NA,NA
+9,"BDP",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,NA,NA
+10,"EDU",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,NA,NA
+11,"Helvida",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+12,"die Guten",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+13,"PdA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
