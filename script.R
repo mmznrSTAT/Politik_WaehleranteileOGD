@@ -1,9 +1,3 @@
-install.packages("rjson")
-install.packages("jsonlite")
-
-install.packages("RJSONIO")
-
-
 library("rjson")
 library(jsonlite)
 library(dplyr)
@@ -42,8 +36,8 @@ flat2$letzte_wahl_sitze <- NULL
 
 flat <- rbind(flat1,flat2)
 
-write.csv(flat, file = "Waehleranteile_KRW19_Gemeinden.csv")
-write.csv(flat3, file = "Waehleranteile_KRW19_Kanton.csv")
+write.csv(flat, file = "Waehleranteile_KRW19_Gemeinden.csv", row.names=FALSE)
+write.csv(flat3, file = "Waehleranteile_KRW19_Kanton.csv", row.names=FALSE)
 
 
 #####################
@@ -89,7 +83,7 @@ wahlbetZH$gemeinde_bez <- "Kanton Zürich"
 wahlbetZH <- wahlbetZH %>%
   select(gemeinde_bfsnr,gemeinde_bez,wahlbeteiligung,letzte_wahl_wahlbeteiligung)
 
-write.csv(wahlbetZH, file = "wahlbeteiligung_KRW2019_Kanton.csv")
-write.csv(wahlbetGem, file = "wahlbeteiligung_KRW2019_Gemeinden.csv")
+write.csv(wahlbetZH, file = "wahlbeteiligung_KRW2019_Kanton.csv", row.names=FALSE)
+write.csv(wahlbetGem, file = "wahlbeteiligung_KRW2019_Gemeinden.csv", row.names=FALSE)
 
 
