@@ -1,1784 +1,1784 @@
-"listen_nr","listen_code","wahlkreis_nr","wahlkreis_bez","gemeinde_bfsnr","gemeinde_bez","stimmentotal","stimmenproz","waehler","waehlerproz","letzte_wahl_stimmenproz","letzte_wahl_waehlerproz","gewinn_stimmenproz","gewinn_waehlerproz"
-1,"SVP",1,"Wahlkreis I, Stadt Zürich 1+2",10261,"Zürich, Kreis 1+2",NA,NA,NA,NA,17.64,17.64,NA,NA
-2,"SP",1,"Wahlkreis I, Stadt Zürich 1+2",10261,"Zürich, Kreis 1+2",NA,NA,NA,NA,26.65,26.65,NA,NA
-3,"FDP",1,"Wahlkreis I, Stadt Zürich 1+2",10261,"Zürich, Kreis 1+2",NA,NA,NA,NA,22.25,22.25,NA,NA
-4,"GLP",1,"Wahlkreis I, Stadt Zürich 1+2",10261,"Zürich, Kreis 1+2",NA,NA,NA,NA,8.71,8.71,NA,NA
-5,"Grüne",1,"Wahlkreis I, Stadt Zürich 1+2",10261,"Zürich, Kreis 1+2",NA,NA,NA,NA,11.95,11.95,NA,NA
-6,"CVP",1,"Wahlkreis I, Stadt Zürich 1+2",10261,"Zürich, Kreis 1+2",NA,NA,NA,NA,4.69,4.69,NA,NA
-7,"EVP",1,"Wahlkreis I, Stadt Zürich 1+2",10261,"Zürich, Kreis 1+2",NA,NA,NA,NA,1.67,1.67,NA,NA
-8,"AL",1,"Wahlkreis I, Stadt Zürich 1+2",10261,"Zürich, Kreis 1+2",NA,NA,NA,NA,5.61,5.61,NA,NA
-10,"EDU",1,"Wahlkreis I, Stadt Zürich 1+2",10261,"Zürich, Kreis 1+2",NA,NA,NA,NA,0.83,0.83,NA,NA
-13,"PdA",1,"Wahlkreis I, Stadt Zürich 1+2",10261,"Zürich, Kreis 1+2",NA,NA,NA,NA,NA,NA,NA,NA
-1,"SVP",2,"Wahlkreis II, Stadt Zürich 3+9",20261,"Zürich, Kreis 3",NA,NA,NA,NA,15.6,15.6,NA,NA
-2,"SP",2,"Wahlkreis II, Stadt Zürich 3+9",20261,"Zürich, Kreis 3",NA,NA,NA,NA,32.09,32.09,NA,NA
-3,"FDP",2,"Wahlkreis II, Stadt Zürich 3+9",20261,"Zürich, Kreis 3",NA,NA,NA,NA,11.49,11.49,NA,NA
-4,"GLP",2,"Wahlkreis II, Stadt Zürich 3+9",20261,"Zürich, Kreis 3",NA,NA,NA,NA,8.7,8.7,NA,NA
-5,"Grüne",2,"Wahlkreis II, Stadt Zürich 3+9",20261,"Zürich, Kreis 3",NA,NA,NA,NA,12.7,12.7,NA,NA
-6,"CVP",2,"Wahlkreis II, Stadt Zürich 3+9",20261,"Zürich, Kreis 3",NA,NA,NA,NA,3.73,3.73,NA,NA
-7,"EVP",2,"Wahlkreis II, Stadt Zürich 3+9",20261,"Zürich, Kreis 3",NA,NA,NA,NA,1.49,1.49,NA,NA
-8,"AL",2,"Wahlkreis II, Stadt Zürich 3+9",20261,"Zürich, Kreis 3",NA,NA,NA,NA,11.26,11.26,NA,NA
-9,"BDP",2,"Wahlkreis II, Stadt Zürich 3+9",20261,"Zürich, Kreis 3",NA,NA,NA,NA,0.64,0.64,NA,NA
-10,"EDU",2,"Wahlkreis II, Stadt Zürich 3+9",20261,"Zürich, Kreis 3",NA,NA,NA,NA,0.58,0.58,NA,NA
-12,"die Guten",2,"Wahlkreis II, Stadt Zürich 3+9",20261,"Zürich, Kreis 3",NA,NA,NA,NA,NA,NA,NA,NA
-13,"PdA",2,"Wahlkreis II, Stadt Zürich 3+9",20261,"Zürich, Kreis 3",NA,NA,NA,NA,NA,NA,NA,NA
-1,"SVP",2,"Wahlkreis II, Stadt Zürich 3+9",60261,"Zürich, Kreis 9",NA,NA,NA,NA,25.63,25.63,NA,NA
-2,"SP",2,"Wahlkreis II, Stadt Zürich 3+9",60261,"Zürich, Kreis 9",NA,NA,NA,NA,27.35,27.35,NA,NA
-3,"FDP",2,"Wahlkreis II, Stadt Zürich 3+9",60261,"Zürich, Kreis 9",NA,NA,NA,NA,12.98,12.98,NA,NA
-4,"GLP",2,"Wahlkreis II, Stadt Zürich 3+9",60261,"Zürich, Kreis 9",NA,NA,NA,NA,6.49,6.49,NA,NA
-5,"Grüne",2,"Wahlkreis II, Stadt Zürich 3+9",60261,"Zürich, Kreis 9",NA,NA,NA,NA,8.26,8.26,NA,NA
-6,"CVP",2,"Wahlkreis II, Stadt Zürich 3+9",60261,"Zürich, Kreis 9",NA,NA,NA,NA,6.71,6.71,NA,NA
-7,"EVP",2,"Wahlkreis II, Stadt Zürich 3+9",60261,"Zürich, Kreis 9",NA,NA,NA,NA,4.07,4.07,NA,NA
-8,"AL",2,"Wahlkreis II, Stadt Zürich 3+9",60261,"Zürich, Kreis 9",NA,NA,NA,NA,5.33,5.33,NA,NA
-9,"BDP",2,"Wahlkreis II, Stadt Zürich 3+9",60261,"Zürich, Kreis 9",NA,NA,NA,NA,1.19,1.19,NA,NA
-10,"EDU",2,"Wahlkreis II, Stadt Zürich 3+9",60261,"Zürich, Kreis 9",NA,NA,NA,NA,0.68,0.68,NA,NA
-12,"die Guten",2,"Wahlkreis II, Stadt Zürich 3+9",60261,"Zürich, Kreis 9",NA,NA,NA,NA,NA,NA,NA,NA
-13,"PdA",2,"Wahlkreis II, Stadt Zürich 3+9",60261,"Zürich, Kreis 9",NA,NA,NA,NA,NA,NA,NA,NA
-1,"SVP",3,"Wahlkreis III, Stadt Zürich 4+5",30261,"Zürich, Kreis 4+5",NA,NA,NA,NA,9.26,9.26,NA,NA
-2,"SP",3,"Wahlkreis III, Stadt Zürich 4+5",30261,"Zürich, Kreis 4+5",NA,NA,NA,NA,31.3,31.3,NA,NA
-3,"FDP",3,"Wahlkreis III, Stadt Zürich 4+5",30261,"Zürich, Kreis 4+5",NA,NA,NA,NA,9.18,9.18,NA,NA
-4,"GLP",3,"Wahlkreis III, Stadt Zürich 4+5",30261,"Zürich, Kreis 4+5",NA,NA,NA,NA,9.93,9.93,NA,NA
-5,"Grüne",3,"Wahlkreis III, Stadt Zürich 4+5",30261,"Zürich, Kreis 4+5",NA,NA,NA,NA,15.39,15.39,NA,NA
-6,"CVP",3,"Wahlkreis III, Stadt Zürich 4+5",30261,"Zürich, Kreis 4+5",NA,NA,NA,NA,2.19,2.19,NA,NA
-7,"EVP",3,"Wahlkreis III, Stadt Zürich 4+5",30261,"Zürich, Kreis 4+5",NA,NA,NA,NA,0.97,0.97,NA,NA
-8,"AL",3,"Wahlkreis III, Stadt Zürich 4+5",30261,"Zürich, Kreis 4+5",NA,NA,NA,NA,17.77,17.77,NA,NA
-10,"EDU",3,"Wahlkreis III, Stadt Zürich 4+5",30261,"Zürich, Kreis 4+5",NA,NA,NA,NA,0.56,0.56,NA,NA
-13,"PdA",3,"Wahlkreis III, Stadt Zürich 4+5",30261,"Zürich, Kreis 4+5",NA,NA,NA,NA,NA,NA,NA,NA
-1,"SVP",4,"Wahlkreis IV, Stadt Zürich 6+10",40261,"Zürich, Kreis 6",NA,NA,NA,NA,13.96,13.96,NA,NA
-2,"SP",4,"Wahlkreis IV, Stadt Zürich 6+10",40261,"Zürich, Kreis 6",NA,NA,NA,NA,31.07,31.07,NA,NA
-3,"FDP",4,"Wahlkreis IV, Stadt Zürich 6+10",40261,"Zürich, Kreis 6",NA,NA,NA,NA,16.18,16.18,NA,NA
-4,"GLP",4,"Wahlkreis IV, Stadt Zürich 6+10",40261,"Zürich, Kreis 6",NA,NA,NA,NA,9.23,9.23,NA,NA
-5,"Grüne",4,"Wahlkreis IV, Stadt Zürich 6+10",40261,"Zürich, Kreis 6",NA,NA,NA,NA,11.68,11.68,NA,NA
-6,"CVP",4,"Wahlkreis IV, Stadt Zürich 6+10",40261,"Zürich, Kreis 6",NA,NA,NA,NA,4.02,4.02,NA,NA
-7,"EVP",4,"Wahlkreis IV, Stadt Zürich 6+10",40261,"Zürich, Kreis 6",NA,NA,NA,NA,2.08,2.08,NA,NA
-8,"AL",4,"Wahlkreis IV, Stadt Zürich 6+10",40261,"Zürich, Kreis 6",NA,NA,NA,NA,9.08,9.08,NA,NA
-9,"BDP",4,"Wahlkreis IV, Stadt Zürich 6+10",40261,"Zürich, Kreis 6",NA,NA,NA,NA,1.27,1.27,NA,NA
-10,"EDU",4,"Wahlkreis IV, Stadt Zürich 6+10",40261,"Zürich, Kreis 6",NA,NA,NA,NA,0.61,0.61,NA,NA
-11,"Helvida",4,"Wahlkreis IV, Stadt Zürich 6+10",40261,"Zürich, Kreis 6",NA,NA,NA,NA,NA,NA,NA,NA
-13,"PdA",4,"Wahlkreis IV, Stadt Zürich 6+10",40261,"Zürich, Kreis 6",NA,NA,NA,NA,NA,NA,NA,NA
-1,"SVP",4,"Wahlkreis IV, Stadt Zürich 6+10",70261,"Zürich, Kreis 10",NA,NA,NA,NA,18.99,18.99,NA,NA
-2,"SP",4,"Wahlkreis IV, Stadt Zürich 6+10",70261,"Zürich, Kreis 10",NA,NA,NA,NA,29.08,29.08,NA,NA
-3,"FDP",4,"Wahlkreis IV, Stadt Zürich 6+10",70261,"Zürich, Kreis 10",NA,NA,NA,NA,16.14,16.14,NA,NA
-4,"GLP",4,"Wahlkreis IV, Stadt Zürich 6+10",70261,"Zürich, Kreis 10",NA,NA,NA,NA,8.36,8.36,NA,NA
-5,"Grüne",4,"Wahlkreis IV, Stadt Zürich 6+10",70261,"Zürich, Kreis 10",NA,NA,NA,NA,9.34,9.34,NA,NA
-6,"CVP",4,"Wahlkreis IV, Stadt Zürich 6+10",70261,"Zürich, Kreis 10",NA,NA,NA,NA,3.78,3.78,NA,NA
-7,"EVP",4,"Wahlkreis IV, Stadt Zürich 6+10",70261,"Zürich, Kreis 10",NA,NA,NA,NA,2.28,2.28,NA,NA
-8,"AL",4,"Wahlkreis IV, Stadt Zürich 6+10",70261,"Zürich, Kreis 10",NA,NA,NA,NA,9.18,9.18,NA,NA
-9,"BDP",4,"Wahlkreis IV, Stadt Zürich 6+10",70261,"Zürich, Kreis 10",NA,NA,NA,NA,1.34,1.34,NA,NA
-10,"EDU",4,"Wahlkreis IV, Stadt Zürich 6+10",70261,"Zürich, Kreis 10",NA,NA,NA,NA,0.6,0.6,NA,NA
-11,"Helvida",4,"Wahlkreis IV, Stadt Zürich 6+10",70261,"Zürich, Kreis 10",NA,NA,NA,NA,NA,NA,NA,NA
-13,"PdA",4,"Wahlkreis IV, Stadt Zürich 6+10",70261,"Zürich, Kreis 10",NA,NA,NA,NA,NA,NA,NA,NA
-1,"SVP",5,"Wahlkreis V, Stadt Zürich 7+8",50261,"Zürich, Kreis 7+8",NA,NA,NA,NA,16.29,16.29,NA,NA
-2,"SP",5,"Wahlkreis V, Stadt Zürich 7+8",50261,"Zürich, Kreis 7+8",NA,NA,NA,NA,24.56,24.56,NA,NA
-3,"FDP",5,"Wahlkreis V, Stadt Zürich 7+8",50261,"Zürich, Kreis 7+8",NA,NA,NA,NA,27.27,27.27,NA,NA
-4,"GLP",5,"Wahlkreis V, Stadt Zürich 7+8",50261,"Zürich, Kreis 7+8",NA,NA,NA,NA,8.3,8.3,NA,NA
-5,"Grüne",5,"Wahlkreis V, Stadt Zürich 7+8",50261,"Zürich, Kreis 7+8",NA,NA,NA,NA,10.68,10.68,NA,NA
-6,"CVP",5,"Wahlkreis V, Stadt Zürich 7+8",50261,"Zürich, Kreis 7+8",NA,NA,NA,NA,4.6,4.6,NA,NA
-7,"EVP",5,"Wahlkreis V, Stadt Zürich 7+8",50261,"Zürich, Kreis 7+8",NA,NA,NA,NA,2.26,2.26,NA,NA
-8,"AL",5,"Wahlkreis V, Stadt Zürich 7+8",50261,"Zürich, Kreis 7+8",NA,NA,NA,NA,4.81,4.81,NA,NA
-10,"EDU",5,"Wahlkreis V, Stadt Zürich 7+8",50261,"Zürich, Kreis 7+8",NA,NA,NA,NA,0.45,0.45,NA,NA
-13,"PdA",5,"Wahlkreis V, Stadt Zürich 7+8",50261,"Zürich, Kreis 7+8",NA,NA,NA,NA,NA,NA,NA,NA
-1,"SVP",6,"Wahlkreis VI, Stadt Zürich 11+12",80261,"Zürich, Kreis 11",NA,NA,NA,NA,25.17,25.17,NA,NA
-2,"SP",6,"Wahlkreis VI, Stadt Zürich 11+12",80261,"Zürich, Kreis 11",NA,NA,NA,NA,26.65,26.65,NA,NA
-3,"FDP",6,"Wahlkreis VI, Stadt Zürich 11+12",80261,"Zürich, Kreis 11",NA,NA,NA,NA,12.43,12.43,NA,NA
-4,"GLP",6,"Wahlkreis VI, Stadt Zürich 11+12",80261,"Zürich, Kreis 11",NA,NA,NA,NA,8.59,8.59,NA,NA
-5,"Grüne",6,"Wahlkreis VI, Stadt Zürich 11+12",80261,"Zürich, Kreis 11",NA,NA,NA,NA,8.27,8.27,NA,NA
-6,"CVP",6,"Wahlkreis VI, Stadt Zürich 11+12",80261,"Zürich, Kreis 11",NA,NA,NA,NA,6.28,6.28,NA,NA
-7,"EVP",6,"Wahlkreis VI, Stadt Zürich 11+12",80261,"Zürich, Kreis 11",NA,NA,NA,NA,3.64,3.64,NA,NA
-8,"AL",6,"Wahlkreis VI, Stadt Zürich 11+12",80261,"Zürich, Kreis 11",NA,NA,NA,NA,4.32,4.32,NA,NA
-9,"BDP",6,"Wahlkreis VI, Stadt Zürich 11+12",80261,"Zürich, Kreis 11",NA,NA,NA,NA,2.17,2.17,NA,NA
-10,"EDU",6,"Wahlkreis VI, Stadt Zürich 11+12",80261,"Zürich, Kreis 11",NA,NA,NA,NA,1.32,1.32,NA,NA
-13,"PdA",6,"Wahlkreis VI, Stadt Zürich 11+12",80261,"Zürich, Kreis 11",NA,NA,NA,NA,NA,NA,NA,NA
-1,"SVP",6,"Wahlkreis VI, Stadt Zürich 11+12",90261,"Zürich, Kreis 12",NA,NA,NA,NA,30.01,30.01,NA,NA
-2,"SP",6,"Wahlkreis VI, Stadt Zürich 11+12",90261,"Zürich, Kreis 12",NA,NA,NA,NA,28.79,28.79,NA,NA
-3,"FDP",6,"Wahlkreis VI, Stadt Zürich 11+12",90261,"Zürich, Kreis 12",NA,NA,NA,NA,9.19,9.19,NA,NA
-4,"GLP",6,"Wahlkreis VI, Stadt Zürich 11+12",90261,"Zürich, Kreis 12",NA,NA,NA,NA,4.68,4.68,NA,NA
-5,"Grüne",6,"Wahlkreis VI, Stadt Zürich 11+12",90261,"Zürich, Kreis 12",NA,NA,NA,NA,7.43,7.43,NA,NA
-6,"CVP",6,"Wahlkreis VI, Stadt Zürich 11+12",90261,"Zürich, Kreis 12",NA,NA,NA,NA,6.99,6.99,NA,NA
-7,"EVP",6,"Wahlkreis VI, Stadt Zürich 11+12",90261,"Zürich, Kreis 12",NA,NA,NA,NA,3.34,3.34,NA,NA
-8,"AL",6,"Wahlkreis VI, Stadt Zürich 11+12",90261,"Zürich, Kreis 12",NA,NA,NA,NA,4.32,4.32,NA,NA
-9,"BDP",6,"Wahlkreis VI, Stadt Zürich 11+12",90261,"Zürich, Kreis 12",NA,NA,NA,NA,1.98,1.98,NA,NA
-10,"EDU",6,"Wahlkreis VI, Stadt Zürich 11+12",90261,"Zürich, Kreis 12",NA,NA,NA,NA,2.13,2.13,NA,NA
-13,"PdA",6,"Wahlkreis VI, Stadt Zürich 11+12",90261,"Zürich, Kreis 12",NA,NA,NA,NA,NA,NA,NA,NA
-1,"SVP",7,"Wahlkreis VII, Dietikon",241,"Aesch",NA,NA,NA,NA,41.46,41.46,NA,NA
-2,"SP",7,"Wahlkreis VII, Dietikon",241,"Aesch",NA,NA,NA,NA,11.99,11.99,NA,NA
-3,"FDP",7,"Wahlkreis VII, Dietikon",241,"Aesch",NA,NA,NA,NA,24.23,24.23,NA,NA
-4,"GLP",7,"Wahlkreis VII, Dietikon",241,"Aesch",NA,NA,NA,NA,6.37,6.37,NA,NA
-5,"Grüne",7,"Wahlkreis VII, Dietikon",241,"Aesch",NA,NA,NA,NA,3.15,3.15,NA,NA
-6,"CVP",7,"Wahlkreis VII, Dietikon",241,"Aesch",NA,NA,NA,NA,6.39,6.39,NA,NA
-7,"EVP",7,"Wahlkreis VII, Dietikon",241,"Aesch",NA,NA,NA,NA,1.62,1.62,NA,NA
-8,"AL",7,"Wahlkreis VII, Dietikon",241,"Aesch",NA,NA,NA,NA,0.12,0.12,NA,NA
-9,"BDP",7,"Wahlkreis VII, Dietikon",241,"Aesch",NA,NA,NA,NA,2.7,2.7,NA,NA
-10,"EDU",7,"Wahlkreis VII, Dietikon",241,"Aesch",NA,NA,NA,NA,1.72,1.72,NA,NA
-1,"SVP",7,"Wahlkreis VII, Dietikon",242,"Birmensdorf",NA,NA,NA,NA,36.01,36.01,NA,NA
-2,"SP",7,"Wahlkreis VII, Dietikon",242,"Birmensdorf",NA,NA,NA,NA,16.13,16.13,NA,NA
-3,"FDP",7,"Wahlkreis VII, Dietikon",242,"Birmensdorf",NA,NA,NA,NA,19.31,19.31,NA,NA
-4,"GLP",7,"Wahlkreis VII, Dietikon",242,"Birmensdorf",NA,NA,NA,NA,7.4,7.4,NA,NA
-5,"Grüne",7,"Wahlkreis VII, Dietikon",242,"Birmensdorf",NA,NA,NA,NA,4.39,4.39,NA,NA
-6,"CVP",7,"Wahlkreis VII, Dietikon",242,"Birmensdorf",NA,NA,NA,NA,8.73,8.73,NA,NA
-7,"EVP",7,"Wahlkreis VII, Dietikon",242,"Birmensdorf",NA,NA,NA,NA,1.9,1.9,NA,NA
-8,"AL",7,"Wahlkreis VII, Dietikon",242,"Birmensdorf",NA,NA,NA,NA,1.12,1.12,NA,NA
-9,"BDP",7,"Wahlkreis VII, Dietikon",242,"Birmensdorf",NA,NA,NA,NA,1.84,1.84,NA,NA
-10,"EDU",7,"Wahlkreis VII, Dietikon",242,"Birmensdorf",NA,NA,NA,NA,2.18,2.18,NA,NA
-1,"SVP",7,"Wahlkreis VII, Dietikon",243,"Dietikon",NA,NA,NA,NA,33.51,33.51,NA,NA
-2,"SP",7,"Wahlkreis VII, Dietikon",243,"Dietikon",NA,NA,NA,NA,19.98,19.98,NA,NA
-3,"FDP",7,"Wahlkreis VII, Dietikon",243,"Dietikon",NA,NA,NA,NA,13.38,13.38,NA,NA
-4,"GLP",7,"Wahlkreis VII, Dietikon",243,"Dietikon",NA,NA,NA,NA,4.49,4.49,NA,NA
-5,"Grüne",7,"Wahlkreis VII, Dietikon",243,"Dietikon",NA,NA,NA,NA,5.27,5.27,NA,NA
-6,"CVP",7,"Wahlkreis VII, Dietikon",243,"Dietikon",NA,NA,NA,NA,12.5,12.5,NA,NA
-7,"EVP",7,"Wahlkreis VII, Dietikon",243,"Dietikon",NA,NA,NA,NA,4.82,4.82,NA,NA
-8,"AL",7,"Wahlkreis VII, Dietikon",243,"Dietikon",NA,NA,NA,NA,2.38,2.38,NA,NA
-9,"BDP",7,"Wahlkreis VII, Dietikon",243,"Dietikon",NA,NA,NA,NA,1.37,1.37,NA,NA
-10,"EDU",7,"Wahlkreis VII, Dietikon",243,"Dietikon",NA,NA,NA,NA,1.42,1.42,NA,NA
-1,"SVP",7,"Wahlkreis VII, Dietikon",244,"Geroldswil",NA,NA,NA,NA,40.44,40.44,NA,NA
-2,"SP",7,"Wahlkreis VII, Dietikon",244,"Geroldswil",NA,NA,NA,NA,13.01,13.01,NA,NA
-3,"FDP",7,"Wahlkreis VII, Dietikon",244,"Geroldswil",NA,NA,NA,NA,25,25,NA,NA
-4,"GLP",7,"Wahlkreis VII, Dietikon",244,"Geroldswil",NA,NA,NA,NA,7.11,7.11,NA,NA
-5,"Grüne",7,"Wahlkreis VII, Dietikon",244,"Geroldswil",NA,NA,NA,NA,1.93,1.93,NA,NA
-6,"CVP",7,"Wahlkreis VII, Dietikon",244,"Geroldswil",NA,NA,NA,NA,6.25,6.25,NA,NA
-7,"EVP",7,"Wahlkreis VII, Dietikon",244,"Geroldswil",NA,NA,NA,NA,1.89,1.89,NA,NA
-8,"AL",7,"Wahlkreis VII, Dietikon",244,"Geroldswil",NA,NA,NA,NA,0.92,0.92,NA,NA
-9,"BDP",7,"Wahlkreis VII, Dietikon",244,"Geroldswil",NA,NA,NA,NA,1.89,1.89,NA,NA
-10,"EDU",7,"Wahlkreis VII, Dietikon",244,"Geroldswil",NA,NA,NA,NA,0.28,0.28,NA,NA
-1,"SVP",7,"Wahlkreis VII, Dietikon",245,"Oberengstringen",NA,NA,NA,NA,38.79,38.79,NA,NA
-2,"SP",7,"Wahlkreis VII, Dietikon",245,"Oberengstringen",NA,NA,NA,NA,18.84,18.84,NA,NA
-3,"FDP",7,"Wahlkreis VII, Dietikon",245,"Oberengstringen",NA,NA,NA,NA,17.66,17.66,NA,NA
-4,"GLP",7,"Wahlkreis VII, Dietikon",245,"Oberengstringen",NA,NA,NA,NA,3.39,3.39,NA,NA
-5,"Grüne",7,"Wahlkreis VII, Dietikon",245,"Oberengstringen",NA,NA,NA,NA,2.51,2.51,NA,NA
-6,"CVP",7,"Wahlkreis VII, Dietikon",245,"Oberengstringen",NA,NA,NA,NA,6.68,6.68,NA,NA
-7,"EVP",7,"Wahlkreis VII, Dietikon",245,"Oberengstringen",NA,NA,NA,NA,7.57,7.57,NA,NA
-8,"AL",7,"Wahlkreis VII, Dietikon",245,"Oberengstringen",NA,NA,NA,NA,2.05,2.05,NA,NA
-9,"BDP",7,"Wahlkreis VII, Dietikon",245,"Oberengstringen",NA,NA,NA,NA,1.35,1.35,NA,NA
-10,"EDU",7,"Wahlkreis VII, Dietikon",245,"Oberengstringen",NA,NA,NA,NA,0.58,0.58,NA,NA
-1,"SVP",7,"Wahlkreis VII, Dietikon",246,"Oetwil an der Limmat",NA,NA,NA,NA,44.33,44.33,NA,NA
-2,"SP",7,"Wahlkreis VII, Dietikon",246,"Oetwil an der Limmat",NA,NA,NA,NA,11.17,11.17,NA,NA
-3,"FDP",7,"Wahlkreis VII, Dietikon",246,"Oetwil an der Limmat",NA,NA,NA,NA,29.5,29.5,NA,NA
-4,"GLP",7,"Wahlkreis VII, Dietikon",246,"Oetwil an der Limmat",NA,NA,NA,NA,3.68,3.68,NA,NA
-5,"Grüne",7,"Wahlkreis VII, Dietikon",246,"Oetwil an der Limmat",NA,NA,NA,NA,1.97,1.97,NA,NA
-6,"CVP",7,"Wahlkreis VII, Dietikon",246,"Oetwil an der Limmat",NA,NA,NA,NA,4.74,4.74,NA,NA
-7,"EVP",7,"Wahlkreis VII, Dietikon",246,"Oetwil an der Limmat",NA,NA,NA,NA,1.3,1.3,NA,NA
-8,"AL",7,"Wahlkreis VII, Dietikon",246,"Oetwil an der Limmat",NA,NA,NA,NA,0.78,0.78,NA,NA
-9,"BDP",7,"Wahlkreis VII, Dietikon",246,"Oetwil an der Limmat",NA,NA,NA,NA,1.45,1.45,NA,NA
-10,"EDU",7,"Wahlkreis VII, Dietikon",246,"Oetwil an der Limmat",NA,NA,NA,NA,0.22,0.22,NA,NA
-1,"SVP",7,"Wahlkreis VII, Dietikon",247,"Schlieren",NA,NA,NA,NA,30.39,30.39,NA,NA
-2,"SP",7,"Wahlkreis VII, Dietikon",247,"Schlieren",NA,NA,NA,NA,23.54,23.54,NA,NA
-3,"FDP",7,"Wahlkreis VII, Dietikon",247,"Schlieren",NA,NA,NA,NA,17.01,17.01,NA,NA
-4,"GLP",7,"Wahlkreis VII, Dietikon",247,"Schlieren",NA,NA,NA,NA,6.42,6.42,NA,NA
-5,"Grüne",7,"Wahlkreis VII, Dietikon",247,"Schlieren",NA,NA,NA,NA,4.4,4.4,NA,NA
-6,"CVP",7,"Wahlkreis VII, Dietikon",247,"Schlieren",NA,NA,NA,NA,9.79,9.79,NA,NA
-7,"EVP",7,"Wahlkreis VII, Dietikon",247,"Schlieren",NA,NA,NA,NA,4.54,4.54,NA,NA
-8,"AL",7,"Wahlkreis VII, Dietikon",247,"Schlieren",NA,NA,NA,NA,1.04,1.04,NA,NA
-9,"BDP",7,"Wahlkreis VII, Dietikon",247,"Schlieren",NA,NA,NA,NA,0.89,0.89,NA,NA
-10,"EDU",7,"Wahlkreis VII, Dietikon",247,"Schlieren",NA,NA,NA,NA,1.05,1.05,NA,NA
-1,"SVP",7,"Wahlkreis VII, Dietikon",248,"Uitikon",NA,NA,NA,NA,30.32,30.32,NA,NA
-2,"SP",7,"Wahlkreis VII, Dietikon",248,"Uitikon",NA,NA,NA,NA,8.9,8.9,NA,NA
-3,"FDP",7,"Wahlkreis VII, Dietikon",248,"Uitikon",NA,NA,NA,NA,40.07,40.07,NA,NA
-4,"GLP",7,"Wahlkreis VII, Dietikon",248,"Uitikon",NA,NA,NA,NA,7.41,7.41,NA,NA
-5,"Grüne",7,"Wahlkreis VII, Dietikon",248,"Uitikon",NA,NA,NA,NA,3.38,3.38,NA,NA
-6,"CVP",7,"Wahlkreis VII, Dietikon",248,"Uitikon",NA,NA,NA,NA,4.57,4.57,NA,NA
-7,"EVP",7,"Wahlkreis VII, Dietikon",248,"Uitikon",NA,NA,NA,NA,1.09,1.09,NA,NA
-8,"AL",7,"Wahlkreis VII, Dietikon",248,"Uitikon",NA,NA,NA,NA,0.68,0.68,NA,NA
-9,"BDP",7,"Wahlkreis VII, Dietikon",248,"Uitikon",NA,NA,NA,NA,1.55,1.55,NA,NA
-10,"EDU",7,"Wahlkreis VII, Dietikon",248,"Uitikon",NA,NA,NA,NA,1.57,1.57,NA,NA
-1,"SVP",7,"Wahlkreis VII, Dietikon",249,"Unterengstringen",NA,NA,NA,NA,46.83,46.83,NA,NA
-2,"SP",7,"Wahlkreis VII, Dietikon",249,"Unterengstringen",NA,NA,NA,NA,10.17,10.17,NA,NA
-3,"FDP",7,"Wahlkreis VII, Dietikon",249,"Unterengstringen",NA,NA,NA,NA,26.88,26.88,NA,NA
-4,"GLP",7,"Wahlkreis VII, Dietikon",249,"Unterengstringen",NA,NA,NA,NA,3.27,3.27,NA,NA
-5,"Grüne",7,"Wahlkreis VII, Dietikon",249,"Unterengstringen",NA,NA,NA,NA,1.81,1.81,NA,NA
-6,"CVP",7,"Wahlkreis VII, Dietikon",249,"Unterengstringen",NA,NA,NA,NA,5.26,5.26,NA,NA
-7,"EVP",7,"Wahlkreis VII, Dietikon",249,"Unterengstringen",NA,NA,NA,NA,3.25,3.25,NA,NA
-8,"AL",7,"Wahlkreis VII, Dietikon",249,"Unterengstringen",NA,NA,NA,NA,0.25,0.25,NA,NA
-9,"BDP",7,"Wahlkreis VII, Dietikon",249,"Unterengstringen",NA,NA,NA,NA,1.23,1.23,NA,NA
-10,"EDU",7,"Wahlkreis VII, Dietikon",249,"Unterengstringen",NA,NA,NA,NA,1,1,NA,NA
-1,"SVP",7,"Wahlkreis VII, Dietikon",250,"Urdorf",NA,NA,NA,NA,34.88,34.88,NA,NA
-2,"SP",7,"Wahlkreis VII, Dietikon",250,"Urdorf",NA,NA,NA,NA,22.19,22.19,NA,NA
-3,"FDP",7,"Wahlkreis VII, Dietikon",250,"Urdorf",NA,NA,NA,NA,15.32,15.32,NA,NA
-4,"GLP",7,"Wahlkreis VII, Dietikon",250,"Urdorf",NA,NA,NA,NA,6.07,6.07,NA,NA
-5,"Grüne",7,"Wahlkreis VII, Dietikon",250,"Urdorf",NA,NA,NA,NA,3.61,3.61,NA,NA
-6,"CVP",7,"Wahlkreis VII, Dietikon",250,"Urdorf",NA,NA,NA,NA,8.8,8.8,NA,NA
-7,"EVP",7,"Wahlkreis VII, Dietikon",250,"Urdorf",NA,NA,NA,NA,5.21,5.21,NA,NA
-8,"AL",7,"Wahlkreis VII, Dietikon",250,"Urdorf",NA,NA,NA,NA,0.66,0.66,NA,NA
-9,"BDP",7,"Wahlkreis VII, Dietikon",250,"Urdorf",NA,NA,NA,NA,2.4,2.4,NA,NA
-10,"EDU",7,"Wahlkreis VII, Dietikon",250,"Urdorf",NA,NA,NA,NA,0.41,0.41,NA,NA
-1,"SVP",7,"Wahlkreis VII, Dietikon",251,"Weiningen",NA,NA,NA,NA,48.11,48.11,NA,NA
-2,"SP",7,"Wahlkreis VII, Dietikon",251,"Weiningen",NA,NA,NA,NA,14.7,14.7,NA,NA
-3,"FDP",7,"Wahlkreis VII, Dietikon",251,"Weiningen",NA,NA,NA,NA,17.36,17.36,NA,NA
-4,"GLP",7,"Wahlkreis VII, Dietikon",251,"Weiningen",NA,NA,NA,NA,5.76,5.76,NA,NA
-5,"Grüne",7,"Wahlkreis VII, Dietikon",251,"Weiningen",NA,NA,NA,NA,2.15,2.15,NA,NA
-6,"CVP",7,"Wahlkreis VII, Dietikon",251,"Weiningen",NA,NA,NA,NA,4.44,4.44,NA,NA
-7,"EVP",7,"Wahlkreis VII, Dietikon",251,"Weiningen",NA,NA,NA,NA,2.8,2.8,NA,NA
-8,"AL",7,"Wahlkreis VII, Dietikon",251,"Weiningen",NA,NA,NA,NA,0.91,0.91,NA,NA
-9,"BDP",7,"Wahlkreis VII, Dietikon",251,"Weiningen",NA,NA,NA,NA,1.85,1.85,NA,NA
-10,"EDU",7,"Wahlkreis VII, Dietikon",251,"Weiningen",NA,NA,NA,NA,1.43,1.43,NA,NA
-1,"SVP",8,"Wahlkreis VIII, Affoltern",1,"Aeugst am Albis",NA,NA,NA,NA,26.18,26.18,NA,NA
-2,"SP",8,"Wahlkreis VIII, Affoltern",1,"Aeugst am Albis",NA,NA,NA,NA,18.6,18.6,NA,NA
-3,"FDP",8,"Wahlkreis VIII, Affoltern",1,"Aeugst am Albis",NA,NA,NA,NA,20.93,20.93,NA,NA
-4,"GLP",8,"Wahlkreis VIII, Affoltern",1,"Aeugst am Albis",NA,NA,NA,NA,9.97,9.97,NA,NA
-5,"Grüne",8,"Wahlkreis VIII, Affoltern",1,"Aeugst am Albis",NA,NA,NA,NA,8.1,8.1,NA,NA
-6,"CVP",8,"Wahlkreis VIII, Affoltern",1,"Aeugst am Albis",NA,NA,NA,NA,0.88,0.88,NA,NA
-7,"EVP",8,"Wahlkreis VIII, Affoltern",1,"Aeugst am Albis",NA,NA,NA,NA,8.35,8.35,NA,NA
-8,"AL",8,"Wahlkreis VIII, Affoltern",1,"Aeugst am Albis",NA,NA,NA,NA,1.34,1.34,NA,NA
-9,"BDP",8,"Wahlkreis VIII, Affoltern",1,"Aeugst am Albis",NA,NA,NA,NA,NA,NA,NA,NA
-10,"EDU",8,"Wahlkreis VIII, Affoltern",1,"Aeugst am Albis",NA,NA,NA,NA,5.29,5.29,NA,NA
-1,"SVP",8,"Wahlkreis VIII, Affoltern",2,"Affoltern am Albis",NA,NA,NA,NA,29.97,29.97,NA,NA
-2,"SP",8,"Wahlkreis VIII, Affoltern",2,"Affoltern am Albis",NA,NA,NA,NA,16.31,16.31,NA,NA
-3,"FDP",8,"Wahlkreis VIII, Affoltern",2,"Affoltern am Albis",NA,NA,NA,NA,15.24,15.24,NA,NA
-4,"GLP",8,"Wahlkreis VIII, Affoltern",2,"Affoltern am Albis",NA,NA,NA,NA,6.84,6.84,NA,NA
-5,"Grüne",8,"Wahlkreis VIII, Affoltern",2,"Affoltern am Albis",NA,NA,NA,NA,8.42,8.42,NA,NA
-6,"CVP",8,"Wahlkreis VIII, Affoltern",2,"Affoltern am Albis",NA,NA,NA,NA,4.65,4.65,NA,NA
-7,"EVP",8,"Wahlkreis VIII, Affoltern",2,"Affoltern am Albis",NA,NA,NA,NA,15.11,15.11,NA,NA
-8,"AL",8,"Wahlkreis VIII, Affoltern",2,"Affoltern am Albis",NA,NA,NA,NA,0.86,0.86,NA,NA
-9,"BDP",8,"Wahlkreis VIII, Affoltern",2,"Affoltern am Albis",NA,NA,NA,NA,NA,NA,NA,NA
-10,"EDU",8,"Wahlkreis VIII, Affoltern",2,"Affoltern am Albis",NA,NA,NA,NA,1.89,1.89,NA,NA
-1,"SVP",8,"Wahlkreis VIII, Affoltern",3,"Bonstetten",NA,NA,NA,NA,28.33,28.33,NA,NA
-2,"SP",8,"Wahlkreis VIII, Affoltern",3,"Bonstetten",NA,NA,NA,NA,19.78,19.78,NA,NA
-3,"FDP",8,"Wahlkreis VIII, Affoltern",3,"Bonstetten",NA,NA,NA,NA,21.6,21.6,NA,NA
-4,"GLP",8,"Wahlkreis VIII, Affoltern",3,"Bonstetten",NA,NA,NA,NA,10.51,10.51,NA,NA
-5,"Grüne",8,"Wahlkreis VIII, Affoltern",3,"Bonstetten",NA,NA,NA,NA,8.66,8.66,NA,NA
-6,"CVP",8,"Wahlkreis VIII, Affoltern",3,"Bonstetten",NA,NA,NA,NA,2.34,2.34,NA,NA
-7,"EVP",8,"Wahlkreis VIII, Affoltern",3,"Bonstetten",NA,NA,NA,NA,5.4,5.4,NA,NA
-8,"AL",8,"Wahlkreis VIII, Affoltern",3,"Bonstetten",NA,NA,NA,NA,1.49,1.49,NA,NA
-9,"BDP",8,"Wahlkreis VIII, Affoltern",3,"Bonstetten",NA,NA,NA,NA,NA,NA,NA,NA
-10,"EDU",8,"Wahlkreis VIII, Affoltern",3,"Bonstetten",NA,NA,NA,NA,1.3,1.3,NA,NA
-1,"SVP",8,"Wahlkreis VIII, Affoltern",4,"Hausen am Albis",NA,NA,NA,NA,35.16,35.16,NA,NA
-2,"SP",8,"Wahlkreis VIII, Affoltern",4,"Hausen am Albis",NA,NA,NA,NA,19.98,19.98,NA,NA
-3,"FDP",8,"Wahlkreis VIII, Affoltern",4,"Hausen am Albis",NA,NA,NA,NA,14.71,14.71,NA,NA
-4,"GLP",8,"Wahlkreis VIII, Affoltern",4,"Hausen am Albis",NA,NA,NA,NA,8.43,8.43,NA,NA
-5,"Grüne",8,"Wahlkreis VIII, Affoltern",4,"Hausen am Albis",NA,NA,NA,NA,9.49,9.49,NA,NA
-6,"CVP",8,"Wahlkreis VIII, Affoltern",4,"Hausen am Albis",NA,NA,NA,NA,2.07,2.07,NA,NA
-7,"EVP",8,"Wahlkreis VIII, Affoltern",4,"Hausen am Albis",NA,NA,NA,NA,6.94,6.94,NA,NA
-8,"AL",8,"Wahlkreis VIII, Affoltern",4,"Hausen am Albis",NA,NA,NA,NA,1.12,1.12,NA,NA
-9,"BDP",8,"Wahlkreis VIII, Affoltern",4,"Hausen am Albis",NA,NA,NA,NA,NA,NA,NA,NA
-10,"EDU",8,"Wahlkreis VIII, Affoltern",4,"Hausen am Albis",NA,NA,NA,NA,1.41,1.41,NA,NA
-1,"SVP",8,"Wahlkreis VIII, Affoltern",5,"Hedingen",NA,NA,NA,NA,31.02,31.02,NA,NA
-2,"SP",8,"Wahlkreis VIII, Affoltern",5,"Hedingen",NA,NA,NA,NA,21.22,21.22,NA,NA
-3,"FDP",8,"Wahlkreis VIII, Affoltern",5,"Hedingen",NA,NA,NA,NA,19.11,19.11,NA,NA
-4,"GLP",8,"Wahlkreis VIII, Affoltern",5,"Hedingen",NA,NA,NA,NA,7.93,7.93,NA,NA
-5,"Grüne",8,"Wahlkreis VIII, Affoltern",5,"Hedingen",NA,NA,NA,NA,8.34,8.34,NA,NA
-6,"CVP",8,"Wahlkreis VIII, Affoltern",5,"Hedingen",NA,NA,NA,NA,2.82,2.82,NA,NA
-7,"EVP",8,"Wahlkreis VIII, Affoltern",5,"Hedingen",NA,NA,NA,NA,6.94,6.94,NA,NA
-8,"AL",8,"Wahlkreis VIII, Affoltern",5,"Hedingen",NA,NA,NA,NA,0.52,0.52,NA,NA
-9,"BDP",8,"Wahlkreis VIII, Affoltern",5,"Hedingen",NA,NA,NA,NA,NA,NA,NA,NA
-10,"EDU",8,"Wahlkreis VIII, Affoltern",5,"Hedingen",NA,NA,NA,NA,1.9,1.9,NA,NA
-1,"SVP",8,"Wahlkreis VIII, Affoltern",6,"Kappel am Albis",NA,NA,NA,NA,45.27,45.27,NA,NA
-2,"SP",8,"Wahlkreis VIII, Affoltern",6,"Kappel am Albis",NA,NA,NA,NA,9.61,9.61,NA,NA
-3,"FDP",8,"Wahlkreis VIII, Affoltern",6,"Kappel am Albis",NA,NA,NA,NA,16.07,16.07,NA,NA
-4,"GLP",8,"Wahlkreis VIII, Affoltern",6,"Kappel am Albis",NA,NA,NA,NA,8.56,8.56,NA,NA
-5,"Grüne",8,"Wahlkreis VIII, Affoltern",6,"Kappel am Albis",NA,NA,NA,NA,5.78,5.78,NA,NA
-6,"CVP",8,"Wahlkreis VIII, Affoltern",6,"Kappel am Albis",NA,NA,NA,NA,1.73,1.73,NA,NA
-7,"EVP",8,"Wahlkreis VIII, Affoltern",6,"Kappel am Albis",NA,NA,NA,NA,10.89,10.89,NA,NA
-8,"AL",8,"Wahlkreis VIII, Affoltern",6,"Kappel am Albis",NA,NA,NA,NA,1.73,1.73,NA,NA
-9,"BDP",8,"Wahlkreis VIII, Affoltern",6,"Kappel am Albis",NA,NA,NA,NA,NA,NA,NA,NA
-10,"EDU",8,"Wahlkreis VIII, Affoltern",6,"Kappel am Albis",NA,NA,NA,NA,0,0,NA,NA
-1,"SVP",8,"Wahlkreis VIII, Affoltern",7,"Knonau",NA,NA,NA,NA,35.41,35.41,NA,NA
-2,"SP",8,"Wahlkreis VIII, Affoltern",7,"Knonau",NA,NA,NA,NA,19.78,19.78,NA,NA
-3,"FDP",8,"Wahlkreis VIII, Affoltern",7,"Knonau",NA,NA,NA,NA,11.44,11.44,NA,NA
-4,"GLP",8,"Wahlkreis VIII, Affoltern",7,"Knonau",NA,NA,NA,NA,7.83,7.83,NA,NA
-5,"Grüne",8,"Wahlkreis VIII, Affoltern",7,"Knonau",NA,NA,NA,NA,5.95,5.95,NA,NA
-6,"CVP",8,"Wahlkreis VIII, Affoltern",7,"Knonau",NA,NA,NA,NA,5.11,5.11,NA,NA
-7,"EVP",8,"Wahlkreis VIII, Affoltern",7,"Knonau",NA,NA,NA,NA,9.95,9.95,NA,NA
-8,"AL",8,"Wahlkreis VIII, Affoltern",7,"Knonau",NA,NA,NA,NA,0.31,0.31,NA,NA
-9,"BDP",8,"Wahlkreis VIII, Affoltern",7,"Knonau",NA,NA,NA,NA,NA,NA,NA,NA
-10,"EDU",8,"Wahlkreis VIII, Affoltern",7,"Knonau",NA,NA,NA,NA,3.92,3.92,NA,NA
-1,"SVP",8,"Wahlkreis VIII, Affoltern",8,"Maschwanden",NA,NA,NA,NA,40.68,40.68,NA,NA
-2,"SP",8,"Wahlkreis VIII, Affoltern",8,"Maschwanden",NA,NA,NA,NA,26.97,26.97,NA,NA
-3,"FDP",8,"Wahlkreis VIII, Affoltern",8,"Maschwanden",NA,NA,NA,NA,5.04,5.04,NA,NA
-4,"GLP",8,"Wahlkreis VIII, Affoltern",8,"Maschwanden",NA,NA,NA,NA,7.89,7.89,NA,NA
-5,"Grüne",8,"Wahlkreis VIII, Affoltern",8,"Maschwanden",NA,NA,NA,NA,5.48,5.48,NA,NA
-6,"CVP",8,"Wahlkreis VIII, Affoltern",8,"Maschwanden",NA,NA,NA,NA,1.43,1.43,NA,NA
-7,"EVP",8,"Wahlkreis VIII, Affoltern",8,"Maschwanden",NA,NA,NA,NA,8.44,8.44,NA,NA
-8,"AL",8,"Wahlkreis VIII, Affoltern",8,"Maschwanden",NA,NA,NA,NA,1.43,1.43,NA,NA
-9,"BDP",8,"Wahlkreis VIII, Affoltern",8,"Maschwanden",NA,NA,NA,NA,NA,NA,NA,NA
-10,"EDU",8,"Wahlkreis VIII, Affoltern",8,"Maschwanden",NA,NA,NA,NA,1.54,1.54,NA,NA
-1,"SVP",8,"Wahlkreis VIII, Affoltern",9,"Mettmenstetten",NA,NA,NA,NA,35.46,35.46,NA,NA
-2,"SP",8,"Wahlkreis VIII, Affoltern",9,"Mettmenstetten",NA,NA,NA,NA,19.37,19.37,NA,NA
-3,"FDP",8,"Wahlkreis VIII, Affoltern",9,"Mettmenstetten",NA,NA,NA,NA,14.5,14.5,NA,NA
-4,"GLP",8,"Wahlkreis VIII, Affoltern",9,"Mettmenstetten",NA,NA,NA,NA,7.78,7.78,NA,NA
-5,"Grüne",8,"Wahlkreis VIII, Affoltern",9,"Mettmenstetten",NA,NA,NA,NA,5.49,5.49,NA,NA
-6,"CVP",8,"Wahlkreis VIII, Affoltern",9,"Mettmenstetten",NA,NA,NA,NA,4.15,4.15,NA,NA
-7,"EVP",8,"Wahlkreis VIII, Affoltern",9,"Mettmenstetten",NA,NA,NA,NA,8.56,8.56,NA,NA
-8,"AL",8,"Wahlkreis VIII, Affoltern",9,"Mettmenstetten",NA,NA,NA,NA,0.58,0.58,NA,NA
-9,"BDP",8,"Wahlkreis VIII, Affoltern",9,"Mettmenstetten",NA,NA,NA,NA,NA,NA,NA,NA
-10,"EDU",8,"Wahlkreis VIII, Affoltern",9,"Mettmenstetten",NA,NA,NA,NA,3.76,3.76,NA,NA
-1,"SVP",8,"Wahlkreis VIII, Affoltern",10,"Obfelden",NA,NA,NA,NA,33.91,33.91,NA,NA
-2,"SP",8,"Wahlkreis VIII, Affoltern",10,"Obfelden",NA,NA,NA,NA,16.61,16.61,NA,NA
-3,"FDP",8,"Wahlkreis VIII, Affoltern",10,"Obfelden",NA,NA,NA,NA,17.28,17.28,NA,NA
-4,"GLP",8,"Wahlkreis VIII, Affoltern",10,"Obfelden",NA,NA,NA,NA,6.44,6.44,NA,NA
-5,"Grüne",8,"Wahlkreis VIII, Affoltern",10,"Obfelden",NA,NA,NA,NA,4.85,4.85,NA,NA
-6,"CVP",8,"Wahlkreis VIII, Affoltern",10,"Obfelden",NA,NA,NA,NA,6.89,6.89,NA,NA
-7,"EVP",8,"Wahlkreis VIII, Affoltern",10,"Obfelden",NA,NA,NA,NA,9.01,9.01,NA,NA
-8,"AL",8,"Wahlkreis VIII, Affoltern",10,"Obfelden",NA,NA,NA,NA,0.98,0.98,NA,NA
-9,"BDP",8,"Wahlkreis VIII, Affoltern",10,"Obfelden",NA,NA,NA,NA,NA,NA,NA,NA
-10,"EDU",8,"Wahlkreis VIII, Affoltern",10,"Obfelden",NA,NA,NA,NA,3.69,3.69,NA,NA
-1,"SVP",8,"Wahlkreis VIII, Affoltern",11,"Ottenbach",NA,NA,NA,NA,35.8,35.8,NA,NA
-2,"SP",8,"Wahlkreis VIII, Affoltern",11,"Ottenbach",NA,NA,NA,NA,18.35,18.35,NA,NA
-3,"FDP",8,"Wahlkreis VIII, Affoltern",11,"Ottenbach",NA,NA,NA,NA,16.69,16.69,NA,NA
-4,"GLP",8,"Wahlkreis VIII, Affoltern",11,"Ottenbach",NA,NA,NA,NA,8.17,8.17,NA,NA
-5,"Grüne",8,"Wahlkreis VIII, Affoltern",11,"Ottenbach",NA,NA,NA,NA,6.81,6.81,NA,NA
-6,"CVP",8,"Wahlkreis VIII, Affoltern",11,"Ottenbach",NA,NA,NA,NA,2.74,2.74,NA,NA
-7,"EVP",8,"Wahlkreis VIII, Affoltern",11,"Ottenbach",NA,NA,NA,NA,7.48,7.48,NA,NA
-8,"AL",8,"Wahlkreis VIII, Affoltern",11,"Ottenbach",NA,NA,NA,NA,1.01,1.01,NA,NA
-9,"BDP",8,"Wahlkreis VIII, Affoltern",11,"Ottenbach",NA,NA,NA,NA,NA,NA,NA,NA
-10,"EDU",8,"Wahlkreis VIII, Affoltern",11,"Ottenbach",NA,NA,NA,NA,2.35,2.35,NA,NA
-1,"SVP",8,"Wahlkreis VIII, Affoltern",12,"Rifferswil",NA,NA,NA,NA,29.22,29.22,NA,NA
-2,"SP",8,"Wahlkreis VIII, Affoltern",12,"Rifferswil",NA,NA,NA,NA,15.38,15.38,NA,NA
-3,"FDP",8,"Wahlkreis VIII, Affoltern",12,"Rifferswil",NA,NA,NA,NA,7.99,7.99,NA,NA
-4,"GLP",8,"Wahlkreis VIII, Affoltern",12,"Rifferswil",NA,NA,NA,NA,9.08,9.08,NA,NA
-5,"Grüne",8,"Wahlkreis VIII, Affoltern",12,"Rifferswil",NA,NA,NA,NA,9.77,9.77,NA,NA
-6,"CVP",8,"Wahlkreis VIII, Affoltern",12,"Rifferswil",NA,NA,NA,NA,0.94,0.94,NA,NA
-7,"EVP",8,"Wahlkreis VIII, Affoltern",12,"Rifferswil",NA,NA,NA,NA,20.54,20.54,NA,NA
-8,"AL",8,"Wahlkreis VIII, Affoltern",12,"Rifferswil",NA,NA,NA,NA,4.07,4.07,NA,NA
-9,"BDP",8,"Wahlkreis VIII, Affoltern",12,"Rifferswil",NA,NA,NA,NA,NA,NA,NA,NA
-10,"EDU",8,"Wahlkreis VIII, Affoltern",12,"Rifferswil",NA,NA,NA,NA,2.43,2.43,NA,NA
-1,"SVP",8,"Wahlkreis VIII, Affoltern",13,"Stallikon",NA,NA,NA,NA,36.32,36.32,NA,NA
-2,"SP",8,"Wahlkreis VIII, Affoltern",13,"Stallikon",NA,NA,NA,NA,18.17,18.17,NA,NA
-3,"FDP",8,"Wahlkreis VIII, Affoltern",13,"Stallikon",NA,NA,NA,NA,24.55,24.55,NA,NA
-4,"GLP",8,"Wahlkreis VIII, Affoltern",13,"Stallikon",NA,NA,NA,NA,7.58,7.58,NA,NA
-5,"Grüne",8,"Wahlkreis VIII, Affoltern",13,"Stallikon",NA,NA,NA,NA,3.91,3.91,NA,NA
-6,"CVP",8,"Wahlkreis VIII, Affoltern",13,"Stallikon",NA,NA,NA,NA,3.49,3.49,NA,NA
-7,"EVP",8,"Wahlkreis VIII, Affoltern",13,"Stallikon",NA,NA,NA,NA,3.28,3.28,NA,NA
-8,"AL",8,"Wahlkreis VIII, Affoltern",13,"Stallikon",NA,NA,NA,NA,0.86,0.86,NA,NA
-9,"BDP",8,"Wahlkreis VIII, Affoltern",13,"Stallikon",NA,NA,NA,NA,NA,NA,NA,NA
-10,"EDU",8,"Wahlkreis VIII, Affoltern",13,"Stallikon",NA,NA,NA,NA,1.11,1.11,NA,NA
-1,"SVP",8,"Wahlkreis VIII, Affoltern",14,"Wettswil am Albis",NA,NA,NA,NA,28.76,28.76,NA,NA
-2,"SP",8,"Wahlkreis VIII, Affoltern",14,"Wettswil am Albis",NA,NA,NA,NA,16.12,16.12,NA,NA
-3,"FDP",8,"Wahlkreis VIII, Affoltern",14,"Wettswil am Albis",NA,NA,NA,NA,28.79,28.79,NA,NA
-4,"GLP",8,"Wahlkreis VIII, Affoltern",14,"Wettswil am Albis",NA,NA,NA,NA,9.53,9.53,NA,NA
-5,"Grüne",8,"Wahlkreis VIII, Affoltern",14,"Wettswil am Albis",NA,NA,NA,NA,4.5,4.5,NA,NA
-6,"CVP",8,"Wahlkreis VIII, Affoltern",14,"Wettswil am Albis",NA,NA,NA,NA,6.52,6.52,NA,NA
-7,"EVP",8,"Wahlkreis VIII, Affoltern",14,"Wettswil am Albis",NA,NA,NA,NA,3.28,3.28,NA,NA
-8,"AL",8,"Wahlkreis VIII, Affoltern",14,"Wettswil am Albis",NA,NA,NA,NA,0.76,0.76,NA,NA
-9,"BDP",8,"Wahlkreis VIII, Affoltern",14,"Wettswil am Albis",NA,NA,NA,NA,NA,NA,NA,NA
-10,"EDU",8,"Wahlkreis VIII, Affoltern",14,"Wettswil am Albis",NA,NA,NA,NA,1.19,1.19,NA,NA
-1,"SVP",9,"Wahlkreis IX, Horgen",131,"Adliswil",NA,NA,NA,NA,31.18,31.18,NA,NA
-2,"SP",9,"Wahlkreis IX, Horgen",131,"Adliswil",NA,NA,NA,NA,20.3,20.3,NA,NA
-3,"FDP",9,"Wahlkreis IX, Horgen",131,"Adliswil",NA,NA,NA,NA,18.03,18.03,NA,NA
-4,"GLP",9,"Wahlkreis IX, Horgen",131,"Adliswil",NA,NA,NA,NA,5.82,5.82,NA,NA
-5,"Grüne",9,"Wahlkreis IX, Horgen",131,"Adliswil",NA,NA,NA,NA,5.07,5.07,NA,NA
-6,"CVP",9,"Wahlkreis IX, Horgen",131,"Adliswil",NA,NA,NA,NA,9.41,9.41,NA,NA
-7,"EVP",9,"Wahlkreis IX, Horgen",131,"Adliswil",NA,NA,NA,NA,3.98,3.98,NA,NA
-8,"AL",9,"Wahlkreis IX, Horgen",131,"Adliswil",NA,NA,NA,NA,1.29,1.29,NA,NA
-9,"BDP",9,"Wahlkreis IX, Horgen",131,"Adliswil",NA,NA,NA,NA,3.16,3.16,NA,NA
-10,"EDU",9,"Wahlkreis IX, Horgen",131,"Adliswil",NA,NA,NA,NA,1.2,1.2,NA,NA
-1,"SVP",9,"Wahlkreis IX, Horgen",135,"Kilchberg",NA,NA,NA,NA,24.96,24.96,NA,NA
-2,"SP",9,"Wahlkreis IX, Horgen",135,"Kilchberg",NA,NA,NA,NA,10.87,10.87,NA,NA
-3,"FDP",9,"Wahlkreis IX, Horgen",135,"Kilchberg",NA,NA,NA,NA,35.9,35.9,NA,NA
-4,"GLP",9,"Wahlkreis IX, Horgen",135,"Kilchberg",NA,NA,NA,NA,9.8,9.8,NA,NA
-5,"Grüne",9,"Wahlkreis IX, Horgen",135,"Kilchberg",NA,NA,NA,NA,6.8,6.8,NA,NA
-6,"CVP",9,"Wahlkreis IX, Horgen",135,"Kilchberg",NA,NA,NA,NA,5.44,5.44,NA,NA
-7,"EVP",9,"Wahlkreis IX, Horgen",135,"Kilchberg",NA,NA,NA,NA,1.98,1.98,NA,NA
-8,"AL",9,"Wahlkreis IX, Horgen",135,"Kilchberg",NA,NA,NA,NA,1.25,1.25,NA,NA
-9,"BDP",9,"Wahlkreis IX, Horgen",135,"Kilchberg",NA,NA,NA,NA,1.42,1.42,NA,NA
-10,"EDU",9,"Wahlkreis IX, Horgen",135,"Kilchberg",NA,NA,NA,NA,1.17,1.17,NA,NA
-1,"SVP",9,"Wahlkreis IX, Horgen",136,"Langnau am Albis",NA,NA,NA,NA,29.45,29.45,NA,NA
-2,"SP",9,"Wahlkreis IX, Horgen",136,"Langnau am Albis",NA,NA,NA,NA,14.27,14.27,NA,NA
-3,"FDP",9,"Wahlkreis IX, Horgen",136,"Langnau am Albis",NA,NA,NA,NA,22.01,22.01,NA,NA
-4,"GLP",9,"Wahlkreis IX, Horgen",136,"Langnau am Albis",NA,NA,NA,NA,10.17,10.17,NA,NA
-5,"Grüne",9,"Wahlkreis IX, Horgen",136,"Langnau am Albis",NA,NA,NA,NA,3.36,3.36,NA,NA
-6,"CVP",9,"Wahlkreis IX, Horgen",136,"Langnau am Albis",NA,NA,NA,NA,11.94,11.94,NA,NA
-7,"EVP",9,"Wahlkreis IX, Horgen",136,"Langnau am Albis",NA,NA,NA,NA,3.17,3.17,NA,NA
-8,"AL",9,"Wahlkreis IX, Horgen",136,"Langnau am Albis",NA,NA,NA,NA,1.46,1.46,NA,NA
-9,"BDP",9,"Wahlkreis IX, Horgen",136,"Langnau am Albis",NA,NA,NA,NA,2.26,2.26,NA,NA
-10,"EDU",9,"Wahlkreis IX, Horgen",136,"Langnau am Albis",NA,NA,NA,NA,1.62,1.62,NA,NA
-1,"SVP",9,"Wahlkreis IX, Horgen",137,"Oberrieden",NA,NA,NA,NA,28.7,28.7,NA,NA
-2,"SP",9,"Wahlkreis IX, Horgen",137,"Oberrieden",NA,NA,NA,NA,16.29,16.29,NA,NA
-3,"FDP",9,"Wahlkreis IX, Horgen",137,"Oberrieden",NA,NA,NA,NA,25.91,25.91,NA,NA
-4,"GLP",9,"Wahlkreis IX, Horgen",137,"Oberrieden",NA,NA,NA,NA,8.25,8.25,NA,NA
-5,"Grüne",9,"Wahlkreis IX, Horgen",137,"Oberrieden",NA,NA,NA,NA,6.44,6.44,NA,NA
-6,"CVP",9,"Wahlkreis IX, Horgen",137,"Oberrieden",NA,NA,NA,NA,4.85,4.85,NA,NA
-7,"EVP",9,"Wahlkreis IX, Horgen",137,"Oberrieden",NA,NA,NA,NA,3.81,3.81,NA,NA
-8,"AL",9,"Wahlkreis IX, Horgen",137,"Oberrieden",NA,NA,NA,NA,1.2,1.2,NA,NA
-9,"BDP",9,"Wahlkreis IX, Horgen",137,"Oberrieden",NA,NA,NA,NA,2.78,2.78,NA,NA
-10,"EDU",9,"Wahlkreis IX, Horgen",137,"Oberrieden",NA,NA,NA,NA,1.69,1.69,NA,NA
-1,"SVP",9,"Wahlkreis IX, Horgen",138,"Richterswil",NA,NA,NA,NA,33.16,33.16,NA,NA
-2,"SP",9,"Wahlkreis IX, Horgen",138,"Richterswil",NA,NA,NA,NA,21.62,21.62,NA,NA
-3,"FDP",9,"Wahlkreis IX, Horgen",138,"Richterswil",NA,NA,NA,NA,15.92,15.92,NA,NA
-4,"GLP",9,"Wahlkreis IX, Horgen",138,"Richterswil",NA,NA,NA,NA,6.87,6.87,NA,NA
-5,"Grüne",9,"Wahlkreis IX, Horgen",138,"Richterswil",NA,NA,NA,NA,5.61,5.61,NA,NA
-6,"CVP",9,"Wahlkreis IX, Horgen",138,"Richterswil",NA,NA,NA,NA,7.19,7.19,NA,NA
-7,"EVP",9,"Wahlkreis IX, Horgen",138,"Richterswil",NA,NA,NA,NA,3.8,3.8,NA,NA
-8,"AL",9,"Wahlkreis IX, Horgen",138,"Richterswil",NA,NA,NA,NA,0.89,0.89,NA,NA
-9,"BDP",9,"Wahlkreis IX, Horgen",138,"Richterswil",NA,NA,NA,NA,2.68,2.68,NA,NA
-10,"EDU",9,"Wahlkreis IX, Horgen",138,"Richterswil",NA,NA,NA,NA,1.85,1.85,NA,NA
-1,"SVP",9,"Wahlkreis IX, Horgen",139,"Rüschlikon",NA,NA,NA,NA,25.55,25.55,NA,NA
-2,"SP",9,"Wahlkreis IX, Horgen",139,"Rüschlikon",NA,NA,NA,NA,11.54,11.54,NA,NA
-3,"FDP",9,"Wahlkreis IX, Horgen",139,"Rüschlikon",NA,NA,NA,NA,33.28,33.28,NA,NA
-4,"GLP",9,"Wahlkreis IX, Horgen",139,"Rüschlikon",NA,NA,NA,NA,8.94,8.94,NA,NA
-5,"Grüne",9,"Wahlkreis IX, Horgen",139,"Rüschlikon",NA,NA,NA,NA,5.74,5.74,NA,NA
-6,"CVP",9,"Wahlkreis IX, Horgen",139,"Rüschlikon",NA,NA,NA,NA,8.16,8.16,NA,NA
-7,"EVP",9,"Wahlkreis IX, Horgen",139,"Rüschlikon",NA,NA,NA,NA,2.39,2.39,NA,NA
-8,"AL",9,"Wahlkreis IX, Horgen",139,"Rüschlikon",NA,NA,NA,NA,1.12,1.12,NA,NA
-9,"BDP",9,"Wahlkreis IX, Horgen",139,"Rüschlikon",NA,NA,NA,NA,2.09,2.09,NA,NA
-10,"EDU",9,"Wahlkreis IX, Horgen",139,"Rüschlikon",NA,NA,NA,NA,0.92,0.92,NA,NA
-1,"SVP",9,"Wahlkreis IX, Horgen",141,"Thalwil",NA,NA,NA,NA,23.78,23.78,NA,NA
-2,"SP",9,"Wahlkreis IX, Horgen",141,"Thalwil",NA,NA,NA,NA,17.87,17.87,NA,NA
-3,"FDP",9,"Wahlkreis IX, Horgen",141,"Thalwil",NA,NA,NA,NA,25.35,25.35,NA,NA
-4,"GLP",9,"Wahlkreis IX, Horgen",141,"Thalwil",NA,NA,NA,NA,10.04,10.04,NA,NA
-5,"Grüne",9,"Wahlkreis IX, Horgen",141,"Thalwil",NA,NA,NA,NA,5.48,5.48,NA,NA
-6,"CVP",9,"Wahlkreis IX, Horgen",141,"Thalwil",NA,NA,NA,NA,6.89,6.89,NA,NA
-7,"EVP",9,"Wahlkreis IX, Horgen",141,"Thalwil",NA,NA,NA,NA,4.02,4.02,NA,NA
-8,"AL",9,"Wahlkreis IX, Horgen",141,"Thalwil",NA,NA,NA,NA,1.95,1.95,NA,NA
-9,"BDP",9,"Wahlkreis IX, Horgen",141,"Thalwil",NA,NA,NA,NA,2.97,2.97,NA,NA
-10,"EDU",9,"Wahlkreis IX, Horgen",141,"Thalwil",NA,NA,NA,NA,1.25,1.25,NA,NA
-1,"SVP",9,"Wahlkreis IX, Horgen",293,"Wädenswil",NA,NA,NA,NA,31.7,31.7,NA,NA
-2,"SP",9,"Wahlkreis IX, Horgen",293,"Wädenswil",NA,NA,NA,NA,16.25,16.25,NA,NA
-3,"FDP",9,"Wahlkreis IX, Horgen",293,"Wädenswil",NA,NA,NA,NA,16.04,16.04,NA,NA
-4,"GLP",9,"Wahlkreis IX, Horgen",293,"Wädenswil",NA,NA,NA,NA,6.1,6.1,NA,NA
-5,"Grüne",9,"Wahlkreis IX, Horgen",293,"Wädenswil",NA,NA,NA,NA,7.16,7.16,NA,NA
-6,"CVP",9,"Wahlkreis IX, Horgen",293,"Wädenswil",NA,NA,NA,NA,10.01,10.01,NA,NA
-7,"EVP",9,"Wahlkreis IX, Horgen",293,"Wädenswil",NA,NA,NA,NA,6.52,6.52,NA,NA
-8,"AL",9,"Wahlkreis IX, Horgen",293,"Wädenswil",NA,NA,NA,NA,1.08,1.08,NA,NA
-9,"BDP",9,"Wahlkreis IX, Horgen",293,"Wädenswil",NA,NA,NA,NA,2.74,2.74,NA,NA
-10,"EDU",9,"Wahlkreis IX, Horgen",293,"Wädenswil",NA,NA,NA,NA,2.04,2.04,NA,NA
-1,"SVP",9,"Wahlkreis IX, Horgen",295,"Horgen",NA,NA,NA,NA,31.12,31.12,NA,NA
-2,"SP",9,"Wahlkreis IX, Horgen",295,"Horgen",NA,NA,NA,NA,16.47,16.47,NA,NA
-3,"FDP",9,"Wahlkreis IX, Horgen",295,"Horgen",NA,NA,NA,NA,22.2,22.2,NA,NA
-4,"GLP",9,"Wahlkreis IX, Horgen",295,"Horgen",NA,NA,NA,NA,6.39,6.39,NA,NA
-5,"Grüne",9,"Wahlkreis IX, Horgen",295,"Horgen",NA,NA,NA,NA,6.03,6.03,NA,NA
-6,"CVP",9,"Wahlkreis IX, Horgen",295,"Horgen",NA,NA,NA,NA,7.24,7.24,NA,NA
-7,"EVP",9,"Wahlkreis IX, Horgen",295,"Horgen",NA,NA,NA,NA,3.76,3.76,NA,NA
-8,"AL",9,"Wahlkreis IX, Horgen",295,"Horgen",NA,NA,NA,NA,1.1,1.1,NA,NA
-9,"BDP",9,"Wahlkreis IX, Horgen",295,"Horgen",NA,NA,NA,NA,3.99,3.99,NA,NA
-10,"EDU",9,"Wahlkreis IX, Horgen",295,"Horgen",NA,NA,NA,NA,1.37,1.37,NA,NA
-1,"SVP",10,"Wahlkreis X, Meilen",151,"Erlenbach",NA,NA,NA,NA,28.06,28.06,NA,NA
-2,"SP",10,"Wahlkreis X, Meilen",151,"Erlenbach",NA,NA,NA,NA,10.78,10.78,NA,NA
-3,"FDP",10,"Wahlkreis X, Meilen",151,"Erlenbach",NA,NA,NA,NA,38.49,38.49,NA,NA
-4,"GLP",10,"Wahlkreis X, Meilen",151,"Erlenbach",NA,NA,NA,NA,5.96,5.96,NA,NA
-5,"Grüne",10,"Wahlkreis X, Meilen",151,"Erlenbach",NA,NA,NA,NA,6.81,6.81,NA,NA
-6,"CVP",10,"Wahlkreis X, Meilen",151,"Erlenbach",NA,NA,NA,NA,6.02,6.02,NA,NA
-7,"EVP",10,"Wahlkreis X, Meilen",151,"Erlenbach",NA,NA,NA,NA,0.97,0.97,NA,NA
-8,"AL",10,"Wahlkreis X, Meilen",151,"Erlenbach",NA,NA,NA,NA,1.07,1.07,NA,NA
-9,"BDP",10,"Wahlkreis X, Meilen",151,"Erlenbach",NA,NA,NA,NA,1.01,1.01,NA,NA
-10,"EDU",10,"Wahlkreis X, Meilen",151,"Erlenbach",NA,NA,NA,NA,0.83,0.83,NA,NA
-1,"SVP",10,"Wahlkreis X, Meilen",152,"Herrliberg",NA,NA,NA,NA,40.38,40.38,NA,NA
-2,"SP",10,"Wahlkreis X, Meilen",152,"Herrliberg",NA,NA,NA,NA,8.86,8.86,NA,NA
-3,"FDP",10,"Wahlkreis X, Meilen",152,"Herrliberg",NA,NA,NA,NA,32.57,32.57,NA,NA
-4,"GLP",10,"Wahlkreis X, Meilen",152,"Herrliberg",NA,NA,NA,NA,5.88,5.88,NA,NA
-5,"Grüne",10,"Wahlkreis X, Meilen",152,"Herrliberg",NA,NA,NA,NA,4.1,4.1,NA,NA
-6,"CVP",10,"Wahlkreis X, Meilen",152,"Herrliberg",NA,NA,NA,NA,4.17,4.17,NA,NA
-7,"EVP",10,"Wahlkreis X, Meilen",152,"Herrliberg",NA,NA,NA,NA,1.09,1.09,NA,NA
-8,"AL",10,"Wahlkreis X, Meilen",152,"Herrliberg",NA,NA,NA,NA,1.07,1.07,NA,NA
-9,"BDP",10,"Wahlkreis X, Meilen",152,"Herrliberg",NA,NA,NA,NA,1.34,1.34,NA,NA
-10,"EDU",10,"Wahlkreis X, Meilen",152,"Herrliberg",NA,NA,NA,NA,0.53,0.53,NA,NA
-1,"SVP",10,"Wahlkreis X, Meilen",153,"Hombrechtikon",NA,NA,NA,NA,41.07,41.07,NA,NA
-2,"SP",10,"Wahlkreis X, Meilen",153,"Hombrechtikon",NA,NA,NA,NA,14.8,14.8,NA,NA
-3,"FDP",10,"Wahlkreis X, Meilen",153,"Hombrechtikon",NA,NA,NA,NA,12.06,12.06,NA,NA
-4,"GLP",10,"Wahlkreis X, Meilen",153,"Hombrechtikon",NA,NA,NA,NA,7.22,7.22,NA,NA
-5,"Grüne",10,"Wahlkreis X, Meilen",153,"Hombrechtikon",NA,NA,NA,NA,5.22,5.22,NA,NA
-6,"CVP",10,"Wahlkreis X, Meilen",153,"Hombrechtikon",NA,NA,NA,NA,4.06,4.06,NA,NA
-7,"EVP",10,"Wahlkreis X, Meilen",153,"Hombrechtikon",NA,NA,NA,NA,4.62,4.62,NA,NA
-8,"AL",10,"Wahlkreis X, Meilen",153,"Hombrechtikon",NA,NA,NA,NA,1.36,1.36,NA,NA
-9,"BDP",10,"Wahlkreis X, Meilen",153,"Hombrechtikon",NA,NA,NA,NA,3.22,3.22,NA,NA
-10,"EDU",10,"Wahlkreis X, Meilen",153,"Hombrechtikon",NA,NA,NA,NA,6.37,6.37,NA,NA
-1,"SVP",10,"Wahlkreis X, Meilen",154,"Küsnacht",NA,NA,NA,NA,32.52,32.52,NA,NA
-2,"SP",10,"Wahlkreis X, Meilen",154,"Küsnacht",NA,NA,NA,NA,11.1,11.1,NA,NA
-3,"FDP",10,"Wahlkreis X, Meilen",154,"Küsnacht",NA,NA,NA,NA,35.83,35.83,NA,NA
-4,"GLP",10,"Wahlkreis X, Meilen",154,"Küsnacht",NA,NA,NA,NA,6.58,6.58,NA,NA
-5,"Grüne",10,"Wahlkreis X, Meilen",154,"Küsnacht",NA,NA,NA,NA,4.6,4.6,NA,NA
-6,"CVP",10,"Wahlkreis X, Meilen",154,"Küsnacht",NA,NA,NA,NA,3.68,3.68,NA,NA
-7,"EVP",10,"Wahlkreis X, Meilen",154,"Küsnacht",NA,NA,NA,NA,1.65,1.65,NA,NA
-8,"AL",10,"Wahlkreis X, Meilen",154,"Küsnacht",NA,NA,NA,NA,1.41,1.41,NA,NA
-9,"BDP",10,"Wahlkreis X, Meilen",154,"Küsnacht",NA,NA,NA,NA,1.82,1.82,NA,NA
-10,"EDU",10,"Wahlkreis X, Meilen",154,"Küsnacht",NA,NA,NA,NA,0.79,0.79,NA,NA
-1,"SVP",10,"Wahlkreis X, Meilen",155,"Männedorf",NA,NA,NA,NA,27.99,27.99,NA,NA
-2,"SP",10,"Wahlkreis X, Meilen",155,"Männedorf",NA,NA,NA,NA,18.08,18.08,NA,NA
-3,"FDP",10,"Wahlkreis X, Meilen",155,"Männedorf",NA,NA,NA,NA,20.37,20.37,NA,NA
-4,"GLP",10,"Wahlkreis X, Meilen",155,"Männedorf",NA,NA,NA,NA,8.87,8.87,NA,NA
-5,"Grüne",10,"Wahlkreis X, Meilen",155,"Männedorf",NA,NA,NA,NA,6.48,6.48,NA,NA
-6,"CVP",10,"Wahlkreis X, Meilen",155,"Männedorf",NA,NA,NA,NA,6.87,6.87,NA,NA
-7,"EVP",10,"Wahlkreis X, Meilen",155,"Männedorf",NA,NA,NA,NA,3.28,3.28,NA,NA
-8,"AL",10,"Wahlkreis X, Meilen",155,"Männedorf",NA,NA,NA,NA,1.32,1.32,NA,NA
-9,"BDP",10,"Wahlkreis X, Meilen",155,"Männedorf",NA,NA,NA,NA,2.02,2.02,NA,NA
-10,"EDU",10,"Wahlkreis X, Meilen",155,"Männedorf",NA,NA,NA,NA,4.73,4.73,NA,NA
-1,"SVP",10,"Wahlkreis X, Meilen",156,"Meilen",NA,NA,NA,NA,31.44,31.44,NA,NA
-2,"SP",10,"Wahlkreis X, Meilen",156,"Meilen",NA,NA,NA,NA,14.39,14.39,NA,NA
-3,"FDP",10,"Wahlkreis X, Meilen",156,"Meilen",NA,NA,NA,NA,32.09,32.09,NA,NA
-4,"GLP",10,"Wahlkreis X, Meilen",156,"Meilen",NA,NA,NA,NA,6.58,6.58,NA,NA
-5,"Grüne",10,"Wahlkreis X, Meilen",156,"Meilen",NA,NA,NA,NA,5,5,NA,NA
-6,"CVP",10,"Wahlkreis X, Meilen",156,"Meilen",NA,NA,NA,NA,4.19,4.19,NA,NA
-7,"EVP",10,"Wahlkreis X, Meilen",156,"Meilen",NA,NA,NA,NA,1.72,1.72,NA,NA
-8,"AL",10,"Wahlkreis X, Meilen",156,"Meilen",NA,NA,NA,NA,0.88,0.88,NA,NA
-9,"BDP",10,"Wahlkreis X, Meilen",156,"Meilen",NA,NA,NA,NA,1.67,1.67,NA,NA
-10,"EDU",10,"Wahlkreis X, Meilen",156,"Meilen",NA,NA,NA,NA,2.04,2.04,NA,NA
-1,"SVP",10,"Wahlkreis X, Meilen",157,"Oetwil am See",NA,NA,NA,NA,44.53,44.53,NA,NA
-2,"SP",10,"Wahlkreis X, Meilen",157,"Oetwil am See",NA,NA,NA,NA,17.6,17.6,NA,NA
-3,"FDP",10,"Wahlkreis X, Meilen",157,"Oetwil am See",NA,NA,NA,NA,10.78,10.78,NA,NA
-4,"GLP",10,"Wahlkreis X, Meilen",157,"Oetwil am See",NA,NA,NA,NA,4.54,4.54,NA,NA
-5,"Grüne",10,"Wahlkreis X, Meilen",157,"Oetwil am See",NA,NA,NA,NA,3.47,3.47,NA,NA
-6,"CVP",10,"Wahlkreis X, Meilen",157,"Oetwil am See",NA,NA,NA,NA,4.15,4.15,NA,NA
-7,"EVP",10,"Wahlkreis X, Meilen",157,"Oetwil am See",NA,NA,NA,NA,1.56,1.56,NA,NA
-8,"AL",10,"Wahlkreis X, Meilen",157,"Oetwil am See",NA,NA,NA,NA,1.52,1.52,NA,NA
-9,"BDP",10,"Wahlkreis X, Meilen",157,"Oetwil am See",NA,NA,NA,NA,3.28,3.28,NA,NA
-10,"EDU",10,"Wahlkreis X, Meilen",157,"Oetwil am See",NA,NA,NA,NA,8.58,8.58,NA,NA
-1,"SVP",10,"Wahlkreis X, Meilen",158,"Stäfa",NA,NA,NA,NA,27.93,27.93,NA,NA
-2,"SP",10,"Wahlkreis X, Meilen",158,"Stäfa",NA,NA,NA,NA,19.99,19.99,NA,NA
-3,"FDP",10,"Wahlkreis X, Meilen",158,"Stäfa",NA,NA,NA,NA,21.74,21.74,NA,NA
-4,"GLP",10,"Wahlkreis X, Meilen",158,"Stäfa",NA,NA,NA,NA,10.99,10.99,NA,NA
-5,"Grüne",10,"Wahlkreis X, Meilen",158,"Stäfa",NA,NA,NA,NA,5.23,5.23,NA,NA
-6,"CVP",10,"Wahlkreis X, Meilen",158,"Stäfa",NA,NA,NA,NA,4.52,4.52,NA,NA
-7,"EVP",10,"Wahlkreis X, Meilen",158,"Stäfa",NA,NA,NA,NA,2.31,2.31,NA,NA
-8,"AL",10,"Wahlkreis X, Meilen",158,"Stäfa",NA,NA,NA,NA,0.77,0.77,NA,NA
-9,"BDP",10,"Wahlkreis X, Meilen",158,"Stäfa",NA,NA,NA,NA,2.01,2.01,NA,NA
-10,"EDU",10,"Wahlkreis X, Meilen",158,"Stäfa",NA,NA,NA,NA,4.52,4.52,NA,NA
-1,"SVP",10,"Wahlkreis X, Meilen",159,"Uetikon am See",NA,NA,NA,NA,31,31,NA,NA
-2,"SP",10,"Wahlkreis X, Meilen",159,"Uetikon am See",NA,NA,NA,NA,16.93,16.93,NA,NA
-3,"FDP",10,"Wahlkreis X, Meilen",159,"Uetikon am See",NA,NA,NA,NA,24.43,24.43,NA,NA
-4,"GLP",10,"Wahlkreis X, Meilen",159,"Uetikon am See",NA,NA,NA,NA,7.3,7.3,NA,NA
-5,"Grüne",10,"Wahlkreis X, Meilen",159,"Uetikon am See",NA,NA,NA,NA,5.24,5.24,NA,NA
-6,"CVP",10,"Wahlkreis X, Meilen",159,"Uetikon am See",NA,NA,NA,NA,4.51,4.51,NA,NA
-7,"EVP",10,"Wahlkreis X, Meilen",159,"Uetikon am See",NA,NA,NA,NA,2.83,2.83,NA,NA
-8,"AL",10,"Wahlkreis X, Meilen",159,"Uetikon am See",NA,NA,NA,NA,1.18,1.18,NA,NA
-9,"BDP",10,"Wahlkreis X, Meilen",159,"Uetikon am See",NA,NA,NA,NA,3.76,3.76,NA,NA
-10,"EDU",10,"Wahlkreis X, Meilen",159,"Uetikon am See",NA,NA,NA,NA,2.83,2.83,NA,NA
-1,"SVP",10,"Wahlkreis X, Meilen",160,"Zumikon",NA,NA,NA,NA,30.79,30.79,NA,NA
-2,"SP",10,"Wahlkreis X, Meilen",160,"Zumikon",NA,NA,NA,NA,9.64,9.64,NA,NA
-3,"FDP",10,"Wahlkreis X, Meilen",160,"Zumikon",NA,NA,NA,NA,38.36,38.36,NA,NA
-4,"GLP",10,"Wahlkreis X, Meilen",160,"Zumikon",NA,NA,NA,NA,7.49,7.49,NA,NA
-5,"Grüne",10,"Wahlkreis X, Meilen",160,"Zumikon",NA,NA,NA,NA,3.62,3.62,NA,NA
-6,"CVP",10,"Wahlkreis X, Meilen",160,"Zumikon",NA,NA,NA,NA,4.99,4.99,NA,NA
-7,"EVP",10,"Wahlkreis X, Meilen",160,"Zumikon",NA,NA,NA,NA,1.63,1.63,NA,NA
-8,"AL",10,"Wahlkreis X, Meilen",160,"Zumikon",NA,NA,NA,NA,0.89,0.89,NA,NA
-9,"BDP",10,"Wahlkreis X, Meilen",160,"Zumikon",NA,NA,NA,NA,1.44,1.44,NA,NA
-10,"EDU",10,"Wahlkreis X, Meilen",160,"Zumikon",NA,NA,NA,NA,1.14,1.14,NA,NA
-1,"SVP",10,"Wahlkreis X, Meilen",161,"Zollikon",NA,NA,NA,NA,24.41,24.41,NA,NA
-2,"SP",10,"Wahlkreis X, Meilen",161,"Zollikon",NA,NA,NA,NA,15.01,15.01,NA,NA
-3,"FDP",10,"Wahlkreis X, Meilen",161,"Zollikon",NA,NA,NA,NA,39.43,39.43,NA,NA
-4,"GLP",10,"Wahlkreis X, Meilen",161,"Zollikon",NA,NA,NA,NA,7.84,7.84,NA,NA
-5,"Grüne",10,"Wahlkreis X, Meilen",161,"Zollikon",NA,NA,NA,NA,4.39,4.39,NA,NA
-6,"CVP",10,"Wahlkreis X, Meilen",161,"Zollikon",NA,NA,NA,NA,3.1,3.1,NA,NA
-7,"EVP",10,"Wahlkreis X, Meilen",161,"Zollikon",NA,NA,NA,NA,2.02,2.02,NA,NA
-8,"AL",10,"Wahlkreis X, Meilen",161,"Zollikon",NA,NA,NA,NA,1.44,1.44,NA,NA
-9,"BDP",10,"Wahlkreis X, Meilen",161,"Zollikon",NA,NA,NA,NA,1.37,1.37,NA,NA
-10,"EDU",10,"Wahlkreis X, Meilen",161,"Zollikon",NA,NA,NA,NA,0.99,0.99,NA,NA
-1,"SVP",11,"Wahlkreis XI, Hinwil",111,"Bäretswil",NA,NA,NA,NA,42.44,42.44,NA,NA
-2,"SP",11,"Wahlkreis XI, Hinwil",111,"Bäretswil",NA,NA,NA,NA,7.97,7.97,NA,NA
-3,"FDP",11,"Wahlkreis XI, Hinwil",111,"Bäretswil",NA,NA,NA,NA,15.4,15.4,NA,NA
-4,"GLP",11,"Wahlkreis XI, Hinwil",111,"Bäretswil",NA,NA,NA,NA,4.37,4.37,NA,NA
-5,"Grüne",11,"Wahlkreis XI, Hinwil",111,"Bäretswil",NA,NA,NA,NA,5,5,NA,NA
-6,"CVP",11,"Wahlkreis XI, Hinwil",111,"Bäretswil",NA,NA,NA,NA,1.79,1.79,NA,NA
-7,"EVP",11,"Wahlkreis XI, Hinwil",111,"Bäretswil",NA,NA,NA,NA,11.88,11.88,NA,NA
-8,"AL",11,"Wahlkreis XI, Hinwil",111,"Bäretswil",NA,NA,NA,NA,1.2,1.2,NA,NA
-9,"BDP",11,"Wahlkreis XI, Hinwil",111,"Bäretswil",NA,NA,NA,NA,3.23,3.23,NA,NA
-10,"EDU",11,"Wahlkreis XI, Hinwil",111,"Bäretswil",NA,NA,NA,NA,6.71,6.71,NA,NA
-1,"SVP",11,"Wahlkreis XI, Hinwil",112,"Bubikon",NA,NA,NA,NA,33.45,33.45,NA,NA
-2,"SP",11,"Wahlkreis XI, Hinwil",112,"Bubikon",NA,NA,NA,NA,13.58,13.58,NA,NA
-3,"FDP",11,"Wahlkreis XI, Hinwil",112,"Bubikon",NA,NA,NA,NA,11.28,11.28,NA,NA
-4,"GLP",11,"Wahlkreis XI, Hinwil",112,"Bubikon",NA,NA,NA,NA,8.47,8.47,NA,NA
-5,"Grüne",11,"Wahlkreis XI, Hinwil",112,"Bubikon",NA,NA,NA,NA,6.07,6.07,NA,NA
-6,"CVP",11,"Wahlkreis XI, Hinwil",112,"Bubikon",NA,NA,NA,NA,6.2,6.2,NA,NA
-7,"EVP",11,"Wahlkreis XI, Hinwil",112,"Bubikon",NA,NA,NA,NA,4.1,4.1,NA,NA
-8,"AL",11,"Wahlkreis XI, Hinwil",112,"Bubikon",NA,NA,NA,NA,1.23,1.23,NA,NA
-9,"BDP",11,"Wahlkreis XI, Hinwil",112,"Bubikon",NA,NA,NA,NA,4.41,4.41,NA,NA
-10,"EDU",11,"Wahlkreis XI, Hinwil",112,"Bubikon",NA,NA,NA,NA,11.21,11.21,NA,NA
-1,"SVP",11,"Wahlkreis XI, Hinwil",113,"Dürnten",NA,NA,NA,NA,35.17,35.17,NA,NA
-2,"SP",11,"Wahlkreis XI, Hinwil",113,"Dürnten",NA,NA,NA,NA,13.72,13.72,NA,NA
-3,"FDP",11,"Wahlkreis XI, Hinwil",113,"Dürnten",NA,NA,NA,NA,12.93,12.93,NA,NA
-4,"GLP",11,"Wahlkreis XI, Hinwil",113,"Dürnten",NA,NA,NA,NA,7.47,7.47,NA,NA
-5,"Grüne",11,"Wahlkreis XI, Hinwil",113,"Dürnten",NA,NA,NA,NA,5.23,5.23,NA,NA
-6,"CVP",11,"Wahlkreis XI, Hinwil",113,"Dürnten",NA,NA,NA,NA,7.96,7.96,NA,NA
-7,"EVP",11,"Wahlkreis XI, Hinwil",113,"Dürnten",NA,NA,NA,NA,4.14,4.14,NA,NA
-8,"AL",11,"Wahlkreis XI, Hinwil",113,"Dürnten",NA,NA,NA,NA,0.98,0.98,NA,NA
-9,"BDP",11,"Wahlkreis XI, Hinwil",113,"Dürnten",NA,NA,NA,NA,3.96,3.96,NA,NA
-10,"EDU",11,"Wahlkreis XI, Hinwil",113,"Dürnten",NA,NA,NA,NA,8.45,8.45,NA,NA
-1,"SVP",11,"Wahlkreis XI, Hinwil",114,"Fischenthal",NA,NA,NA,NA,54.84,54.84,NA,NA
-2,"SP",11,"Wahlkreis XI, Hinwil",114,"Fischenthal",NA,NA,NA,NA,12.26,12.26,NA,NA
-3,"FDP",11,"Wahlkreis XI, Hinwil",114,"Fischenthal",NA,NA,NA,NA,6.28,6.28,NA,NA
-4,"GLP",11,"Wahlkreis XI, Hinwil",114,"Fischenthal",NA,NA,NA,NA,4.45,4.45,NA,NA
-5,"Grüne",11,"Wahlkreis XI, Hinwil",114,"Fischenthal",NA,NA,NA,NA,4.72,4.72,NA,NA
-6,"CVP",11,"Wahlkreis XI, Hinwil",114,"Fischenthal",NA,NA,NA,NA,1.98,1.98,NA,NA
-7,"EVP",11,"Wahlkreis XI, Hinwil",114,"Fischenthal",NA,NA,NA,NA,2.49,2.49,NA,NA
-8,"AL",11,"Wahlkreis XI, Hinwil",114,"Fischenthal",NA,NA,NA,NA,2.58,2.58,NA,NA
-9,"BDP",11,"Wahlkreis XI, Hinwil",114,"Fischenthal",NA,NA,NA,NA,3.11,3.11,NA,NA
-10,"EDU",11,"Wahlkreis XI, Hinwil",114,"Fischenthal",NA,NA,NA,NA,7.3,7.3,NA,NA
-1,"SVP",11,"Wahlkreis XI, Hinwil",115,"Gossau",NA,NA,NA,NA,37.59,37.59,NA,NA
-2,"SP",11,"Wahlkreis XI, Hinwil",115,"Gossau",NA,NA,NA,NA,11,11,NA,NA
-3,"FDP",11,"Wahlkreis XI, Hinwil",115,"Gossau",NA,NA,NA,NA,18.02,18.02,NA,NA
-4,"GLP",11,"Wahlkreis XI, Hinwil",115,"Gossau",NA,NA,NA,NA,6.17,6.17,NA,NA
-5,"Grüne",11,"Wahlkreis XI, Hinwil",115,"Gossau",NA,NA,NA,NA,4.28,4.28,NA,NA
-6,"CVP",11,"Wahlkreis XI, Hinwil",115,"Gossau",NA,NA,NA,NA,4.52,4.52,NA,NA
-7,"EVP",11,"Wahlkreis XI, Hinwil",115,"Gossau",NA,NA,NA,NA,8.34,8.34,NA,NA
-8,"AL",11,"Wahlkreis XI, Hinwil",115,"Gossau",NA,NA,NA,NA,0.41,0.41,NA,NA
-9,"BDP",11,"Wahlkreis XI, Hinwil",115,"Gossau",NA,NA,NA,NA,4.02,4.02,NA,NA
-10,"EDU",11,"Wahlkreis XI, Hinwil",115,"Gossau",NA,NA,NA,NA,5.66,5.66,NA,NA
-1,"SVP",11,"Wahlkreis XI, Hinwil",116,"Grüningen",NA,NA,NA,NA,41.27,41.27,NA,NA
-2,"SP",11,"Wahlkreis XI, Hinwil",116,"Grüningen",NA,NA,NA,NA,11.49,11.49,NA,NA
-3,"FDP",11,"Wahlkreis XI, Hinwil",116,"Grüningen",NA,NA,NA,NA,15.73,15.73,NA,NA
-4,"GLP",11,"Wahlkreis XI, Hinwil",116,"Grüningen",NA,NA,NA,NA,7.52,7.52,NA,NA
-5,"Grüne",11,"Wahlkreis XI, Hinwil",116,"Grüningen",NA,NA,NA,NA,5.3,5.3,NA,NA
-6,"CVP",11,"Wahlkreis XI, Hinwil",116,"Grüningen",NA,NA,NA,NA,2.38,2.38,NA,NA
-7,"EVP",11,"Wahlkreis XI, Hinwil",116,"Grüningen",NA,NA,NA,NA,3.97,3.97,NA,NA
-8,"AL",11,"Wahlkreis XI, Hinwil",116,"Grüningen",NA,NA,NA,NA,1.58,1.58,NA,NA
-9,"BDP",11,"Wahlkreis XI, Hinwil",116,"Grüningen",NA,NA,NA,NA,5.92,5.92,NA,NA
-10,"EDU",11,"Wahlkreis XI, Hinwil",116,"Grüningen",NA,NA,NA,NA,4.84,4.84,NA,NA
-1,"SVP",11,"Wahlkreis XI, Hinwil",117,"Hinwil",NA,NA,NA,NA,42.11,42.11,NA,NA
-2,"SP",11,"Wahlkreis XI, Hinwil",117,"Hinwil",NA,NA,NA,NA,13.31,13.31,NA,NA
-3,"FDP",11,"Wahlkreis XI, Hinwil",117,"Hinwil",NA,NA,NA,NA,13.24,13.24,NA,NA
-4,"GLP",11,"Wahlkreis XI, Hinwil",117,"Hinwil",NA,NA,NA,NA,6.25,6.25,NA,NA
-5,"Grüne",11,"Wahlkreis XI, Hinwil",117,"Hinwil",NA,NA,NA,NA,5.34,5.34,NA,NA
-6,"CVP",11,"Wahlkreis XI, Hinwil",117,"Hinwil",NA,NA,NA,NA,4.96,4.96,NA,NA
-7,"EVP",11,"Wahlkreis XI, Hinwil",117,"Hinwil",NA,NA,NA,NA,5.34,5.34,NA,NA
-8,"AL",11,"Wahlkreis XI, Hinwil",117,"Hinwil",NA,NA,NA,NA,0.95,0.95,NA,NA
-9,"BDP",11,"Wahlkreis XI, Hinwil",117,"Hinwil",NA,NA,NA,NA,3.2,3.2,NA,NA
-10,"EDU",11,"Wahlkreis XI, Hinwil",117,"Hinwil",NA,NA,NA,NA,5.29,5.29,NA,NA
-1,"SVP",11,"Wahlkreis XI, Hinwil",118,"Rüti",NA,NA,NA,NA,28.05,28.05,NA,NA
-2,"SP",11,"Wahlkreis XI, Hinwil",118,"Rüti",NA,NA,NA,NA,14.83,14.83,NA,NA
-3,"FDP",11,"Wahlkreis XI, Hinwil",118,"Rüti",NA,NA,NA,NA,12.64,12.64,NA,NA
-4,"GLP",11,"Wahlkreis XI, Hinwil",118,"Rüti",NA,NA,NA,NA,7.58,7.58,NA,NA
-5,"Grüne",11,"Wahlkreis XI, Hinwil",118,"Rüti",NA,NA,NA,NA,5.77,5.77,NA,NA
-6,"CVP",11,"Wahlkreis XI, Hinwil",118,"Rüti",NA,NA,NA,NA,12.83,12.83,NA,NA
-7,"EVP",11,"Wahlkreis XI, Hinwil",118,"Rüti",NA,NA,NA,NA,6.61,6.61,NA,NA
-8,"AL",11,"Wahlkreis XI, Hinwil",118,"Rüti",NA,NA,NA,NA,1.03,1.03,NA,NA
-9,"BDP",11,"Wahlkreis XI, Hinwil",118,"Rüti",NA,NA,NA,NA,3.32,3.32,NA,NA
-10,"EDU",11,"Wahlkreis XI, Hinwil",118,"Rüti",NA,NA,NA,NA,7.35,7.35,NA,NA
-1,"SVP",11,"Wahlkreis XI, Hinwil",119,"Seegräben",NA,NA,NA,NA,36.14,36.14,NA,NA
-2,"SP",11,"Wahlkreis XI, Hinwil",119,"Seegräben",NA,NA,NA,NA,12.72,12.72,NA,NA
-3,"FDP",11,"Wahlkreis XI, Hinwil",119,"Seegräben",NA,NA,NA,NA,16,16,NA,NA
-4,"GLP",11,"Wahlkreis XI, Hinwil",119,"Seegräben",NA,NA,NA,NA,8.11,8.11,NA,NA
-5,"Grüne",11,"Wahlkreis XI, Hinwil",119,"Seegräben",NA,NA,NA,NA,9.06,9.06,NA,NA
-6,"CVP",11,"Wahlkreis XI, Hinwil",119,"Seegräben",NA,NA,NA,NA,2.12,2.12,NA,NA
-7,"EVP",11,"Wahlkreis XI, Hinwil",119,"Seegräben",NA,NA,NA,NA,6.44,6.44,NA,NA
-8,"AL",11,"Wahlkreis XI, Hinwil",119,"Seegräben",NA,NA,NA,NA,2.88,2.88,NA,NA
-9,"BDP",11,"Wahlkreis XI, Hinwil",119,"Seegräben",NA,NA,NA,NA,3.04,3.04,NA,NA
-10,"EDU",11,"Wahlkreis XI, Hinwil",119,"Seegräben",NA,NA,NA,NA,3.49,3.49,NA,NA
-1,"SVP",11,"Wahlkreis XI, Hinwil",120,"Wald",NA,NA,NA,NA,38.55,38.55,NA,NA
-2,"SP",11,"Wahlkreis XI, Hinwil",120,"Wald",NA,NA,NA,NA,17.15,17.15,NA,NA
-3,"FDP",11,"Wahlkreis XI, Hinwil",120,"Wald",NA,NA,NA,NA,12.27,12.27,NA,NA
-4,"GLP",11,"Wahlkreis XI, Hinwil",120,"Wald",NA,NA,NA,NA,5.43,5.43,NA,NA
-5,"Grüne",11,"Wahlkreis XI, Hinwil",120,"Wald",NA,NA,NA,NA,9.87,9.87,NA,NA
-6,"CVP",11,"Wahlkreis XI, Hinwil",120,"Wald",NA,NA,NA,NA,4.95,4.95,NA,NA
-7,"EVP",11,"Wahlkreis XI, Hinwil",120,"Wald",NA,NA,NA,NA,2.93,2.93,NA,NA
-8,"AL",11,"Wahlkreis XI, Hinwil",120,"Wald",NA,NA,NA,NA,1.47,1.47,NA,NA
-9,"BDP",11,"Wahlkreis XI, Hinwil",120,"Wald",NA,NA,NA,NA,3.36,3.36,NA,NA
-10,"EDU",11,"Wahlkreis XI, Hinwil",120,"Wald",NA,NA,NA,NA,4.02,4.02,NA,NA
-1,"SVP",11,"Wahlkreis XI, Hinwil",121,"Wetzikon",NA,NA,NA,NA,31.46,31.46,NA,NA
-2,"SP",11,"Wahlkreis XI, Hinwil",121,"Wetzikon",NA,NA,NA,NA,14.22,14.22,NA,NA
-3,"FDP",11,"Wahlkreis XI, Hinwil",121,"Wetzikon",NA,NA,NA,NA,15.97,15.97,NA,NA
-4,"GLP",11,"Wahlkreis XI, Hinwil",121,"Wetzikon",NA,NA,NA,NA,7.78,7.78,NA,NA
-5,"Grüne",11,"Wahlkreis XI, Hinwil",121,"Wetzikon",NA,NA,NA,NA,8.18,8.18,NA,NA
-6,"CVP",11,"Wahlkreis XI, Hinwil",121,"Wetzikon",NA,NA,NA,NA,4.56,4.56,NA,NA
-7,"EVP",11,"Wahlkreis XI, Hinwil",121,"Wetzikon",NA,NA,NA,NA,5.77,5.77,NA,NA
-8,"AL",11,"Wahlkreis XI, Hinwil",121,"Wetzikon",NA,NA,NA,NA,1.92,1.92,NA,NA
-9,"BDP",11,"Wahlkreis XI, Hinwil",121,"Wetzikon",NA,NA,NA,NA,3.32,3.32,NA,NA
-10,"EDU",11,"Wahlkreis XI, Hinwil",121,"Wetzikon",NA,NA,NA,NA,6.82,6.82,NA,NA
-1,"SVP",12,"Wahlkreis XII, Uster",191,"Dübendorf",NA,NA,NA,NA,35.21,35.21,NA,NA
-2,"SP",12,"Wahlkreis XII, Uster",191,"Dübendorf",NA,NA,NA,NA,15.76,15.76,NA,NA
-3,"FDP",12,"Wahlkreis XII, Uster",191,"Dübendorf",NA,NA,NA,NA,12.13,12.13,NA,NA
-4,"GLP",12,"Wahlkreis XII, Uster",191,"Dübendorf",NA,NA,NA,NA,11.14,11.14,NA,NA
-5,"Grüne",12,"Wahlkreis XII, Uster",191,"Dübendorf",NA,NA,NA,NA,4.4,4.4,NA,NA
-6,"CVP",12,"Wahlkreis XII, Uster",191,"Dübendorf",NA,NA,NA,NA,5.67,5.67,NA,NA
-7,"EVP",12,"Wahlkreis XII, Uster",191,"Dübendorf",NA,NA,NA,NA,3.1,3.1,NA,NA
-8,"AL",12,"Wahlkreis XII, Uster",191,"Dübendorf",NA,NA,NA,NA,1,1,NA,NA
-9,"BDP",12,"Wahlkreis XII, Uster",191,"Dübendorf",NA,NA,NA,NA,8.65,8.65,NA,NA
-10,"EDU",12,"Wahlkreis XII, Uster",191,"Dübendorf",NA,NA,NA,NA,2.03,2.03,NA,NA
-1,"SVP",12,"Wahlkreis XII, Uster",192,"Egg",NA,NA,NA,NA,39.23,39.23,NA,NA
-2,"SP",12,"Wahlkreis XII, Uster",192,"Egg",NA,NA,NA,NA,14.22,14.22,NA,NA
-3,"FDP",12,"Wahlkreis XII, Uster",192,"Egg",NA,NA,NA,NA,19.45,19.45,NA,NA
-4,"GLP",12,"Wahlkreis XII, Uster",192,"Egg",NA,NA,NA,NA,6.24,6.24,NA,NA
-5,"Grüne",12,"Wahlkreis XII, Uster",192,"Egg",NA,NA,NA,NA,5.87,5.87,NA,NA
-6,"CVP",12,"Wahlkreis XII, Uster",192,"Egg",NA,NA,NA,NA,3.78,3.78,NA,NA
-7,"EVP",12,"Wahlkreis XII, Uster",192,"Egg",NA,NA,NA,NA,3.2,3.2,NA,NA
-8,"AL",12,"Wahlkreis XII, Uster",192,"Egg",NA,NA,NA,NA,0.53,0.53,NA,NA
-9,"BDP",12,"Wahlkreis XII, Uster",192,"Egg",NA,NA,NA,NA,4.42,4.42,NA,NA
-10,"EDU",12,"Wahlkreis XII, Uster",192,"Egg",NA,NA,NA,NA,2.43,2.43,NA,NA
-1,"SVP",12,"Wahlkreis XII, Uster",193,"Fällanden",NA,NA,NA,NA,28.1,28.1,NA,NA
-2,"SP",12,"Wahlkreis XII, Uster",193,"Fällanden",NA,NA,NA,NA,19.53,19.53,NA,NA
-3,"FDP",12,"Wahlkreis XII, Uster",193,"Fällanden",NA,NA,NA,NA,21.88,21.88,NA,NA
-4,"GLP",12,"Wahlkreis XII, Uster",193,"Fällanden",NA,NA,NA,NA,10.87,10.87,NA,NA
-5,"Grüne",12,"Wahlkreis XII, Uster",193,"Fällanden",NA,NA,NA,NA,4.63,4.63,NA,NA
-6,"CVP",12,"Wahlkreis XII, Uster",193,"Fällanden",NA,NA,NA,NA,5.65,5.65,NA,NA
-7,"EVP",12,"Wahlkreis XII, Uster",193,"Fällanden",NA,NA,NA,NA,1.63,1.63,NA,NA
-8,"AL",12,"Wahlkreis XII, Uster",193,"Fällanden",NA,NA,NA,NA,1.1,1.1,NA,NA
-9,"BDP",12,"Wahlkreis XII, Uster",193,"Fällanden",NA,NA,NA,NA,3.54,3.54,NA,NA
-10,"EDU",12,"Wahlkreis XII, Uster",193,"Fällanden",NA,NA,NA,NA,1.77,1.77,NA,NA
-1,"SVP",12,"Wahlkreis XII, Uster",194,"Greifensee",NA,NA,NA,NA,23.93,23.93,NA,NA
-2,"SP",12,"Wahlkreis XII, Uster",194,"Greifensee",NA,NA,NA,NA,20.21,20.21,NA,NA
-3,"FDP",12,"Wahlkreis XII, Uster",194,"Greifensee",NA,NA,NA,NA,19.3,19.3,NA,NA
-4,"GLP",12,"Wahlkreis XII, Uster",194,"Greifensee",NA,NA,NA,NA,8.84,8.84,NA,NA
-5,"Grüne",12,"Wahlkreis XII, Uster",194,"Greifensee",NA,NA,NA,NA,6.22,6.22,NA,NA
-6,"CVP",12,"Wahlkreis XII, Uster",194,"Greifensee",NA,NA,NA,NA,8.18,8.18,NA,NA
-7,"EVP",12,"Wahlkreis XII, Uster",194,"Greifensee",NA,NA,NA,NA,2.33,2.33,NA,NA
-8,"AL",12,"Wahlkreis XII, Uster",194,"Greifensee",NA,NA,NA,NA,0.36,0.36,NA,NA
-9,"BDP",12,"Wahlkreis XII, Uster",194,"Greifensee",NA,NA,NA,NA,4.92,4.92,NA,NA
-10,"EDU",12,"Wahlkreis XII, Uster",194,"Greifensee",NA,NA,NA,NA,4.51,4.51,NA,NA
-1,"SVP",12,"Wahlkreis XII, Uster",195,"Maur",NA,NA,NA,NA,36.01,36.01,NA,NA
-2,"SP",12,"Wahlkreis XII, Uster",195,"Maur",NA,NA,NA,NA,12.71,12.71,NA,NA
-3,"FDP",12,"Wahlkreis XII, Uster",195,"Maur",NA,NA,NA,NA,26.28,26.28,NA,NA
-4,"GLP",12,"Wahlkreis XII, Uster",195,"Maur",NA,NA,NA,NA,7.55,7.55,NA,NA
-5,"Grüne",12,"Wahlkreis XII, Uster",195,"Maur",NA,NA,NA,NA,3.6,3.6,NA,NA
-6,"CVP",12,"Wahlkreis XII, Uster",195,"Maur",NA,NA,NA,NA,4.08,4.08,NA,NA
-7,"EVP",12,"Wahlkreis XII, Uster",195,"Maur",NA,NA,NA,NA,2.24,2.24,NA,NA
-8,"AL",12,"Wahlkreis XII, Uster",195,"Maur",NA,NA,NA,NA,0.74,0.74,NA,NA
-9,"BDP",12,"Wahlkreis XII, Uster",195,"Maur",NA,NA,NA,NA,3.93,3.93,NA,NA
-10,"EDU",12,"Wahlkreis XII, Uster",195,"Maur",NA,NA,NA,NA,2.02,2.02,NA,NA
-1,"SVP",12,"Wahlkreis XII, Uster",196,"Mönchaltorf",NA,NA,NA,NA,33.77,33.77,NA,NA
-2,"SP",12,"Wahlkreis XII, Uster",196,"Mönchaltorf",NA,NA,NA,NA,19.81,19.81,NA,NA
-3,"FDP",12,"Wahlkreis XII, Uster",196,"Mönchaltorf",NA,NA,NA,NA,15.15,15.15,NA,NA
-4,"GLP",12,"Wahlkreis XII, Uster",196,"Mönchaltorf",NA,NA,NA,NA,6.06,6.06,NA,NA
-5,"Grüne",12,"Wahlkreis XII, Uster",196,"Mönchaltorf",NA,NA,NA,NA,4.43,4.43,NA,NA
-6,"CVP",12,"Wahlkreis XII, Uster",196,"Mönchaltorf",NA,NA,NA,NA,2.1,2.1,NA,NA
-7,"EVP",12,"Wahlkreis XII, Uster",196,"Mönchaltorf",NA,NA,NA,NA,2.88,2.88,NA,NA
-8,"AL",12,"Wahlkreis XII, Uster",196,"Mönchaltorf",NA,NA,NA,NA,1.24,1.24,NA,NA
-9,"BDP",12,"Wahlkreis XII, Uster",196,"Mönchaltorf",NA,NA,NA,NA,10.22,10.22,NA,NA
-10,"EDU",12,"Wahlkreis XII, Uster",196,"Mönchaltorf",NA,NA,NA,NA,3.69,3.69,NA,NA
-1,"SVP",12,"Wahlkreis XII, Uster",197,"Schwerzenbach",NA,NA,NA,NA,26.97,26.97,NA,NA
-2,"SP",12,"Wahlkreis XII, Uster",197,"Schwerzenbach",NA,NA,NA,NA,17.22,17.22,NA,NA
-3,"FDP",12,"Wahlkreis XII, Uster",197,"Schwerzenbach",NA,NA,NA,NA,17.62,17.62,NA,NA
-4,"GLP",12,"Wahlkreis XII, Uster",197,"Schwerzenbach",NA,NA,NA,NA,12.41,12.41,NA,NA
-5,"Grüne",12,"Wahlkreis XII, Uster",197,"Schwerzenbach",NA,NA,NA,NA,6.87,6.87,NA,NA
-6,"CVP",12,"Wahlkreis XII, Uster",197,"Schwerzenbach",NA,NA,NA,NA,5.87,5.87,NA,NA
-7,"EVP",12,"Wahlkreis XII, Uster",197,"Schwerzenbach",NA,NA,NA,NA,3.37,3.37,NA,NA
-8,"AL",12,"Wahlkreis XII, Uster",197,"Schwerzenbach",NA,NA,NA,NA,0.59,0.59,NA,NA
-9,"BDP",12,"Wahlkreis XII, Uster",197,"Schwerzenbach",NA,NA,NA,NA,6.07,6.07,NA,NA
-10,"EDU",12,"Wahlkreis XII, Uster",197,"Schwerzenbach",NA,NA,NA,NA,1.81,1.81,NA,NA
-1,"SVP",12,"Wahlkreis XII, Uster",198,"Uster",NA,NA,NA,NA,27.37,27.37,NA,NA
-2,"SP",12,"Wahlkreis XII, Uster",198,"Uster",NA,NA,NA,NA,22.16,22.16,NA,NA
-3,"FDP",12,"Wahlkreis XII, Uster",198,"Uster",NA,NA,NA,NA,12.72,12.72,NA,NA
-4,"GLP",12,"Wahlkreis XII, Uster",198,"Uster",NA,NA,NA,NA,9.8,9.8,NA,NA
-5,"Grüne",12,"Wahlkreis XII, Uster",198,"Uster",NA,NA,NA,NA,8.54,8.54,NA,NA
-6,"CVP",12,"Wahlkreis XII, Uster",198,"Uster",NA,NA,NA,NA,3.58,3.58,NA,NA
-7,"EVP",12,"Wahlkreis XII, Uster",198,"Uster",NA,NA,NA,NA,4.45,4.45,NA,NA
-8,"AL",12,"Wahlkreis XII, Uster",198,"Uster",NA,NA,NA,NA,2.1,2.1,NA,NA
-9,"BDP",12,"Wahlkreis XII, Uster",198,"Uster",NA,NA,NA,NA,4.8,4.8,NA,NA
-10,"EDU",12,"Wahlkreis XII, Uster",198,"Uster",NA,NA,NA,NA,2.95,2.95,NA,NA
-1,"SVP",12,"Wahlkreis XII, Uster",199,"Volketswil",NA,NA,NA,NA,45.38,45.38,NA,NA
-2,"SP",12,"Wahlkreis XII, Uster",199,"Volketswil",NA,NA,NA,NA,13.43,13.43,NA,NA
-3,"FDP",12,"Wahlkreis XII, Uster",199,"Volketswil",NA,NA,NA,NA,12.3,12.3,NA,NA
-4,"GLP",12,"Wahlkreis XII, Uster",199,"Volketswil",NA,NA,NA,NA,7.15,7.15,NA,NA
-5,"Grüne",12,"Wahlkreis XII, Uster",199,"Volketswil",NA,NA,NA,NA,3.02,3.02,NA,NA
-6,"CVP",12,"Wahlkreis XII, Uster",199,"Volketswil",NA,NA,NA,NA,6.76,6.76,NA,NA
-7,"EVP",12,"Wahlkreis XII, Uster",199,"Volketswil",NA,NA,NA,NA,1.95,1.95,NA,NA
-8,"AL",12,"Wahlkreis XII, Uster",199,"Volketswil",NA,NA,NA,NA,0.4,0.4,NA,NA
-9,"BDP",12,"Wahlkreis XII, Uster",199,"Volketswil",NA,NA,NA,NA,6.29,6.29,NA,NA
-10,"EDU",12,"Wahlkreis XII, Uster",199,"Volketswil",NA,NA,NA,NA,2.42,2.42,NA,NA
-1,"SVP",12,"Wahlkreis XII, Uster",200,"Wangen-Brüttisellen",NA,NA,NA,NA,44.05,44.05,NA,NA
-2,"SP",12,"Wahlkreis XII, Uster",200,"Wangen-Brüttisellen",NA,NA,NA,NA,16.29,16.29,NA,NA
-3,"FDP",12,"Wahlkreis XII, Uster",200,"Wangen-Brüttisellen",NA,NA,NA,NA,14.8,14.8,NA,NA
-4,"GLP",12,"Wahlkreis XII, Uster",200,"Wangen-Brüttisellen",NA,NA,NA,NA,8,8,NA,NA
-5,"Grüne",12,"Wahlkreis XII, Uster",200,"Wangen-Brüttisellen",NA,NA,NA,NA,2.57,2.57,NA,NA
-6,"CVP",12,"Wahlkreis XII, Uster",200,"Wangen-Brüttisellen",NA,NA,NA,NA,2.5,2.5,NA,NA
-7,"EVP",12,"Wahlkreis XII, Uster",200,"Wangen-Brüttisellen",NA,NA,NA,NA,1.62,1.62,NA,NA
-8,"AL",12,"Wahlkreis XII, Uster",200,"Wangen-Brüttisellen",NA,NA,NA,NA,0.9,0.9,NA,NA
-9,"BDP",12,"Wahlkreis XII, Uster",200,"Wangen-Brüttisellen",NA,NA,NA,NA,5.88,5.88,NA,NA
-10,"EDU",12,"Wahlkreis XII, Uster",200,"Wangen-Brüttisellen",NA,NA,NA,NA,2.28,2.28,NA,NA
-1,"SVP",13,"Wahlkreis XIII, Pfäffikon",172,"Fehraltorf",NA,NA,NA,NA,36.67,36.67,NA,NA
-2,"SP",13,"Wahlkreis XIII, Pfäffikon",172,"Fehraltorf",NA,NA,NA,NA,15.05,15.05,NA,NA
-3,"FDP",13,"Wahlkreis XIII, Pfäffikon",172,"Fehraltorf",NA,NA,NA,NA,17.23,17.23,NA,NA
-4,"GLP",13,"Wahlkreis XIII, Pfäffikon",172,"Fehraltorf",NA,NA,NA,NA,9.04,9.04,NA,NA
-5,"Grüne",13,"Wahlkreis XIII, Pfäffikon",172,"Fehraltorf",NA,NA,NA,NA,5.45,5.45,NA,NA
-6,"CVP",13,"Wahlkreis XIII, Pfäffikon",172,"Fehraltorf",NA,NA,NA,NA,3,3,NA,NA
-7,"EVP",13,"Wahlkreis XIII, Pfäffikon",172,"Fehraltorf",NA,NA,NA,NA,4.97,4.97,NA,NA
-8,"AL",13,"Wahlkreis XIII, Pfäffikon",172,"Fehraltorf",NA,NA,NA,NA,0.61,0.61,NA,NA
-9,"BDP",13,"Wahlkreis XIII, Pfäffikon",172,"Fehraltorf",NA,NA,NA,NA,4.58,4.58,NA,NA
-10,"EDU",13,"Wahlkreis XIII, Pfäffikon",172,"Fehraltorf",NA,NA,NA,NA,3,3,NA,NA
-1,"SVP",13,"Wahlkreis XIII, Pfäffikon",173,"Hittnau",NA,NA,NA,NA,36.57,36.57,NA,NA
-2,"SP",13,"Wahlkreis XIII, Pfäffikon",173,"Hittnau",NA,NA,NA,NA,14.19,14.19,NA,NA
-3,"FDP",13,"Wahlkreis XIII, Pfäffikon",173,"Hittnau",NA,NA,NA,NA,10.73,10.73,NA,NA
-4,"GLP",13,"Wahlkreis XIII, Pfäffikon",173,"Hittnau",NA,NA,NA,NA,6.77,6.77,NA,NA
-5,"Grüne",13,"Wahlkreis XIII, Pfäffikon",173,"Hittnau",NA,NA,NA,NA,6.77,6.77,NA,NA
-6,"CVP",13,"Wahlkreis XIII, Pfäffikon",173,"Hittnau",NA,NA,NA,NA,2.98,2.98,NA,NA
-7,"EVP",13,"Wahlkreis XIII, Pfäffikon",173,"Hittnau",NA,NA,NA,NA,10.32,10.32,NA,NA
-8,"AL",13,"Wahlkreis XIII, Pfäffikon",173,"Hittnau",NA,NA,NA,NA,0.66,0.66,NA,NA
-9,"BDP",13,"Wahlkreis XIII, Pfäffikon",173,"Hittnau",NA,NA,NA,NA,3.46,3.46,NA,NA
-10,"EDU",13,"Wahlkreis XIII, Pfäffikon",173,"Hittnau",NA,NA,NA,NA,7,7,NA,NA
-1,"SVP",13,"Wahlkreis XIII, Pfäffikon",176,"Lindau",NA,NA,NA,NA,38.37,38.37,NA,NA
-2,"SP",13,"Wahlkreis XIII, Pfäffikon",176,"Lindau",NA,NA,NA,NA,16.39,16.39,NA,NA
-3,"FDP",13,"Wahlkreis XIII, Pfäffikon",176,"Lindau",NA,NA,NA,NA,13.97,13.97,NA,NA
-4,"GLP",13,"Wahlkreis XIII, Pfäffikon",176,"Lindau",NA,NA,NA,NA,7.5,7.5,NA,NA
-5,"Grüne",13,"Wahlkreis XIII, Pfäffikon",176,"Lindau",NA,NA,NA,NA,5.67,5.67,NA,NA
-6,"CVP",13,"Wahlkreis XIII, Pfäffikon",176,"Lindau",NA,NA,NA,NA,2.08,2.08,NA,NA
-7,"EVP",13,"Wahlkreis XIII, Pfäffikon",176,"Lindau",NA,NA,NA,NA,3.67,3.67,NA,NA
-8,"AL",13,"Wahlkreis XIII, Pfäffikon",176,"Lindau",NA,NA,NA,NA,0.37,0.37,NA,NA
-9,"BDP",13,"Wahlkreis XIII, Pfäffikon",176,"Lindau",NA,NA,NA,NA,3.62,3.62,NA,NA
-10,"EDU",13,"Wahlkreis XIII, Pfäffikon",176,"Lindau",NA,NA,NA,NA,8.06,8.06,NA,NA
-1,"SVP",13,"Wahlkreis XIII, Pfäffikon",177,"Pfäffikon",NA,NA,NA,NA,30.33,30.33,NA,NA
-2,"SP",13,"Wahlkreis XIII, Pfäffikon",177,"Pfäffikon",NA,NA,NA,NA,16.11,16.11,NA,NA
-3,"FDP",13,"Wahlkreis XIII, Pfäffikon",177,"Pfäffikon",NA,NA,NA,NA,15.24,15.24,NA,NA
-4,"GLP",13,"Wahlkreis XIII, Pfäffikon",177,"Pfäffikon",NA,NA,NA,NA,6.94,6.94,NA,NA
-5,"Grüne",13,"Wahlkreis XIII, Pfäffikon",177,"Pfäffikon",NA,NA,NA,NA,7.35,7.35,NA,NA
-6,"CVP",13,"Wahlkreis XIII, Pfäffikon",177,"Pfäffikon",NA,NA,NA,NA,2.82,2.82,NA,NA
-7,"EVP",13,"Wahlkreis XIII, Pfäffikon",177,"Pfäffikon",NA,NA,NA,NA,13.33,13.33,NA,NA
-8,"AL",13,"Wahlkreis XIII, Pfäffikon",177,"Pfäffikon",NA,NA,NA,NA,0.92,0.92,NA,NA
-9,"BDP",13,"Wahlkreis XIII, Pfäffikon",177,"Pfäffikon",NA,NA,NA,NA,2.67,2.67,NA,NA
-10,"EDU",13,"Wahlkreis XIII, Pfäffikon",177,"Pfäffikon",NA,NA,NA,NA,3.75,3.75,NA,NA
-1,"SVP",13,"Wahlkreis XIII, Pfäffikon",178,"Russikon",NA,NA,NA,NA,40.97,40.97,NA,NA
-2,"SP",13,"Wahlkreis XIII, Pfäffikon",178,"Russikon",NA,NA,NA,NA,12.39,12.39,NA,NA
-3,"FDP",13,"Wahlkreis XIII, Pfäffikon",178,"Russikon",NA,NA,NA,NA,17.27,17.27,NA,NA
-4,"GLP",13,"Wahlkreis XIII, Pfäffikon",178,"Russikon",NA,NA,NA,NA,7.98,7.98,NA,NA
-5,"Grüne",13,"Wahlkreis XIII, Pfäffikon",178,"Russikon",NA,NA,NA,NA,3.88,3.88,NA,NA
-6,"CVP",13,"Wahlkreis XIII, Pfäffikon",178,"Russikon",NA,NA,NA,NA,1.88,1.88,NA,NA
-7,"EVP",13,"Wahlkreis XIII, Pfäffikon",178,"Russikon",NA,NA,NA,NA,6.77,6.77,NA,NA
-8,"AL",13,"Wahlkreis XIII, Pfäffikon",178,"Russikon",NA,NA,NA,NA,0.91,0.91,NA,NA
-9,"BDP",13,"Wahlkreis XIII, Pfäffikon",178,"Russikon",NA,NA,NA,NA,3.13,3.13,NA,NA
-10,"EDU",13,"Wahlkreis XIII, Pfäffikon",178,"Russikon",NA,NA,NA,NA,4.53,4.53,NA,NA
-1,"SVP",13,"Wahlkreis XIII, Pfäffikon",180,"Weisslingen",NA,NA,NA,NA,40.22,40.22,NA,NA
-2,"SP",13,"Wahlkreis XIII, Pfäffikon",180,"Weisslingen",NA,NA,NA,NA,12.58,12.58,NA,NA
-3,"FDP",13,"Wahlkreis XIII, Pfäffikon",180,"Weisslingen",NA,NA,NA,NA,12.84,12.84,NA,NA
-4,"GLP",13,"Wahlkreis XIII, Pfäffikon",180,"Weisslingen",NA,NA,NA,NA,11.07,11.07,NA,NA
-5,"Grüne",13,"Wahlkreis XIII, Pfäffikon",180,"Weisslingen",NA,NA,NA,NA,5.47,5.47,NA,NA
-6,"CVP",13,"Wahlkreis XIII, Pfäffikon",180,"Weisslingen",NA,NA,NA,NA,1.81,1.81,NA,NA
-7,"EVP",13,"Wahlkreis XIII, Pfäffikon",180,"Weisslingen",NA,NA,NA,NA,6.62,6.62,NA,NA
-8,"AL",13,"Wahlkreis XIII, Pfäffikon",180,"Weisslingen",NA,NA,NA,NA,0.49,0.49,NA,NA
-9,"BDP",13,"Wahlkreis XIII, Pfäffikon",180,"Weisslingen",NA,NA,NA,NA,3.63,3.63,NA,NA
-10,"EDU",13,"Wahlkreis XIII, Pfäffikon",180,"Weisslingen",NA,NA,NA,NA,4.68,4.68,NA,NA
-1,"SVP",13,"Wahlkreis XIII, Pfäffikon",181,"Wila",NA,NA,NA,NA,52.27,52.27,NA,NA
-2,"SP",13,"Wahlkreis XIII, Pfäffikon",181,"Wila",NA,NA,NA,NA,17.87,17.87,NA,NA
-3,"FDP",13,"Wahlkreis XIII, Pfäffikon",181,"Wila",NA,NA,NA,NA,5.29,5.29,NA,NA
-4,"GLP",13,"Wahlkreis XIII, Pfäffikon",181,"Wila",NA,NA,NA,NA,5.07,5.07,NA,NA
-5,"Grüne",13,"Wahlkreis XIII, Pfäffikon",181,"Wila",NA,NA,NA,NA,5.29,5.29,NA,NA
-6,"CVP",13,"Wahlkreis XIII, Pfäffikon",181,"Wila",NA,NA,NA,NA,1.6,1.6,NA,NA
-7,"EVP",13,"Wahlkreis XIII, Pfäffikon",181,"Wila",NA,NA,NA,NA,6.64,6.64,NA,NA
-8,"AL",13,"Wahlkreis XIII, Pfäffikon",181,"Wila",NA,NA,NA,NA,0.44,0.44,NA,NA
-9,"BDP",13,"Wahlkreis XIII, Pfäffikon",181,"Wila",NA,NA,NA,NA,3.4,3.4,NA,NA
-10,"EDU",13,"Wahlkreis XIII, Pfäffikon",181,"Wila",NA,NA,NA,NA,2.14,2.14,NA,NA
-1,"SVP",13,"Wahlkreis XIII, Pfäffikon",182,"Wildberg",NA,NA,NA,NA,52.69,52.69,NA,NA
-2,"SP",13,"Wahlkreis XIII, Pfäffikon",182,"Wildberg",NA,NA,NA,NA,12.72,12.72,NA,NA
-3,"FDP",13,"Wahlkreis XIII, Pfäffikon",182,"Wildberg",NA,NA,NA,NA,6.25,6.25,NA,NA
-4,"GLP",13,"Wahlkreis XIII, Pfäffikon",182,"Wildberg",NA,NA,NA,NA,6.94,6.94,NA,NA
-5,"Grüne",13,"Wahlkreis XIII, Pfäffikon",182,"Wildberg",NA,NA,NA,NA,3.9,3.9,NA,NA
-6,"CVP",13,"Wahlkreis XIII, Pfäffikon",182,"Wildberg",NA,NA,NA,NA,1.1,1.1,NA,NA
-7,"EVP",13,"Wahlkreis XIII, Pfäffikon",182,"Wildberg",NA,NA,NA,NA,9.14,9.14,NA,NA
-8,"AL",13,"Wahlkreis XIII, Pfäffikon",182,"Wildberg",NA,NA,NA,NA,0.32,0.32,NA,NA
-9,"BDP",13,"Wahlkreis XIII, Pfäffikon",182,"Wildberg",NA,NA,NA,NA,3.67,3.67,NA,NA
-10,"EDU",13,"Wahlkreis XIII, Pfäffikon",182,"Wildberg",NA,NA,NA,NA,3.03,3.03,NA,NA
-1,"SVP",13,"Wahlkreis XIII, Pfäffikon",296,"Illnau-Effretikon",NA,NA,NA,NA,31.24,31.24,NA,NA
-2,"SP",13,"Wahlkreis XIII, Pfäffikon",296,"Illnau-Effretikon",NA,NA,NA,NA,19.67,19.67,NA,NA
-3,"FDP",13,"Wahlkreis XIII, Pfäffikon",296,"Illnau-Effretikon",NA,NA,NA,NA,19.09,19.09,NA,NA
-4,"GLP",13,"Wahlkreis XIII, Pfäffikon",296,"Illnau-Effretikon",NA,NA,NA,NA,6.54,6.54,NA,NA
-5,"Grüne",13,"Wahlkreis XIII, Pfäffikon",296,"Illnau-Effretikon",NA,NA,NA,NA,5.98,5.98,NA,NA
-6,"CVP",13,"Wahlkreis XIII, Pfäffikon",296,"Illnau-Effretikon",NA,NA,NA,NA,4.52,4.52,NA,NA
-7,"EVP",13,"Wahlkreis XIII, Pfäffikon",296,"Illnau-Effretikon",NA,NA,NA,NA,5.02,5.02,NA,NA
-8,"AL",13,"Wahlkreis XIII, Pfäffikon",296,"Illnau-Effretikon",NA,NA,NA,NA,1.16,1.16,NA,NA
-9,"BDP",13,"Wahlkreis XIII, Pfäffikon",296,"Illnau-Effretikon",NA,NA,NA,NA,2.82,2.82,NA,NA
-10,"EDU",13,"Wahlkreis XIII, Pfäffikon",296,"Illnau-Effretikon",NA,NA,NA,NA,3.5,3.5,NA,NA
-1,"SVP",13,"Wahlkreis XIII, Pfäffikon",297,"Bauma",NA,NA,NA,NA,42.88,42.88,NA,NA
-2,"SP",13,"Wahlkreis XIII, Pfäffikon",297,"Bauma",NA,NA,NA,NA,14.63,14.63,NA,NA
-3,"FDP",13,"Wahlkreis XIII, Pfäffikon",297,"Bauma",NA,NA,NA,NA,5.78,5.78,NA,NA
-4,"GLP",13,"Wahlkreis XIII, Pfäffikon",297,"Bauma",NA,NA,NA,NA,3.74,3.74,NA,NA
-5,"Grüne",13,"Wahlkreis XIII, Pfäffikon",297,"Bauma",NA,NA,NA,NA,4.8,4.8,NA,NA
-6,"CVP",13,"Wahlkreis XIII, Pfäffikon",297,"Bauma",NA,NA,NA,NA,1.9,1.9,NA,NA
-7,"EVP",13,"Wahlkreis XIII, Pfäffikon",297,"Bauma",NA,NA,NA,NA,16.41,16.41,NA,NA
-8,"AL",13,"Wahlkreis XIII, Pfäffikon",297,"Bauma",NA,NA,NA,NA,1,1,NA,NA
-9,"BDP",13,"Wahlkreis XIII, Pfäffikon",297,"Bauma",NA,NA,NA,NA,1.21,1.21,NA,NA
-10,"EDU",13,"Wahlkreis XIII, Pfäffikon",297,"Bauma",NA,NA,NA,NA,7.11,7.11,NA,NA
-1,"SVP",14,"Wahlkreis XIV, Stadt Winterthur",10230,"Winterthur Altstadt",NA,NA,NA,NA,13.03,13.03,NA,NA
-2,"SP",14,"Wahlkreis XIV, Stadt Winterthur",10230,"Winterthur Altstadt",NA,NA,NA,NA,27.41,27.41,NA,NA
-3,"FDP",14,"Wahlkreis XIV, Stadt Winterthur",10230,"Winterthur Altstadt",NA,NA,NA,NA,15.47,15.47,NA,NA
-4,"GLP",14,"Wahlkreis XIV, Stadt Winterthur",10230,"Winterthur Altstadt",NA,NA,NA,NA,10.99,10.99,NA,NA
-5,"Grüne",14,"Wahlkreis XIV, Stadt Winterthur",10230,"Winterthur Altstadt",NA,NA,NA,NA,11.53,11.53,NA,NA
-6,"CVP",14,"Wahlkreis XIV, Stadt Winterthur",10230,"Winterthur Altstadt",NA,NA,NA,NA,4.73,4.73,NA,NA
-7,"EVP",14,"Wahlkreis XIV, Stadt Winterthur",10230,"Winterthur Altstadt",NA,NA,NA,NA,5.72,5.72,NA,NA
-8,"AL",14,"Wahlkreis XIV, Stadt Winterthur",10230,"Winterthur Altstadt",NA,NA,NA,NA,5.96,5.96,NA,NA
-9,"BDP",14,"Wahlkreis XIV, Stadt Winterthur",10230,"Winterthur Altstadt",NA,NA,NA,NA,1.67,1.67,NA,NA
-10,"EDU",14,"Wahlkreis XIV, Stadt Winterthur",10230,"Winterthur Altstadt",NA,NA,NA,NA,1.24,1.24,NA,NA
-1,"SVP",14,"Wahlkreis XIV, Stadt Winterthur",20230,"Winterthur O'Winterthur",NA,NA,NA,NA,24.19,24.19,NA,NA
-2,"SP",14,"Wahlkreis XIV, Stadt Winterthur",20230,"Winterthur O'Winterthur",NA,NA,NA,NA,21.32,21.32,NA,NA
-3,"FDP",14,"Wahlkreis XIV, Stadt Winterthur",20230,"Winterthur O'Winterthur",NA,NA,NA,NA,12.5,12.5,NA,NA
-4,"GLP",14,"Wahlkreis XIV, Stadt Winterthur",20230,"Winterthur O'Winterthur",NA,NA,NA,NA,8.63,8.63,NA,NA
-5,"Grüne",14,"Wahlkreis XIV, Stadt Winterthur",20230,"Winterthur O'Winterthur",NA,NA,NA,NA,9.63,9.63,NA,NA
-6,"CVP",14,"Wahlkreis XIV, Stadt Winterthur",20230,"Winterthur O'Winterthur",NA,NA,NA,NA,5.43,5.43,NA,NA
-7,"EVP",14,"Wahlkreis XIV, Stadt Winterthur",20230,"Winterthur O'Winterthur",NA,NA,NA,NA,7.89,7.89,NA,NA
-8,"AL",14,"Wahlkreis XIV, Stadt Winterthur",20230,"Winterthur O'Winterthur",NA,NA,NA,NA,2.91,2.91,NA,NA
-9,"BDP",14,"Wahlkreis XIV, Stadt Winterthur",20230,"Winterthur O'Winterthur",NA,NA,NA,NA,2.94,2.94,NA,NA
-10,"EDU",14,"Wahlkreis XIV, Stadt Winterthur",20230,"Winterthur O'Winterthur",NA,NA,NA,NA,3,3,NA,NA
-1,"SVP",14,"Wahlkreis XIV, Stadt Winterthur",30230,"Winterthur Seen",NA,NA,NA,NA,28.54,28.54,NA,NA
-2,"SP",14,"Wahlkreis XIV, Stadt Winterthur",30230,"Winterthur Seen",NA,NA,NA,NA,18.36,18.36,NA,NA
-3,"FDP",14,"Wahlkreis XIV, Stadt Winterthur",30230,"Winterthur Seen",NA,NA,NA,NA,13.65,13.65,NA,NA
-4,"GLP",14,"Wahlkreis XIV, Stadt Winterthur",30230,"Winterthur Seen",NA,NA,NA,NA,7.62,7.62,NA,NA
-5,"Grüne",14,"Wahlkreis XIV, Stadt Winterthur",30230,"Winterthur Seen",NA,NA,NA,NA,6.03,6.03,NA,NA
-6,"CVP",14,"Wahlkreis XIV, Stadt Winterthur",30230,"Winterthur Seen",NA,NA,NA,NA,6,6,NA,NA
-7,"EVP",14,"Wahlkreis XIV, Stadt Winterthur",30230,"Winterthur Seen",NA,NA,NA,NA,8.93,8.93,NA,NA
-8,"AL",14,"Wahlkreis XIV, Stadt Winterthur",30230,"Winterthur Seen",NA,NA,NA,NA,1.86,1.86,NA,NA
-9,"BDP",14,"Wahlkreis XIV, Stadt Winterthur",30230,"Winterthur Seen",NA,NA,NA,NA,3.82,3.82,NA,NA
-10,"EDU",14,"Wahlkreis XIV, Stadt Winterthur",30230,"Winterthur Seen",NA,NA,NA,NA,3.84,3.84,NA,NA
-1,"SVP",14,"Wahlkreis XIV, Stadt Winterthur",40230,"Winterthur Töss",NA,NA,NA,NA,26.4,26.4,NA,NA
-2,"SP",14,"Wahlkreis XIV, Stadt Winterthur",40230,"Winterthur Töss",NA,NA,NA,NA,24.74,24.74,NA,NA
-3,"FDP",14,"Wahlkreis XIV, Stadt Winterthur",40230,"Winterthur Töss",NA,NA,NA,NA,10.87,10.87,NA,NA
-4,"GLP",14,"Wahlkreis XIV, Stadt Winterthur",40230,"Winterthur Töss",NA,NA,NA,NA,6.39,6.39,NA,NA
-5,"Grüne",14,"Wahlkreis XIV, Stadt Winterthur",40230,"Winterthur Töss",NA,NA,NA,NA,7.16,7.16,NA,NA
-6,"CVP",14,"Wahlkreis XIV, Stadt Winterthur",40230,"Winterthur Töss",NA,NA,NA,NA,4.52,4.52,NA,NA
-7,"EVP",14,"Wahlkreis XIV, Stadt Winterthur",40230,"Winterthur Töss",NA,NA,NA,NA,8.63,8.63,NA,NA
-8,"AL",14,"Wahlkreis XIV, Stadt Winterthur",40230,"Winterthur Töss",NA,NA,NA,NA,4.29,4.29,NA,NA
-9,"BDP",14,"Wahlkreis XIV, Stadt Winterthur",40230,"Winterthur Töss",NA,NA,NA,NA,3.14,3.14,NA,NA
-10,"EDU",14,"Wahlkreis XIV, Stadt Winterthur",40230,"Winterthur Töss",NA,NA,NA,NA,1.8,1.8,NA,NA
-1,"SVP",14,"Wahlkreis XIV, Stadt Winterthur",50230,"Winterthur Veltheim",NA,NA,NA,NA,16.44,16.44,NA,NA
-2,"SP",14,"Wahlkreis XIV, Stadt Winterthur",50230,"Winterthur Veltheim",NA,NA,NA,NA,29.47,29.47,NA,NA
-3,"FDP",14,"Wahlkreis XIV, Stadt Winterthur",50230,"Winterthur Veltheim",NA,NA,NA,NA,10.78,10.78,NA,NA
-4,"GLP",14,"Wahlkreis XIV, Stadt Winterthur",50230,"Winterthur Veltheim",NA,NA,NA,NA,8.08,8.08,NA,NA
-5,"Grüne",14,"Wahlkreis XIV, Stadt Winterthur",50230,"Winterthur Veltheim",NA,NA,NA,NA,12.59,12.59,NA,NA
-6,"CVP",14,"Wahlkreis XIV, Stadt Winterthur",50230,"Winterthur Veltheim",NA,NA,NA,NA,4.66,4.66,NA,NA
-7,"EVP",14,"Wahlkreis XIV, Stadt Winterthur",50230,"Winterthur Veltheim",NA,NA,NA,NA,7.85,7.85,NA,NA
-8,"AL",14,"Wahlkreis XIV, Stadt Winterthur",50230,"Winterthur Veltheim",NA,NA,NA,NA,4.81,4.81,NA,NA
-9,"BDP",14,"Wahlkreis XIV, Stadt Winterthur",50230,"Winterthur Veltheim",NA,NA,NA,NA,2.56,2.56,NA,NA
-10,"EDU",14,"Wahlkreis XIV, Stadt Winterthur",50230,"Winterthur Veltheim",NA,NA,NA,NA,1.2,1.2,NA,NA
-1,"SVP",14,"Wahlkreis XIV, Stadt Winterthur",60230,"Winterthur Wülflingen",NA,NA,NA,NA,27.92,27.92,NA,NA
-2,"SP",14,"Wahlkreis XIV, Stadt Winterthur",60230,"Winterthur Wülflingen",NA,NA,NA,NA,24.18,24.18,NA,NA
-3,"FDP",14,"Wahlkreis XIV, Stadt Winterthur",60230,"Winterthur Wülflingen",NA,NA,NA,NA,11.52,11.52,NA,NA
-4,"GLP",14,"Wahlkreis XIV, Stadt Winterthur",60230,"Winterthur Wülflingen",NA,NA,NA,NA,6.5,6.5,NA,NA
-5,"Grüne",14,"Wahlkreis XIV, Stadt Winterthur",60230,"Winterthur Wülflingen",NA,NA,NA,NA,6.44,6.44,NA,NA
-6,"CVP",14,"Wahlkreis XIV, Stadt Winterthur",60230,"Winterthur Wülflingen",NA,NA,NA,NA,6.59,6.59,NA,NA
-7,"EVP",14,"Wahlkreis XIV, Stadt Winterthur",60230,"Winterthur Wülflingen",NA,NA,NA,NA,7.66,7.66,NA,NA
-8,"AL",14,"Wahlkreis XIV, Stadt Winterthur",60230,"Winterthur Wülflingen",NA,NA,NA,NA,2.77,2.77,NA,NA
-9,"BDP",14,"Wahlkreis XIV, Stadt Winterthur",60230,"Winterthur Wülflingen",NA,NA,NA,NA,3.37,3.37,NA,NA
-10,"EDU",14,"Wahlkreis XIV, Stadt Winterthur",60230,"Winterthur Wülflingen",NA,NA,NA,NA,1.8,1.8,NA,NA
-1,"SVP",14,"Wahlkreis XIV, Stadt Winterthur",70230,"Winterthur Mattenbach",NA,NA,NA,NA,20.95,20.95,NA,NA
-2,"SP",14,"Wahlkreis XIV, Stadt Winterthur",70230,"Winterthur Mattenbach",NA,NA,NA,NA,27.24,27.24,NA,NA
-3,"FDP",14,"Wahlkreis XIV, Stadt Winterthur",70230,"Winterthur Mattenbach",NA,NA,NA,NA,9.02,9.02,NA,NA
-4,"GLP",14,"Wahlkreis XIV, Stadt Winterthur",70230,"Winterthur Mattenbach",NA,NA,NA,NA,6.85,6.85,NA,NA
-5,"Grüne",14,"Wahlkreis XIV, Stadt Winterthur",70230,"Winterthur Mattenbach",NA,NA,NA,NA,10.27,10.27,NA,NA
-6,"CVP",14,"Wahlkreis XIV, Stadt Winterthur",70230,"Winterthur Mattenbach",NA,NA,NA,NA,6.13,6.13,NA,NA
-7,"EVP",14,"Wahlkreis XIV, Stadt Winterthur",70230,"Winterthur Mattenbach",NA,NA,NA,NA,7.88,7.88,NA,NA
-8,"AL",14,"Wahlkreis XIV, Stadt Winterthur",70230,"Winterthur Mattenbach",NA,NA,NA,NA,4.11,4.11,NA,NA
-9,"BDP",14,"Wahlkreis XIV, Stadt Winterthur",70230,"Winterthur Mattenbach",NA,NA,NA,NA,2.8,2.8,NA,NA
-10,"EDU",14,"Wahlkreis XIV, Stadt Winterthur",70230,"Winterthur Mattenbach",NA,NA,NA,NA,2.5,2.5,NA,NA
-1,"SVP",15,"Wahlkreis XV, Winterthur-Land",211,"Altikon",NA,NA,NA,NA,55.14,55.14,NA,NA
-2,"SP",15,"Wahlkreis XV, Winterthur-Land",211,"Altikon",NA,NA,NA,NA,9.18,9.18,NA,NA
-3,"FDP",15,"Wahlkreis XV, Winterthur-Land",211,"Altikon",NA,NA,NA,NA,5.85,5.85,NA,NA
-4,"GLP",15,"Wahlkreis XV, Winterthur-Land",211,"Altikon",NA,NA,NA,NA,2.74,2.74,NA,NA
-5,"Grüne",15,"Wahlkreis XV, Winterthur-Land",211,"Altikon",NA,NA,NA,NA,5.55,5.55,NA,NA
-6,"CVP",15,"Wahlkreis XV, Winterthur-Land",211,"Altikon",NA,NA,NA,NA,2.96,2.96,NA,NA
-7,"EVP",15,"Wahlkreis XV, Winterthur-Land",211,"Altikon",NA,NA,NA,NA,0.96,0.96,NA,NA
-8,"AL",15,"Wahlkreis XV, Winterthur-Land",211,"Altikon",NA,NA,NA,NA,1.26,1.26,NA,NA
-9,"BDP",15,"Wahlkreis XV, Winterthur-Land",211,"Altikon",NA,NA,NA,NA,13.4,13.4,NA,NA
-10,"EDU",15,"Wahlkreis XV, Winterthur-Land",211,"Altikon",NA,NA,NA,NA,2.81,2.81,NA,NA
-1,"SVP",15,"Wahlkreis XV, Winterthur-Land",213,"Brütten",NA,NA,NA,NA,35.7,35.7,NA,NA
-2,"SP",15,"Wahlkreis XV, Winterthur-Land",213,"Brütten",NA,NA,NA,NA,11.77,11.77,NA,NA
-3,"FDP",15,"Wahlkreis XV, Winterthur-Land",213,"Brütten",NA,NA,NA,NA,26.7,26.7,NA,NA
-4,"GLP",15,"Wahlkreis XV, Winterthur-Land",213,"Brütten",NA,NA,NA,NA,10.35,10.35,NA,NA
-5,"Grüne",15,"Wahlkreis XV, Winterthur-Land",213,"Brütten",NA,NA,NA,NA,3.96,3.96,NA,NA
-6,"CVP",15,"Wahlkreis XV, Winterthur-Land",213,"Brütten",NA,NA,NA,NA,1.85,1.85,NA,NA
-7,"EVP",15,"Wahlkreis XV, Winterthur-Land",213,"Brütten",NA,NA,NA,NA,2.68,2.68,NA,NA
-8,"AL",15,"Wahlkreis XV, Winterthur-Land",213,"Brütten",NA,NA,NA,NA,0.36,0.36,NA,NA
-9,"BDP",15,"Wahlkreis XV, Winterthur-Land",213,"Brütten",NA,NA,NA,NA,4.55,4.55,NA,NA
-10,"EDU",15,"Wahlkreis XV, Winterthur-Land",213,"Brütten",NA,NA,NA,NA,1.63,1.63,NA,NA
-1,"SVP",15,"Wahlkreis XV, Winterthur-Land",214,"Dägerlen",NA,NA,NA,NA,44.02,44.02,NA,NA
-2,"SP",15,"Wahlkreis XV, Winterthur-Land",214,"Dägerlen",NA,NA,NA,NA,12.23,12.23,NA,NA
-3,"FDP",15,"Wahlkreis XV, Winterthur-Land",214,"Dägerlen",NA,NA,NA,NA,4.8,4.8,NA,NA
-4,"GLP",15,"Wahlkreis XV, Winterthur-Land",214,"Dägerlen",NA,NA,NA,NA,12.18,12.18,NA,NA
-5,"Grüne",15,"Wahlkreis XV, Winterthur-Land",214,"Dägerlen",NA,NA,NA,NA,5.54,5.54,NA,NA
-6,"CVP",15,"Wahlkreis XV, Winterthur-Land",214,"Dägerlen",NA,NA,NA,NA,0.69,0.69,NA,NA
-7,"EVP",15,"Wahlkreis XV, Winterthur-Land",214,"Dägerlen",NA,NA,NA,NA,6.91,6.91,NA,NA
-8,"AL",15,"Wahlkreis XV, Winterthur-Land",214,"Dägerlen",NA,NA,NA,NA,0.84,0.84,NA,NA
-9,"BDP",15,"Wahlkreis XV, Winterthur-Land",214,"Dägerlen",NA,NA,NA,NA,4.96,4.96,NA,NA
-10,"EDU",15,"Wahlkreis XV, Winterthur-Land",214,"Dägerlen",NA,NA,NA,NA,6.38,6.38,NA,NA
-1,"SVP",15,"Wahlkreis XV, Winterthur-Land",215,"Dättlikon",NA,NA,NA,NA,37.72,37.72,NA,NA
-2,"SP",15,"Wahlkreis XV, Winterthur-Land",215,"Dättlikon",NA,NA,NA,NA,15.65,15.65,NA,NA
-3,"FDP",15,"Wahlkreis XV, Winterthur-Land",215,"Dättlikon",NA,NA,NA,NA,11.87,11.87,NA,NA
-4,"GLP",15,"Wahlkreis XV, Winterthur-Land",215,"Dättlikon",NA,NA,NA,NA,6.86,6.86,NA,NA
-5,"Grüne",15,"Wahlkreis XV, Winterthur-Land",215,"Dättlikon",NA,NA,NA,NA,7.79,7.79,NA,NA
-6,"CVP",15,"Wahlkreis XV, Winterthur-Land",215,"Dättlikon",NA,NA,NA,NA,1.05,1.05,NA,NA
-7,"EVP",15,"Wahlkreis XV, Winterthur-Land",215,"Dättlikon",NA,NA,NA,NA,4.76,4.76,NA,NA
-8,"AL",15,"Wahlkreis XV, Winterthur-Land",215,"Dättlikon",NA,NA,NA,NA,0.74,0.74,NA,NA
-9,"BDP",15,"Wahlkreis XV, Winterthur-Land",215,"Dättlikon",NA,NA,NA,NA,9.83,9.83,NA,NA
-10,"EDU",15,"Wahlkreis XV, Winterthur-Land",215,"Dättlikon",NA,NA,NA,NA,1.48,1.48,NA,NA
-1,"SVP",15,"Wahlkreis XV, Winterthur-Land",216,"Dinhard",NA,NA,NA,NA,54.55,54.55,NA,NA
-2,"SP",15,"Wahlkreis XV, Winterthur-Land",216,"Dinhard",NA,NA,NA,NA,9.13,9.13,NA,NA
-3,"FDP",15,"Wahlkreis XV, Winterthur-Land",216,"Dinhard",NA,NA,NA,NA,8.11,8.11,NA,NA
-4,"GLP",15,"Wahlkreis XV, Winterthur-Land",216,"Dinhard",NA,NA,NA,NA,7.19,7.19,NA,NA
-5,"Grüne",15,"Wahlkreis XV, Winterthur-Land",216,"Dinhard",NA,NA,NA,NA,4.89,4.89,NA,NA
-6,"CVP",15,"Wahlkreis XV, Winterthur-Land",216,"Dinhard",NA,NA,NA,NA,1.73,1.73,NA,NA
-7,"EVP",15,"Wahlkreis XV, Winterthur-Land",216,"Dinhard",NA,NA,NA,NA,4.47,4.47,NA,NA
-8,"AL",15,"Wahlkreis XV, Winterthur-Land",216,"Dinhard",NA,NA,NA,NA,0.98,0.98,NA,NA
-9,"BDP",15,"Wahlkreis XV, Winterthur-Land",216,"Dinhard",NA,NA,NA,NA,3.34,3.34,NA,NA
-10,"EDU",15,"Wahlkreis XV, Winterthur-Land",216,"Dinhard",NA,NA,NA,NA,4.44,4.44,NA,NA
-1,"SVP",15,"Wahlkreis XV, Winterthur-Land",218,"Ellikon a.d.Thur",NA,NA,NA,NA,47.2,47.2,NA,NA
-2,"SP",15,"Wahlkreis XV, Winterthur-Land",218,"Ellikon a.d.Thur",NA,NA,NA,NA,10.25,10.25,NA,NA
-3,"FDP",15,"Wahlkreis XV, Winterthur-Land",218,"Ellikon a.d.Thur",NA,NA,NA,NA,7.07,7.07,NA,NA
-4,"GLP",15,"Wahlkreis XV, Winterthur-Land",218,"Ellikon a.d.Thur",NA,NA,NA,NA,4.11,4.11,NA,NA
-5,"Grüne",15,"Wahlkreis XV, Winterthur-Land",218,"Ellikon a.d.Thur",NA,NA,NA,NA,3.96,3.96,NA,NA
-6,"CVP",15,"Wahlkreis XV, Winterthur-Land",218,"Ellikon a.d.Thur",NA,NA,NA,NA,0.78,0.78,NA,NA
-7,"EVP",15,"Wahlkreis XV, Winterthur-Land",218,"Ellikon a.d.Thur",NA,NA,NA,NA,3.34,3.34,NA,NA
-8,"AL",15,"Wahlkreis XV, Winterthur-Land",218,"Ellikon a.d.Thur",NA,NA,NA,NA,0.85,0.85,NA,NA
-9,"BDP",15,"Wahlkreis XV, Winterthur-Land",218,"Ellikon a.d.Thur",NA,NA,NA,NA,14.6,14.6,NA,NA
-10,"EDU",15,"Wahlkreis XV, Winterthur-Land",218,"Ellikon a.d.Thur",NA,NA,NA,NA,6.44,6.44,NA,NA
-1,"SVP",15,"Wahlkreis XV, Winterthur-Land",219,"Elsau",NA,NA,NA,NA,33.94,33.94,NA,NA
-2,"SP",15,"Wahlkreis XV, Winterthur-Land",219,"Elsau",NA,NA,NA,NA,18.2,18.2,NA,NA
-3,"FDP",15,"Wahlkreis XV, Winterthur-Land",219,"Elsau",NA,NA,NA,NA,15.71,15.71,NA,NA
-4,"GLP",15,"Wahlkreis XV, Winterthur-Land",219,"Elsau",NA,NA,NA,NA,9.95,9.95,NA,NA
-5,"Grüne",15,"Wahlkreis XV, Winterthur-Land",219,"Elsau",NA,NA,NA,NA,6.23,6.23,NA,NA
-6,"CVP",15,"Wahlkreis XV, Winterthur-Land",219,"Elsau",NA,NA,NA,NA,2.72,2.72,NA,NA
-7,"EVP",15,"Wahlkreis XV, Winterthur-Land",219,"Elsau",NA,NA,NA,NA,4.93,4.93,NA,NA
-8,"AL",15,"Wahlkreis XV, Winterthur-Land",219,"Elsau",NA,NA,NA,NA,0.49,0.49,NA,NA
-9,"BDP",15,"Wahlkreis XV, Winterthur-Land",219,"Elsau",NA,NA,NA,NA,3.67,3.67,NA,NA
-10,"EDU",15,"Wahlkreis XV, Winterthur-Land",219,"Elsau",NA,NA,NA,NA,3.11,3.11,NA,NA
-1,"SVP",15,"Wahlkreis XV, Winterthur-Land",220,"Hagenbuch",NA,NA,NA,NA,60.59,60.59,NA,NA
-2,"SP",15,"Wahlkreis XV, Winterthur-Land",220,"Hagenbuch",NA,NA,NA,NA,10.59,10.59,NA,NA
-3,"FDP",15,"Wahlkreis XV, Winterthur-Land",220,"Hagenbuch",NA,NA,NA,NA,3.45,3.45,NA,NA
-4,"GLP",15,"Wahlkreis XV, Winterthur-Land",220,"Hagenbuch",NA,NA,NA,NA,7.64,7.64,NA,NA
-5,"Grüne",15,"Wahlkreis XV, Winterthur-Land",220,"Hagenbuch",NA,NA,NA,NA,2.83,2.83,NA,NA
-6,"CVP",15,"Wahlkreis XV, Winterthur-Land",220,"Hagenbuch",NA,NA,NA,NA,0.99,0.99,NA,NA
-7,"EVP",15,"Wahlkreis XV, Winterthur-Land",220,"Hagenbuch",NA,NA,NA,NA,4.13,4.13,NA,NA
-8,"AL",15,"Wahlkreis XV, Winterthur-Land",220,"Hagenbuch",NA,NA,NA,NA,0.99,0.99,NA,NA
-9,"BDP",15,"Wahlkreis XV, Winterthur-Land",220,"Hagenbuch",NA,NA,NA,NA,5.48,5.48,NA,NA
-10,"EDU",15,"Wahlkreis XV, Winterthur-Land",220,"Hagenbuch",NA,NA,NA,NA,2.4,2.4,NA,NA
-1,"SVP",15,"Wahlkreis XV, Winterthur-Land",221,"Hettlingen",NA,NA,NA,NA,33.55,33.55,NA,NA
-2,"SP",15,"Wahlkreis XV, Winterthur-Land",221,"Hettlingen",NA,NA,NA,NA,9.76,9.76,NA,NA
-3,"FDP",15,"Wahlkreis XV, Winterthur-Land",221,"Hettlingen",NA,NA,NA,NA,20.32,20.32,NA,NA
-4,"GLP",15,"Wahlkreis XV, Winterthur-Land",221,"Hettlingen",NA,NA,NA,NA,15.8,15.8,NA,NA
-5,"Grüne",15,"Wahlkreis XV, Winterthur-Land",221,"Hettlingen",NA,NA,NA,NA,5.13,5.13,NA,NA
-6,"CVP",15,"Wahlkreis XV, Winterthur-Land",221,"Hettlingen",NA,NA,NA,NA,2.81,2.81,NA,NA
-7,"EVP",15,"Wahlkreis XV, Winterthur-Land",221,"Hettlingen",NA,NA,NA,NA,5.63,5.63,NA,NA
-8,"AL",15,"Wahlkreis XV, Winterthur-Land",221,"Hettlingen",NA,NA,NA,NA,0.82,0.82,NA,NA
-9,"BDP",15,"Wahlkreis XV, Winterthur-Land",221,"Hettlingen",NA,NA,NA,NA,3.22,3.22,NA,NA
-10,"EDU",15,"Wahlkreis XV, Winterthur-Land",221,"Hettlingen",NA,NA,NA,NA,2.03,2.03,NA,NA
-1,"SVP",15,"Wahlkreis XV, Winterthur-Land",223,"Neftenbach",NA,NA,NA,NA,40.58,40.58,NA,NA
-2,"SP",15,"Wahlkreis XV, Winterthur-Land",223,"Neftenbach",NA,NA,NA,NA,12.6,12.6,NA,NA
-3,"FDP",15,"Wahlkreis XV, Winterthur-Land",223,"Neftenbach",NA,NA,NA,NA,15.07,15.07,NA,NA
-4,"GLP",15,"Wahlkreis XV, Winterthur-Land",223,"Neftenbach",NA,NA,NA,NA,8.18,8.18,NA,NA
-5,"Grüne",15,"Wahlkreis XV, Winterthur-Land",223,"Neftenbach",NA,NA,NA,NA,4.57,4.57,NA,NA
-6,"CVP",15,"Wahlkreis XV, Winterthur-Land",223,"Neftenbach",NA,NA,NA,NA,2.29,2.29,NA,NA
-7,"EVP",15,"Wahlkreis XV, Winterthur-Land",223,"Neftenbach",NA,NA,NA,NA,5.46,5.46,NA,NA
-8,"AL",15,"Wahlkreis XV, Winterthur-Land",223,"Neftenbach",NA,NA,NA,NA,0.94,0.94,NA,NA
-9,"BDP",15,"Wahlkreis XV, Winterthur-Land",223,"Neftenbach",NA,NA,NA,NA,5.49,5.49,NA,NA
-10,"EDU",15,"Wahlkreis XV, Winterthur-Land",223,"Neftenbach",NA,NA,NA,NA,3.55,3.55,NA,NA
-1,"SVP",15,"Wahlkreis XV, Winterthur-Land",224,"Pfungen",NA,NA,NA,NA,39.31,39.31,NA,NA
-2,"SP",15,"Wahlkreis XV, Winterthur-Land",224,"Pfungen",NA,NA,NA,NA,12.95,12.95,NA,NA
-3,"FDP",15,"Wahlkreis XV, Winterthur-Land",224,"Pfungen",NA,NA,NA,NA,11.44,11.44,NA,NA
-4,"GLP",15,"Wahlkreis XV, Winterthur-Land",224,"Pfungen",NA,NA,NA,NA,6.51,6.51,NA,NA
-5,"Grüne",15,"Wahlkreis XV, Winterthur-Land",224,"Pfungen",NA,NA,NA,NA,6.44,6.44,NA,NA
-6,"CVP",15,"Wahlkreis XV, Winterthur-Land",224,"Pfungen",NA,NA,NA,NA,3.35,3.35,NA,NA
-7,"EVP",15,"Wahlkreis XV, Winterthur-Land",224,"Pfungen",NA,NA,NA,NA,4.06,4.06,NA,NA
-8,"AL",15,"Wahlkreis XV, Winterthur-Land",224,"Pfungen",NA,NA,NA,NA,1.41,1.41,NA,NA
-9,"BDP",15,"Wahlkreis XV, Winterthur-Land",224,"Pfungen",NA,NA,NA,NA,11.15,11.15,NA,NA
-10,"EDU",15,"Wahlkreis XV, Winterthur-Land",224,"Pfungen",NA,NA,NA,NA,2.38,2.38,NA,NA
-1,"SVP",15,"Wahlkreis XV, Winterthur-Land",225,"Rickenbach",NA,NA,NA,NA,44.45,44.45,NA,NA
-2,"SP",15,"Wahlkreis XV, Winterthur-Land",225,"Rickenbach",NA,NA,NA,NA,9.51,9.51,NA,NA
-3,"FDP",15,"Wahlkreis XV, Winterthur-Land",225,"Rickenbach",NA,NA,NA,NA,11.48,11.48,NA,NA
-4,"GLP",15,"Wahlkreis XV, Winterthur-Land",225,"Rickenbach",NA,NA,NA,NA,7.87,7.87,NA,NA
-5,"Grüne",15,"Wahlkreis XV, Winterthur-Land",225,"Rickenbach",NA,NA,NA,NA,7.33,7.33,NA,NA
-6,"CVP",15,"Wahlkreis XV, Winterthur-Land",225,"Rickenbach",NA,NA,NA,NA,3.65,3.65,NA,NA
-7,"EVP",15,"Wahlkreis XV, Winterthur-Land",225,"Rickenbach",NA,NA,NA,NA,6.28,6.28,NA,NA
-8,"AL",15,"Wahlkreis XV, Winterthur-Land",225,"Rickenbach",NA,NA,NA,NA,2.41,2.41,NA,NA
-9,"BDP",15,"Wahlkreis XV, Winterthur-Land",225,"Rickenbach",NA,NA,NA,NA,5.25,5.25,NA,NA
-10,"EDU",15,"Wahlkreis XV, Winterthur-Land",225,"Rickenbach",NA,NA,NA,NA,1.52,1.52,NA,NA
-1,"SVP",15,"Wahlkreis XV, Winterthur-Land",226,"Schlatt",NA,NA,NA,NA,48.78,48.78,NA,NA
-2,"SP",15,"Wahlkreis XV, Winterthur-Land",226,"Schlatt",NA,NA,NA,NA,11.05,11.05,NA,NA
-3,"FDP",15,"Wahlkreis XV, Winterthur-Land",226,"Schlatt",NA,NA,NA,NA,7.42,7.42,NA,NA
-4,"GLP",15,"Wahlkreis XV, Winterthur-Land",226,"Schlatt",NA,NA,NA,NA,7.18,7.18,NA,NA
-5,"Grüne",15,"Wahlkreis XV, Winterthur-Land",226,"Schlatt",NA,NA,NA,NA,5.68,5.68,NA,NA
-6,"CVP",15,"Wahlkreis XV, Winterthur-Land",226,"Schlatt",NA,NA,NA,NA,0,0,NA,NA
-7,"EVP",15,"Wahlkreis XV, Winterthur-Land",226,"Schlatt",NA,NA,NA,NA,6.87,6.87,NA,NA
-8,"AL",15,"Wahlkreis XV, Winterthur-Land",226,"Schlatt",NA,NA,NA,NA,1.1,1.1,NA,NA
-9,"BDP",15,"Wahlkreis XV, Winterthur-Land",226,"Schlatt",NA,NA,NA,NA,2.13,2.13,NA,NA
-10,"EDU",15,"Wahlkreis XV, Winterthur-Land",226,"Schlatt",NA,NA,NA,NA,9.63,9.63,NA,NA
-1,"SVP",15,"Wahlkreis XV, Winterthur-Land",227,"Seuzach",NA,NA,NA,NA,40.79,40.79,NA,NA
-2,"SP",15,"Wahlkreis XV, Winterthur-Land",227,"Seuzach",NA,NA,NA,NA,10.92,10.92,NA,NA
-3,"FDP",15,"Wahlkreis XV, Winterthur-Land",227,"Seuzach",NA,NA,NA,NA,21.33,21.33,NA,NA
-4,"GLP",15,"Wahlkreis XV, Winterthur-Land",227,"Seuzach",NA,NA,NA,NA,6.18,6.18,NA,NA
-5,"Grüne",15,"Wahlkreis XV, Winterthur-Land",227,"Seuzach",NA,NA,NA,NA,3.47,3.47,NA,NA
-6,"CVP",15,"Wahlkreis XV, Winterthur-Land",227,"Seuzach",NA,NA,NA,NA,3.84,3.84,NA,NA
-7,"EVP",15,"Wahlkreis XV, Winterthur-Land",227,"Seuzach",NA,NA,NA,NA,7.39,7.39,NA,NA
-8,"AL",15,"Wahlkreis XV, Winterthur-Land",227,"Seuzach",NA,NA,NA,NA,0.57,0.57,NA,NA
-9,"BDP",15,"Wahlkreis XV, Winterthur-Land",227,"Seuzach",NA,NA,NA,NA,2.68,2.68,NA,NA
-10,"EDU",15,"Wahlkreis XV, Winterthur-Land",227,"Seuzach",NA,NA,NA,NA,2.13,2.13,NA,NA
-1,"SVP",15,"Wahlkreis XV, Winterthur-Land",228,"Turbenthal",NA,NA,NA,NA,39.32,39.32,NA,NA
-2,"SP",15,"Wahlkreis XV, Winterthur-Land",228,"Turbenthal",NA,NA,NA,NA,17.28,17.28,NA,NA
-3,"FDP",15,"Wahlkreis XV, Winterthur-Land",228,"Turbenthal",NA,NA,NA,NA,8.63,8.63,NA,NA
-4,"GLP",15,"Wahlkreis XV, Winterthur-Land",228,"Turbenthal",NA,NA,NA,NA,4.5,4.5,NA,NA
-5,"Grüne",15,"Wahlkreis XV, Winterthur-Land",228,"Turbenthal",NA,NA,NA,NA,8.86,8.86,NA,NA
-6,"CVP",15,"Wahlkreis XV, Winterthur-Land",228,"Turbenthal",NA,NA,NA,NA,1.44,1.44,NA,NA
-7,"EVP",15,"Wahlkreis XV, Winterthur-Land",228,"Turbenthal",NA,NA,NA,NA,10.36,10.36,NA,NA
-8,"AL",15,"Wahlkreis XV, Winterthur-Land",228,"Turbenthal",NA,NA,NA,NA,0.59,0.59,NA,NA
-9,"BDP",15,"Wahlkreis XV, Winterthur-Land",228,"Turbenthal",NA,NA,NA,NA,3.78,3.78,NA,NA
-10,"EDU",15,"Wahlkreis XV, Winterthur-Land",228,"Turbenthal",NA,NA,NA,NA,4.53,4.53,NA,NA
-1,"SVP",15,"Wahlkreis XV, Winterthur-Land",231,"Zell",NA,NA,NA,NA,31.82,31.82,NA,NA
-2,"SP",15,"Wahlkreis XV, Winterthur-Land",231,"Zell",NA,NA,NA,NA,15.99,15.99,NA,NA
-3,"FDP",15,"Wahlkreis XV, Winterthur-Land",231,"Zell",NA,NA,NA,NA,8.5,8.5,NA,NA
-4,"GLP",15,"Wahlkreis XV, Winterthur-Land",231,"Zell",NA,NA,NA,NA,5.73,5.73,NA,NA
-5,"Grüne",15,"Wahlkreis XV, Winterthur-Land",231,"Zell",NA,NA,NA,NA,5.18,5.18,NA,NA
-6,"CVP",15,"Wahlkreis XV, Winterthur-Land",231,"Zell",NA,NA,NA,NA,3.58,3.58,NA,NA
-7,"EVP",15,"Wahlkreis XV, Winterthur-Land",231,"Zell",NA,NA,NA,NA,17.78,17.78,NA,NA
-8,"AL",15,"Wahlkreis XV, Winterthur-Land",231,"Zell",NA,NA,NA,NA,1.4,1.4,NA,NA
-9,"BDP",15,"Wahlkreis XV, Winterthur-Land",231,"Zell",NA,NA,NA,NA,5.07,5.07,NA,NA
-10,"EDU",15,"Wahlkreis XV, Winterthur-Land",231,"Zell",NA,NA,NA,NA,4.16,4.16,NA,NA
-1,"SVP",15,"Wahlkreis XV, Winterthur-Land",294,"Elgg",NA,NA,NA,NA,38.5,38.5,NA,NA
-2,"SP",15,"Wahlkreis XV, Winterthur-Land",294,"Elgg",NA,NA,NA,NA,15.78,15.78,NA,NA
-3,"FDP",15,"Wahlkreis XV, Winterthur-Land",294,"Elgg",NA,NA,NA,NA,8.38,8.38,NA,NA
-4,"GLP",15,"Wahlkreis XV, Winterthur-Land",294,"Elgg",NA,NA,NA,NA,17.97,17.97,NA,NA
-5,"Grüne",15,"Wahlkreis XV, Winterthur-Land",294,"Elgg",NA,NA,NA,NA,3.82,3.82,NA,NA
-6,"CVP",15,"Wahlkreis XV, Winterthur-Land",294,"Elgg",NA,NA,NA,NA,1.38,1.38,NA,NA
-7,"EVP",15,"Wahlkreis XV, Winterthur-Land",294,"Elgg",NA,NA,NA,NA,6.73,6.73,NA,NA
-8,"AL",15,"Wahlkreis XV, Winterthur-Land",294,"Elgg",NA,NA,NA,NA,0.59,0.59,NA,NA
-9,"BDP",15,"Wahlkreis XV, Winterthur-Land",294,"Elgg",NA,NA,NA,NA,2.41,2.41,NA,NA
-10,"EDU",15,"Wahlkreis XV, Winterthur-Land",294,"Elgg",NA,NA,NA,NA,3.69,3.69,NA,NA
-1,"SVP",15,"Wahlkreis XV, Winterthur-Land",298,"Wiesendangen",NA,NA,NA,NA,41.99,41.99,NA,NA
-2,"SP",15,"Wahlkreis XV, Winterthur-Land",298,"Wiesendangen",NA,NA,NA,NA,11.25,11.25,NA,NA
-3,"FDP",15,"Wahlkreis XV, Winterthur-Land",298,"Wiesendangen",NA,NA,NA,NA,15.22,15.22,NA,NA
-4,"GLP",15,"Wahlkreis XV, Winterthur-Land",298,"Wiesendangen",NA,NA,NA,NA,7.55,7.55,NA,NA
-5,"Grüne",15,"Wahlkreis XV, Winterthur-Land",298,"Wiesendangen",NA,NA,NA,NA,4.43,4.43,NA,NA
-6,"CVP",15,"Wahlkreis XV, Winterthur-Land",298,"Wiesendangen",NA,NA,NA,NA,7.19,7.19,NA,NA
-7,"EVP",15,"Wahlkreis XV, Winterthur-Land",298,"Wiesendangen",NA,NA,NA,NA,6.09,6.09,NA,NA
-8,"AL",15,"Wahlkreis XV, Winterthur-Land",298,"Wiesendangen",NA,NA,NA,NA,0.46,0.46,NA,NA
-9,"BDP",15,"Wahlkreis XV, Winterthur-Land",298,"Wiesendangen",NA,NA,NA,NA,3.32,3.32,NA,NA
-10,"EDU",15,"Wahlkreis XV, Winterthur-Land",298,"Wiesendangen",NA,NA,NA,NA,2.07,2.07,NA,NA
-1,"SVP",16,"Wahlkreis XVI, Andelfingen",21,"Adlikon",NA,NA,NA,NA,62.19,62.19,NA,NA
-2,"SP",16,"Wahlkreis XVI, Andelfingen",21,"Adlikon",NA,NA,NA,NA,4.85,4.85,NA,NA
-3,"FDP",16,"Wahlkreis XVI, Andelfingen",21,"Adlikon",NA,NA,NA,NA,10.95,10.95,NA,NA
-4,"GLP",16,"Wahlkreis XVI, Andelfingen",21,"Adlikon",NA,NA,NA,NA,1.37,1.37,NA,NA
-5,"Grüne",16,"Wahlkreis XVI, Andelfingen",21,"Adlikon",NA,NA,NA,NA,5.6,5.6,NA,NA
-6,"CVP",16,"Wahlkreis XVI, Andelfingen",21,"Adlikon",NA,NA,NA,NA,0.75,0.75,NA,NA
-7,"EVP",16,"Wahlkreis XVI, Andelfingen",21,"Adlikon",NA,NA,NA,NA,2.61,2.61,NA,NA
-8,"AL",16,"Wahlkreis XVI, Andelfingen",21,"Adlikon",NA,NA,NA,NA,1.12,1.12,NA,NA
-9,"BDP",16,"Wahlkreis XVI, Andelfingen",21,"Adlikon",NA,NA,NA,NA,6.84,6.84,NA,NA
-10,"EDU",16,"Wahlkreis XVI, Andelfingen",21,"Adlikon",NA,NA,NA,NA,3.73,3.73,NA,NA
-1,"SVP",16,"Wahlkreis XVI, Andelfingen",22,"Benken",NA,NA,NA,NA,42.92,42.92,NA,NA
-2,"SP",16,"Wahlkreis XVI, Andelfingen",22,"Benken",NA,NA,NA,NA,12.62,12.62,NA,NA
-3,"FDP",16,"Wahlkreis XVI, Andelfingen",22,"Benken",NA,NA,NA,NA,10.85,10.85,NA,NA
-4,"GLP",16,"Wahlkreis XVI, Andelfingen",22,"Benken",NA,NA,NA,NA,2.12,2.12,NA,NA
-5,"Grüne",16,"Wahlkreis XVI, Andelfingen",22,"Benken",NA,NA,NA,NA,14.86,14.86,NA,NA
-6,"CVP",16,"Wahlkreis XVI, Andelfingen",22,"Benken",NA,NA,NA,NA,2.83,2.83,NA,NA
-7,"EVP",16,"Wahlkreis XVI, Andelfingen",22,"Benken",NA,NA,NA,NA,0.83,0.83,NA,NA
-8,"AL",16,"Wahlkreis XVI, Andelfingen",22,"Benken",NA,NA,NA,NA,1.53,1.53,NA,NA
-9,"BDP",16,"Wahlkreis XVI, Andelfingen",22,"Benken",NA,NA,NA,NA,8.14,8.14,NA,NA
-10,"EDU",16,"Wahlkreis XVI, Andelfingen",22,"Benken",NA,NA,NA,NA,3.3,3.3,NA,NA
-1,"SVP",16,"Wahlkreis XVI, Andelfingen",23,"Berg am Irchel",NA,NA,NA,NA,49.74,49.74,NA,NA
-2,"SP",16,"Wahlkreis XVI, Andelfingen",23,"Berg am Irchel",NA,NA,NA,NA,6.25,6.25,NA,NA
-3,"FDP",16,"Wahlkreis XVI, Andelfingen",23,"Berg am Irchel",NA,NA,NA,NA,15.76,15.76,NA,NA
-4,"GLP",16,"Wahlkreis XVI, Andelfingen",23,"Berg am Irchel",NA,NA,NA,NA,4.17,4.17,NA,NA
-5,"Grüne",16,"Wahlkreis XVI, Andelfingen",23,"Berg am Irchel",NA,NA,NA,NA,11.07,11.07,NA,NA
-6,"CVP",16,"Wahlkreis XVI, Andelfingen",23,"Berg am Irchel",NA,NA,NA,NA,1.82,1.82,NA,NA
-7,"EVP",16,"Wahlkreis XVI, Andelfingen",23,"Berg am Irchel",NA,NA,NA,NA,1.56,1.56,NA,NA
-8,"AL",16,"Wahlkreis XVI, Andelfingen",23,"Berg am Irchel",NA,NA,NA,NA,0.91,0.91,NA,NA
-9,"BDP",16,"Wahlkreis XVI, Andelfingen",23,"Berg am Irchel",NA,NA,NA,NA,7.16,7.16,NA,NA
-10,"EDU",16,"Wahlkreis XVI, Andelfingen",23,"Berg am Irchel",NA,NA,NA,NA,1.56,1.56,NA,NA
-1,"SVP",16,"Wahlkreis XVI, Andelfingen",24,"Buch am Irchel",NA,NA,NA,NA,47.5,47.5,NA,NA
-2,"SP",16,"Wahlkreis XVI, Andelfingen",24,"Buch am Irchel",NA,NA,NA,NA,7.8,7.8,NA,NA
-3,"FDP",16,"Wahlkreis XVI, Andelfingen",24,"Buch am Irchel",NA,NA,NA,NA,16.9,16.9,NA,NA
-4,"GLP",16,"Wahlkreis XVI, Andelfingen",24,"Buch am Irchel",NA,NA,NA,NA,6.5,6.5,NA,NA
-5,"Grüne",16,"Wahlkreis XVI, Andelfingen",24,"Buch am Irchel",NA,NA,NA,NA,4.2,4.2,NA,NA
-6,"CVP",16,"Wahlkreis XVI, Andelfingen",24,"Buch am Irchel",NA,NA,NA,NA,1.1,1.1,NA,NA
-7,"EVP",16,"Wahlkreis XVI, Andelfingen",24,"Buch am Irchel",NA,NA,NA,NA,1,1,NA,NA
-8,"AL",16,"Wahlkreis XVI, Andelfingen",24,"Buch am Irchel",NA,NA,NA,NA,0,0,NA,NA
-9,"BDP",16,"Wahlkreis XVI, Andelfingen",24,"Buch am Irchel",NA,NA,NA,NA,9.6,9.6,NA,NA
-10,"EDU",16,"Wahlkreis XVI, Andelfingen",24,"Buch am Irchel",NA,NA,NA,NA,5.4,5.4,NA,NA
-1,"SVP",16,"Wahlkreis XVI, Andelfingen",25,"Dachsen",NA,NA,NA,NA,28.3,28.3,NA,NA
-2,"SP",16,"Wahlkreis XVI, Andelfingen",25,"Dachsen",NA,NA,NA,NA,24.42,24.42,NA,NA
-3,"FDP",16,"Wahlkreis XVI, Andelfingen",25,"Dachsen",NA,NA,NA,NA,13.95,13.95,NA,NA
-4,"GLP",16,"Wahlkreis XVI, Andelfingen",25,"Dachsen",NA,NA,NA,NA,5.32,5.32,NA,NA
-5,"Grüne",16,"Wahlkreis XVI, Andelfingen",25,"Dachsen",NA,NA,NA,NA,11.57,11.57,NA,NA
-6,"CVP",16,"Wahlkreis XVI, Andelfingen",25,"Dachsen",NA,NA,NA,NA,3.7,3.7,NA,NA
-7,"EVP",16,"Wahlkreis XVI, Andelfingen",25,"Dachsen",NA,NA,NA,NA,2.78,2.78,NA,NA
-8,"AL",16,"Wahlkreis XVI, Andelfingen",25,"Dachsen",NA,NA,NA,NA,1.33,1.33,NA,NA
-9,"BDP",16,"Wahlkreis XVI, Andelfingen",25,"Dachsen",NA,NA,NA,NA,6.19,6.19,NA,NA
-10,"EDU",16,"Wahlkreis XVI, Andelfingen",25,"Dachsen",NA,NA,NA,NA,2.43,2.43,NA,NA
-1,"SVP",16,"Wahlkreis XVI, Andelfingen",26,"Dorf",NA,NA,NA,NA,39.57,39.57,NA,NA
-2,"SP",16,"Wahlkreis XVI, Andelfingen",26,"Dorf",NA,NA,NA,NA,13.5,13.5,NA,NA
-3,"FDP",16,"Wahlkreis XVI, Andelfingen",26,"Dorf",NA,NA,NA,NA,18.58,18.58,NA,NA
-4,"GLP",16,"Wahlkreis XVI, Andelfingen",26,"Dorf",NA,NA,NA,NA,3.21,3.21,NA,NA
-5,"Grüne",16,"Wahlkreis XVI, Andelfingen",26,"Dorf",NA,NA,NA,NA,5.08,5.08,NA,NA
-6,"CVP",16,"Wahlkreis XVI, Andelfingen",26,"Dorf",NA,NA,NA,NA,1.34,1.34,NA,NA
-7,"EVP",16,"Wahlkreis XVI, Andelfingen",26,"Dorf",NA,NA,NA,NA,2.81,2.81,NA,NA
-8,"AL",16,"Wahlkreis XVI, Andelfingen",26,"Dorf",NA,NA,NA,NA,0,0,NA,NA
-9,"BDP",16,"Wahlkreis XVI, Andelfingen",26,"Dorf",NA,NA,NA,NA,2.14,2.14,NA,NA
-10,"EDU",16,"Wahlkreis XVI, Andelfingen",26,"Dorf",NA,NA,NA,NA,13.77,13.77,NA,NA
-1,"SVP",16,"Wahlkreis XVI, Andelfingen",27,"Feuerthalen",NA,NA,NA,NA,34.98,34.98,NA,NA
-2,"SP",16,"Wahlkreis XVI, Andelfingen",27,"Feuerthalen",NA,NA,NA,NA,34.23,34.23,NA,NA
-3,"FDP",16,"Wahlkreis XVI, Andelfingen",27,"Feuerthalen",NA,NA,NA,NA,9.27,9.27,NA,NA
-4,"GLP",16,"Wahlkreis XVI, Andelfingen",27,"Feuerthalen",NA,NA,NA,NA,3.64,3.64,NA,NA
-5,"Grüne",16,"Wahlkreis XVI, Andelfingen",27,"Feuerthalen",NA,NA,NA,NA,5.93,5.93,NA,NA
-6,"CVP",16,"Wahlkreis XVI, Andelfingen",27,"Feuerthalen",NA,NA,NA,NA,2.33,2.33,NA,NA
-7,"EVP",16,"Wahlkreis XVI, Andelfingen",27,"Feuerthalen",NA,NA,NA,NA,1.09,1.09,NA,NA
-8,"AL",16,"Wahlkreis XVI, Andelfingen",27,"Feuerthalen",NA,NA,NA,NA,0.83,0.83,NA,NA
-9,"BDP",16,"Wahlkreis XVI, Andelfingen",27,"Feuerthalen",NA,NA,NA,NA,4.95,4.95,NA,NA
-10,"EDU",16,"Wahlkreis XVI, Andelfingen",27,"Feuerthalen",NA,NA,NA,NA,2.74,2.74,NA,NA
-1,"SVP",16,"Wahlkreis XVI, Andelfingen",28,"Flaach",NA,NA,NA,NA,48.63,48.63,NA,NA
-2,"SP",16,"Wahlkreis XVI, Andelfingen",28,"Flaach",NA,NA,NA,NA,7.45,7.45,NA,NA
-3,"FDP",16,"Wahlkreis XVI, Andelfingen",28,"Flaach",NA,NA,NA,NA,22.2,22.2,NA,NA
-4,"GLP",16,"Wahlkreis XVI, Andelfingen",28,"Flaach",NA,NA,NA,NA,3.69,3.69,NA,NA
-5,"Grüne",16,"Wahlkreis XVI, Andelfingen",28,"Flaach",NA,NA,NA,NA,3.76,3.76,NA,NA
-6,"CVP",16,"Wahlkreis XVI, Andelfingen",28,"Flaach",NA,NA,NA,NA,0.14,0.14,NA,NA
-7,"EVP",16,"Wahlkreis XVI, Andelfingen",28,"Flaach",NA,NA,NA,NA,4.92,4.92,NA,NA
-8,"AL",16,"Wahlkreis XVI, Andelfingen",28,"Flaach",NA,NA,NA,NA,0.68,0.68,NA,NA
-9,"BDP",16,"Wahlkreis XVI, Andelfingen",28,"Flaach",NA,NA,NA,NA,2.94,2.94,NA,NA
-10,"EDU",16,"Wahlkreis XVI, Andelfingen",28,"Flaach",NA,NA,NA,NA,5.6,5.6,NA,NA
-1,"SVP",16,"Wahlkreis XVI, Andelfingen",29,"Flurlingen",NA,NA,NA,NA,27.68,27.68,NA,NA
-2,"SP",16,"Wahlkreis XVI, Andelfingen",29,"Flurlingen",NA,NA,NA,NA,24.18,24.18,NA,NA
-3,"FDP",16,"Wahlkreis XVI, Andelfingen",29,"Flurlingen",NA,NA,NA,NA,19.72,19.72,NA,NA
-4,"GLP",16,"Wahlkreis XVI, Andelfingen",29,"Flurlingen",NA,NA,NA,NA,5.58,5.58,NA,NA
-5,"Grüne",16,"Wahlkreis XVI, Andelfingen",29,"Flurlingen",NA,NA,NA,NA,12.57,12.57,NA,NA
-6,"CVP",16,"Wahlkreis XVI, Andelfingen",29,"Flurlingen",NA,NA,NA,NA,1.49,1.49,NA,NA
-7,"EVP",16,"Wahlkreis XVI, Andelfingen",29,"Flurlingen",NA,NA,NA,NA,1.19,1.19,NA,NA
-8,"AL",16,"Wahlkreis XVI, Andelfingen",29,"Flurlingen",NA,NA,NA,NA,1.86,1.86,NA,NA
-9,"BDP",16,"Wahlkreis XVI, Andelfingen",29,"Flurlingen",NA,NA,NA,NA,4.99,4.99,NA,NA
-10,"EDU",16,"Wahlkreis XVI, Andelfingen",29,"Flurlingen",NA,NA,NA,NA,0.74,0.74,NA,NA
-1,"SVP",16,"Wahlkreis XVI, Andelfingen",30,"Andelfingen",NA,NA,NA,NA,32.29,32.29,NA,NA
-2,"SP",16,"Wahlkreis XVI, Andelfingen",30,"Andelfingen",NA,NA,NA,NA,12.19,12.19,NA,NA
-3,"FDP",16,"Wahlkreis XVI, Andelfingen",30,"Andelfingen",NA,NA,NA,NA,21.36,21.36,NA,NA
-4,"GLP",16,"Wahlkreis XVI, Andelfingen",30,"Andelfingen",NA,NA,NA,NA,8.05,8.05,NA,NA
-5,"Grüne",16,"Wahlkreis XVI, Andelfingen",30,"Andelfingen",NA,NA,NA,NA,10.01,10.01,NA,NA
-6,"CVP",16,"Wahlkreis XVI, Andelfingen",30,"Andelfingen",NA,NA,NA,NA,1.11,1.11,NA,NA
-7,"EVP",16,"Wahlkreis XVI, Andelfingen",30,"Andelfingen",NA,NA,NA,NA,6.13,6.13,NA,NA
-8,"AL",16,"Wahlkreis XVI, Andelfingen",30,"Andelfingen",NA,NA,NA,NA,0.81,0.81,NA,NA
-9,"BDP",16,"Wahlkreis XVI, Andelfingen",30,"Andelfingen",NA,NA,NA,NA,5.25,5.25,NA,NA
-10,"EDU",16,"Wahlkreis XVI, Andelfingen",30,"Andelfingen",NA,NA,NA,NA,2.8,2.8,NA,NA
-1,"SVP",16,"Wahlkreis XVI, Andelfingen",31,"Henggart",NA,NA,NA,NA,37.04,37.04,NA,NA
-2,"SP",16,"Wahlkreis XVI, Andelfingen",31,"Henggart",NA,NA,NA,NA,14.09,14.09,NA,NA
-3,"FDP",16,"Wahlkreis XVI, Andelfingen",31,"Henggart",NA,NA,NA,NA,13.92,13.92,NA,NA
-4,"GLP",16,"Wahlkreis XVI, Andelfingen",31,"Henggart",NA,NA,NA,NA,10.49,10.49,NA,NA
-5,"Grüne",16,"Wahlkreis XVI, Andelfingen",31,"Henggart",NA,NA,NA,NA,5.98,5.98,NA,NA
-6,"CVP",16,"Wahlkreis XVI, Andelfingen",31,"Henggart",NA,NA,NA,NA,1.55,1.55,NA,NA
-7,"EVP",16,"Wahlkreis XVI, Andelfingen",31,"Henggart",NA,NA,NA,NA,5.18,5.18,NA,NA
-8,"AL",16,"Wahlkreis XVI, Andelfingen",31,"Henggart",NA,NA,NA,NA,0.38,0.38,NA,NA
-9,"BDP",16,"Wahlkreis XVI, Andelfingen",31,"Henggart",NA,NA,NA,NA,6.35,6.35,NA,NA
-10,"EDU",16,"Wahlkreis XVI, Andelfingen",31,"Henggart",NA,NA,NA,NA,5.02,5.02,NA,NA
-1,"SVP",16,"Wahlkreis XVI, Andelfingen",32,"Humlikon",NA,NA,NA,NA,50.19,50.19,NA,NA
-2,"SP",16,"Wahlkreis XVI, Andelfingen",32,"Humlikon",NA,NA,NA,NA,8.59,8.59,NA,NA
-3,"FDP",16,"Wahlkreis XVI, Andelfingen",32,"Humlikon",NA,NA,NA,NA,17.56,17.56,NA,NA
-4,"GLP",16,"Wahlkreis XVI, Andelfingen",32,"Humlikon",NA,NA,NA,NA,7.82,7.82,NA,NA
-5,"Grüne",16,"Wahlkreis XVI, Andelfingen",32,"Humlikon",NA,NA,NA,NA,0.38,0.38,NA,NA
-6,"CVP",16,"Wahlkreis XVI, Andelfingen",32,"Humlikon",NA,NA,NA,NA,0.19,0.19,NA,NA
-7,"EVP",16,"Wahlkreis XVI, Andelfingen",32,"Humlikon",NA,NA,NA,NA,2.29,2.29,NA,NA
-8,"AL",16,"Wahlkreis XVI, Andelfingen",32,"Humlikon",NA,NA,NA,NA,0.19,0.19,NA,NA
-9,"BDP",16,"Wahlkreis XVI, Andelfingen",32,"Humlikon",NA,NA,NA,NA,5.53,5.53,NA,NA
-10,"EDU",16,"Wahlkreis XVI, Andelfingen",32,"Humlikon",NA,NA,NA,NA,7.25,7.25,NA,NA
-1,"SVP",16,"Wahlkreis XVI, Andelfingen",33,"Kleinandelfingen",NA,NA,NA,NA,39.37,39.37,NA,NA
-2,"SP",16,"Wahlkreis XVI, Andelfingen",33,"Kleinandelfingen",NA,NA,NA,NA,12.01,12.01,NA,NA
-3,"FDP",16,"Wahlkreis XVI, Andelfingen",33,"Kleinandelfingen",NA,NA,NA,NA,15.88,15.88,NA,NA
-4,"GLP",16,"Wahlkreis XVI, Andelfingen",33,"Kleinandelfingen",NA,NA,NA,NA,7.1,7.1,NA,NA
-5,"Grüne",16,"Wahlkreis XVI, Andelfingen",33,"Kleinandelfingen",NA,NA,NA,NA,9.42,9.42,NA,NA
-6,"CVP",16,"Wahlkreis XVI, Andelfingen",33,"Kleinandelfingen",NA,NA,NA,NA,1.16,1.16,NA,NA
-7,"EVP",16,"Wahlkreis XVI, Andelfingen",33,"Kleinandelfingen",NA,NA,NA,NA,3.36,3.36,NA,NA
-8,"AL",16,"Wahlkreis XVI, Andelfingen",33,"Kleinandelfingen",NA,NA,NA,NA,0.73,0.73,NA,NA
-9,"BDP",16,"Wahlkreis XVI, Andelfingen",33,"Kleinandelfingen",NA,NA,NA,NA,7.57,7.57,NA,NA
-10,"EDU",16,"Wahlkreis XVI, Andelfingen",33,"Kleinandelfingen",NA,NA,NA,NA,3.4,3.4,NA,NA
-1,"SVP",16,"Wahlkreis XVI, Andelfingen",34,"Laufen-Uhwiesen",NA,NA,NA,NA,33.9,33.9,NA,NA
-2,"SP",16,"Wahlkreis XVI, Andelfingen",34,"Laufen-Uhwiesen",NA,NA,NA,NA,13.77,13.77,NA,NA
-3,"FDP",16,"Wahlkreis XVI, Andelfingen",34,"Laufen-Uhwiesen",NA,NA,NA,NA,25,25,NA,NA
-4,"GLP",16,"Wahlkreis XVI, Andelfingen",34,"Laufen-Uhwiesen",NA,NA,NA,NA,4.52,4.52,NA,NA
-5,"Grüne",16,"Wahlkreis XVI, Andelfingen",34,"Laufen-Uhwiesen",NA,NA,NA,NA,9.86,9.86,NA,NA
-6,"CVP",16,"Wahlkreis XVI, Andelfingen",34,"Laufen-Uhwiesen",NA,NA,NA,NA,2.88,2.88,NA,NA
-7,"EVP",16,"Wahlkreis XVI, Andelfingen",34,"Laufen-Uhwiesen",NA,NA,NA,NA,0.96,0.96,NA,NA
-8,"AL",16,"Wahlkreis XVI, Andelfingen",34,"Laufen-Uhwiesen",NA,NA,NA,NA,0.14,0.14,NA,NA
-9,"BDP",16,"Wahlkreis XVI, Andelfingen",34,"Laufen-Uhwiesen",NA,NA,NA,NA,5.41,5.41,NA,NA
-10,"EDU",16,"Wahlkreis XVI, Andelfingen",34,"Laufen-Uhwiesen",NA,NA,NA,NA,3.56,3.56,NA,NA
-1,"SVP",16,"Wahlkreis XVI, Andelfingen",35,"Marthalen",NA,NA,NA,NA,45.81,45.81,NA,NA
-2,"SP",16,"Wahlkreis XVI, Andelfingen",35,"Marthalen",NA,NA,NA,NA,14.58,14.58,NA,NA
-3,"FDP",16,"Wahlkreis XVI, Andelfingen",35,"Marthalen",NA,NA,NA,NA,8.96,8.96,NA,NA
-4,"GLP",16,"Wahlkreis XVI, Andelfingen",35,"Marthalen",NA,NA,NA,NA,3.46,3.46,NA,NA
-5,"Grüne",16,"Wahlkreis XVI, Andelfingen",35,"Marthalen",NA,NA,NA,NA,12.95,12.95,NA,NA
-6,"CVP",16,"Wahlkreis XVI, Andelfingen",35,"Marthalen",NA,NA,NA,NA,1.59,1.59,NA,NA
-7,"EVP",16,"Wahlkreis XVI, Andelfingen",35,"Marthalen",NA,NA,NA,NA,2.52,2.52,NA,NA
-8,"AL",16,"Wahlkreis XVI, Andelfingen",35,"Marthalen",NA,NA,NA,NA,1.02,1.02,NA,NA
-9,"BDP",16,"Wahlkreis XVI, Andelfingen",35,"Marthalen",NA,NA,NA,NA,5.21,5.21,NA,NA
-10,"EDU",16,"Wahlkreis XVI, Andelfingen",35,"Marthalen",NA,NA,NA,NA,3.91,3.91,NA,NA
-1,"SVP",16,"Wahlkreis XVI, Andelfingen",37,"Ossingen",NA,NA,NA,NA,37.89,37.89,NA,NA
-2,"SP",16,"Wahlkreis XVI, Andelfingen",37,"Ossingen",NA,NA,NA,NA,10.21,10.21,NA,NA
-3,"FDP",16,"Wahlkreis XVI, Andelfingen",37,"Ossingen",NA,NA,NA,NA,18.26,18.26,NA,NA
-4,"GLP",16,"Wahlkreis XVI, Andelfingen",37,"Ossingen",NA,NA,NA,NA,4.91,4.91,NA,NA
-5,"Grüne",16,"Wahlkreis XVI, Andelfingen",37,"Ossingen",NA,NA,NA,NA,6.74,6.74,NA,NA
-6,"CVP",16,"Wahlkreis XVI, Andelfingen",37,"Ossingen",NA,NA,NA,NA,1.31,1.31,NA,NA
-7,"EVP",16,"Wahlkreis XVI, Andelfingen",37,"Ossingen",NA,NA,NA,NA,5.24,5.24,NA,NA
-8,"AL",16,"Wahlkreis XVI, Andelfingen",37,"Ossingen",NA,NA,NA,NA,1.11,1.11,NA,NA
-9,"BDP",16,"Wahlkreis XVI, Andelfingen",37,"Ossingen",NA,NA,NA,NA,12.5,12.5,NA,NA
-10,"EDU",16,"Wahlkreis XVI, Andelfingen",37,"Ossingen",NA,NA,NA,NA,1.83,1.83,NA,NA
-1,"SVP",16,"Wahlkreis XVI, Andelfingen",38,"Rheinau",NA,NA,NA,NA,27.43,27.43,NA,NA
-2,"SP",16,"Wahlkreis XVI, Andelfingen",38,"Rheinau",NA,NA,NA,NA,26.7,26.7,NA,NA
-3,"FDP",16,"Wahlkreis XVI, Andelfingen",38,"Rheinau",NA,NA,NA,NA,8.41,8.41,NA,NA
-4,"GLP",16,"Wahlkreis XVI, Andelfingen",38,"Rheinau",NA,NA,NA,NA,6.34,6.34,NA,NA
-5,"Grüne",16,"Wahlkreis XVI, Andelfingen",38,"Rheinau",NA,NA,NA,NA,12.39,12.39,NA,NA
-6,"CVP",16,"Wahlkreis XVI, Andelfingen",38,"Rheinau",NA,NA,NA,NA,9.81,9.81,NA,NA
-7,"EVP",16,"Wahlkreis XVI, Andelfingen",38,"Rheinau",NA,NA,NA,NA,0.52,0.52,NA,NA
-8,"AL",16,"Wahlkreis XVI, Andelfingen",38,"Rheinau",NA,NA,NA,NA,1.77,1.77,NA,NA
-9,"BDP",16,"Wahlkreis XVI, Andelfingen",38,"Rheinau",NA,NA,NA,NA,4.2,4.2,NA,NA
-10,"EDU",16,"Wahlkreis XVI, Andelfingen",38,"Rheinau",NA,NA,NA,NA,2.43,2.43,NA,NA
-1,"SVP",16,"Wahlkreis XVI, Andelfingen",39,"Thalheim an der Thur",NA,NA,NA,NA,57.71,57.71,NA,NA
-2,"SP",16,"Wahlkreis XVI, Andelfingen",39,"Thalheim an der Thur",NA,NA,NA,NA,6.88,6.88,NA,NA
-3,"FDP",16,"Wahlkreis XVI, Andelfingen",39,"Thalheim an der Thur",NA,NA,NA,NA,12.29,12.29,NA,NA
-4,"GLP",16,"Wahlkreis XVI, Andelfingen",39,"Thalheim an der Thur",NA,NA,NA,NA,3.23,3.23,NA,NA
-5,"Grüne",16,"Wahlkreis XVI, Andelfingen",39,"Thalheim an der Thur",NA,NA,NA,NA,7.4,7.4,NA,NA
-6,"CVP",16,"Wahlkreis XVI, Andelfingen",39,"Thalheim an der Thur",NA,NA,NA,NA,0.31,0.31,NA,NA
-7,"EVP",16,"Wahlkreis XVI, Andelfingen",39,"Thalheim an der Thur",NA,NA,NA,NA,5.21,5.21,NA,NA
-8,"AL",16,"Wahlkreis XVI, Andelfingen",39,"Thalheim an der Thur",NA,NA,NA,NA,0.21,0.21,NA,NA
-9,"BDP",16,"Wahlkreis XVI, Andelfingen",39,"Thalheim an der Thur",NA,NA,NA,NA,4.48,4.48,NA,NA
-10,"EDU",16,"Wahlkreis XVI, Andelfingen",39,"Thalheim an der Thur",NA,NA,NA,NA,2.29,2.29,NA,NA
-1,"SVP",16,"Wahlkreis XVI, Andelfingen",40,"Trüllikon",NA,NA,NA,NA,47.68,47.68,NA,NA
-2,"SP",16,"Wahlkreis XVI, Andelfingen",40,"Trüllikon",NA,NA,NA,NA,13.1,13.1,NA,NA
-3,"FDP",16,"Wahlkreis XVI, Andelfingen",40,"Trüllikon",NA,NA,NA,NA,9.66,9.66,NA,NA
-4,"GLP",16,"Wahlkreis XVI, Andelfingen",40,"Trüllikon",NA,NA,NA,NA,4.63,4.63,NA,NA
-5,"Grüne",16,"Wahlkreis XVI, Andelfingen",40,"Trüllikon",NA,NA,NA,NA,10.14,10.14,NA,NA
-6,"CVP",16,"Wahlkreis XVI, Andelfingen",40,"Trüllikon",NA,NA,NA,NA,0.88,0.88,NA,NA
-7,"EVP",16,"Wahlkreis XVI, Andelfingen",40,"Trüllikon",NA,NA,NA,NA,1.76,1.76,NA,NA
-8,"AL",16,"Wahlkreis XVI, Andelfingen",40,"Trüllikon",NA,NA,NA,NA,1.2,1.2,NA,NA
-9,"BDP",16,"Wahlkreis XVI, Andelfingen",40,"Trüllikon",NA,NA,NA,NA,7.75,7.75,NA,NA
-10,"EDU",16,"Wahlkreis XVI, Andelfingen",40,"Trüllikon",NA,NA,NA,NA,3.19,3.19,NA,NA
-1,"SVP",16,"Wahlkreis XVI, Andelfingen",41,"Truttikon",NA,NA,NA,NA,37.04,37.04,NA,NA
-2,"SP",16,"Wahlkreis XVI, Andelfingen",41,"Truttikon",NA,NA,NA,NA,12.04,12.04,NA,NA
-3,"FDP",16,"Wahlkreis XVI, Andelfingen",41,"Truttikon",NA,NA,NA,NA,12.19,12.19,NA,NA
-4,"GLP",16,"Wahlkreis XVI, Andelfingen",41,"Truttikon",NA,NA,NA,NA,3.55,3.55,NA,NA
-5,"Grüne",16,"Wahlkreis XVI, Andelfingen",41,"Truttikon",NA,NA,NA,NA,8.64,8.64,NA,NA
-6,"CVP",16,"Wahlkreis XVI, Andelfingen",41,"Truttikon",NA,NA,NA,NA,1.39,1.39,NA,NA
-7,"EVP",16,"Wahlkreis XVI, Andelfingen",41,"Truttikon",NA,NA,NA,NA,4.48,4.48,NA,NA
-8,"AL",16,"Wahlkreis XVI, Andelfingen",41,"Truttikon",NA,NA,NA,NA,2.93,2.93,NA,NA
-9,"BDP",16,"Wahlkreis XVI, Andelfingen",41,"Truttikon",NA,NA,NA,NA,6.94,6.94,NA,NA
-10,"EDU",16,"Wahlkreis XVI, Andelfingen",41,"Truttikon",NA,NA,NA,NA,10.8,10.8,NA,NA
-1,"SVP",16,"Wahlkreis XVI, Andelfingen",43,"Volken",NA,NA,NA,NA,46.88,46.88,NA,NA
-2,"SP",16,"Wahlkreis XVI, Andelfingen",43,"Volken",NA,NA,NA,NA,4.43,4.43,NA,NA
-3,"FDP",16,"Wahlkreis XVI, Andelfingen",43,"Volken",NA,NA,NA,NA,26.82,26.82,NA,NA
-4,"GLP",16,"Wahlkreis XVI, Andelfingen",43,"Volken",NA,NA,NA,NA,2.86,2.86,NA,NA
-5,"Grüne",16,"Wahlkreis XVI, Andelfingen",43,"Volken",NA,NA,NA,NA,4.17,4.17,NA,NA
-6,"CVP",16,"Wahlkreis XVI, Andelfingen",43,"Volken",NA,NA,NA,NA,0.52,0.52,NA,NA
-7,"EVP",16,"Wahlkreis XVI, Andelfingen",43,"Volken",NA,NA,NA,NA,2.6,2.6,NA,NA
-8,"AL",16,"Wahlkreis XVI, Andelfingen",43,"Volken",NA,NA,NA,NA,0.26,0.26,NA,NA
-9,"BDP",16,"Wahlkreis XVI, Andelfingen",43,"Volken",NA,NA,NA,NA,4.95,4.95,NA,NA
-10,"EDU",16,"Wahlkreis XVI, Andelfingen",43,"Volken",NA,NA,NA,NA,6.51,6.51,NA,NA
-1,"SVP",16,"Wahlkreis XVI, Andelfingen",292,"Stammheim",NA,NA,NA,NA,37.96,37.96,NA,NA
-2,"SP",16,"Wahlkreis XVI, Andelfingen",292,"Stammheim",NA,NA,NA,NA,8.1,8.1,NA,NA
-3,"FDP",16,"Wahlkreis XVI, Andelfingen",292,"Stammheim",NA,NA,NA,NA,29.89,29.89,NA,NA
-4,"GLP",16,"Wahlkreis XVI, Andelfingen",292,"Stammheim",NA,NA,NA,NA,3.88,3.88,NA,NA
-5,"Grüne",16,"Wahlkreis XVI, Andelfingen",292,"Stammheim",NA,NA,NA,NA,9.77,9.77,NA,NA
-6,"CVP",16,"Wahlkreis XVI, Andelfingen",292,"Stammheim",NA,NA,NA,NA,0.71,0.71,NA,NA
-7,"EVP",16,"Wahlkreis XVI, Andelfingen",292,"Stammheim",NA,NA,NA,NA,2.82,2.82,NA,NA
-8,"AL",16,"Wahlkreis XVI, Andelfingen",292,"Stammheim",NA,NA,NA,NA,0.92,0.92,NA,NA
-9,"BDP",16,"Wahlkreis XVI, Andelfingen",292,"Stammheim",NA,NA,NA,NA,3.35,3.35,NA,NA
-10,"EDU",16,"Wahlkreis XVI, Andelfingen",292,"Stammheim",NA,NA,NA,NA,2.61,2.61,NA,NA
-1,"SVP",17,"Wahlkreis XVII, Bülach",51,"Bachenbülach",NA,NA,NA,NA,32.23,32.23,NA,NA
-2,"SP",17,"Wahlkreis XVII, Bülach",51,"Bachenbülach",NA,NA,NA,NA,13.32,13.32,NA,NA
-3,"FDP",17,"Wahlkreis XVII, Bülach",51,"Bachenbülach",NA,NA,NA,NA,30.22,30.22,NA,NA
-4,"GLP",17,"Wahlkreis XVII, Bülach",51,"Bachenbülach",NA,NA,NA,NA,3.78,3.78,NA,NA
-5,"Grüne",17,"Wahlkreis XVII, Bülach",51,"Bachenbülach",NA,NA,NA,NA,3.36,3.36,NA,NA
-6,"CVP",17,"Wahlkreis XVII, Bülach",51,"Bachenbülach",NA,NA,NA,NA,3.27,3.27,NA,NA
-7,"EVP",17,"Wahlkreis XVII, Bülach",51,"Bachenbülach",NA,NA,NA,NA,5.9,5.9,NA,NA
-8,"AL",17,"Wahlkreis XVII, Bülach",51,"Bachenbülach",NA,NA,NA,NA,0.82,0.82,NA,NA
-9,"BDP",17,"Wahlkreis XVII, Bülach",51,"Bachenbülach",NA,NA,NA,NA,2.58,2.58,NA,NA
-10,"EDU",17,"Wahlkreis XVII, Bülach",51,"Bachenbülach",NA,NA,NA,NA,4.23,4.23,NA,NA
-1,"SVP",17,"Wahlkreis XVII, Bülach",52,"Bassersdorf",NA,NA,NA,NA,33.24,33.24,NA,NA
-2,"SP",17,"Wahlkreis XVII, Bülach",52,"Bassersdorf",NA,NA,NA,NA,19.63,19.63,NA,NA
-3,"FDP",17,"Wahlkreis XVII, Bülach",52,"Bassersdorf",NA,NA,NA,NA,19.54,19.54,NA,NA
-4,"GLP",17,"Wahlkreis XVII, Bülach",52,"Bassersdorf",NA,NA,NA,NA,5.37,5.37,NA,NA
-5,"Grüne",17,"Wahlkreis XVII, Bülach",52,"Bassersdorf",NA,NA,NA,NA,4.22,4.22,NA,NA
-6,"CVP",17,"Wahlkreis XVII, Bülach",52,"Bassersdorf",NA,NA,NA,NA,3.96,3.96,NA,NA
-7,"EVP",17,"Wahlkreis XVII, Bülach",52,"Bassersdorf",NA,NA,NA,NA,3.38,3.38,NA,NA
-8,"AL",17,"Wahlkreis XVII, Bülach",52,"Bassersdorf",NA,NA,NA,NA,0.66,0.66,NA,NA
-9,"BDP",17,"Wahlkreis XVII, Bülach",52,"Bassersdorf",NA,NA,NA,NA,3.88,3.88,NA,NA
-10,"EDU",17,"Wahlkreis XVII, Bülach",52,"Bassersdorf",NA,NA,NA,NA,5.4,5.4,NA,NA
-1,"SVP",17,"Wahlkreis XVII, Bülach",53,"Bülach",NA,NA,NA,NA,33.04,33.04,NA,NA
-2,"SP",17,"Wahlkreis XVII, Bülach",53,"Bülach",NA,NA,NA,NA,17.89,17.89,NA,NA
-3,"FDP",17,"Wahlkreis XVII, Bülach",53,"Bülach",NA,NA,NA,NA,14.81,14.81,NA,NA
-4,"GLP",17,"Wahlkreis XVII, Bülach",53,"Bülach",NA,NA,NA,NA,5.64,5.64,NA,NA
-5,"Grüne",17,"Wahlkreis XVII, Bülach",53,"Bülach",NA,NA,NA,NA,7.49,7.49,NA,NA
-6,"CVP",17,"Wahlkreis XVII, Bülach",53,"Bülach",NA,NA,NA,NA,3.32,3.32,NA,NA
-7,"EVP",17,"Wahlkreis XVII, Bülach",53,"Bülach",NA,NA,NA,NA,7.64,7.64,NA,NA
-8,"AL",17,"Wahlkreis XVII, Bülach",53,"Bülach",NA,NA,NA,NA,1.92,1.92,NA,NA
-9,"BDP",17,"Wahlkreis XVII, Bülach",53,"Bülach",NA,NA,NA,NA,2.52,2.52,NA,NA
-10,"EDU",17,"Wahlkreis XVII, Bülach",53,"Bülach",NA,NA,NA,NA,5.31,5.31,NA,NA
-1,"SVP",17,"Wahlkreis XVII, Bülach",54,"Dietlikon",NA,NA,NA,NA,30.08,30.08,NA,NA
-2,"SP",17,"Wahlkreis XVII, Bülach",54,"Dietlikon",NA,NA,NA,NA,20.32,20.32,NA,NA
-3,"FDP",17,"Wahlkreis XVII, Bülach",54,"Dietlikon",NA,NA,NA,NA,16.68,16.68,NA,NA
-4,"GLP",17,"Wahlkreis XVII, Bülach",54,"Dietlikon",NA,NA,NA,NA,14.39,14.39,NA,NA
-5,"Grüne",17,"Wahlkreis XVII, Bülach",54,"Dietlikon",NA,NA,NA,NA,2.99,2.99,NA,NA
-6,"CVP",17,"Wahlkreis XVII, Bülach",54,"Dietlikon",NA,NA,NA,NA,3.45,3.45,NA,NA
-7,"EVP",17,"Wahlkreis XVII, Bülach",54,"Dietlikon",NA,NA,NA,NA,1.98,1.98,NA,NA
-8,"AL",17,"Wahlkreis XVII, Bülach",54,"Dietlikon",NA,NA,NA,NA,1.04,1.04,NA,NA
-9,"BDP",17,"Wahlkreis XVII, Bülach",54,"Dietlikon",NA,NA,NA,NA,5.43,5.43,NA,NA
-10,"EDU",17,"Wahlkreis XVII, Bülach",54,"Dietlikon",NA,NA,NA,NA,3.15,3.15,NA,NA
-1,"SVP",17,"Wahlkreis XVII, Bülach",55,"Eglisau",NA,NA,NA,NA,31.93,31.93,NA,NA
-2,"SP",17,"Wahlkreis XVII, Bülach",55,"Eglisau",NA,NA,NA,NA,18.64,18.64,NA,NA
-3,"FDP",17,"Wahlkreis XVII, Bülach",55,"Eglisau",NA,NA,NA,NA,16.97,16.97,NA,NA
-4,"GLP",17,"Wahlkreis XVII, Bülach",55,"Eglisau",NA,NA,NA,NA,7.88,7.88,NA,NA
-5,"Grüne",17,"Wahlkreis XVII, Bülach",55,"Eglisau",NA,NA,NA,NA,8.05,8.05,NA,NA
-6,"CVP",17,"Wahlkreis XVII, Bülach",55,"Eglisau",NA,NA,NA,NA,2.84,2.84,NA,NA
-7,"EVP",17,"Wahlkreis XVII, Bülach",55,"Eglisau",NA,NA,NA,NA,3.53,3.53,NA,NA
-8,"AL",17,"Wahlkreis XVII, Bülach",55,"Eglisau",NA,NA,NA,NA,0.93,0.93,NA,NA
-9,"BDP",17,"Wahlkreis XVII, Bülach",55,"Eglisau",NA,NA,NA,NA,2.61,2.61,NA,NA
-10,"EDU",17,"Wahlkreis XVII, Bülach",55,"Eglisau",NA,NA,NA,NA,6.44,6.44,NA,NA
-1,"SVP",17,"Wahlkreis XVII, Bülach",56,"Embrach",NA,NA,NA,NA,41.12,41.12,NA,NA
-2,"SP",17,"Wahlkreis XVII, Bülach",56,"Embrach",NA,NA,NA,NA,15.47,15.47,NA,NA
-3,"FDP",17,"Wahlkreis XVII, Bülach",56,"Embrach",NA,NA,NA,NA,14.66,14.66,NA,NA
-4,"GLP",17,"Wahlkreis XVII, Bülach",56,"Embrach",NA,NA,NA,NA,5.7,5.7,NA,NA
-5,"Grüne",17,"Wahlkreis XVII, Bülach",56,"Embrach",NA,NA,NA,NA,3.76,3.76,NA,NA
-6,"CVP",17,"Wahlkreis XVII, Bülach",56,"Embrach",NA,NA,NA,NA,5.68,5.68,NA,NA
-7,"EVP",17,"Wahlkreis XVII, Bülach",56,"Embrach",NA,NA,NA,NA,2.73,2.73,NA,NA
-8,"AL",17,"Wahlkreis XVII, Bülach",56,"Embrach",NA,NA,NA,NA,0.63,0.63,NA,NA
-9,"BDP",17,"Wahlkreis XVII, Bülach",56,"Embrach",NA,NA,NA,NA,3.4,3.4,NA,NA
-10,"EDU",17,"Wahlkreis XVII, Bülach",56,"Embrach",NA,NA,NA,NA,6.16,6.16,NA,NA
-1,"SVP",17,"Wahlkreis XVII, Bülach",57,"Freienstein-Teufen",NA,NA,NA,NA,35.89,35.89,NA,NA
-2,"SP",17,"Wahlkreis XVII, Bülach",57,"Freienstein-Teufen",NA,NA,NA,NA,15.51,15.51,NA,NA
-3,"FDP",17,"Wahlkreis XVII, Bülach",57,"Freienstein-Teufen",NA,NA,NA,NA,11.39,11.39,NA,NA
-4,"GLP",17,"Wahlkreis XVII, Bülach",57,"Freienstein-Teufen",NA,NA,NA,NA,6.17,6.17,NA,NA
-5,"Grüne",17,"Wahlkreis XVII, Bülach",57,"Freienstein-Teufen",NA,NA,NA,NA,9.59,9.59,NA,NA
-6,"CVP",17,"Wahlkreis XVII, Bülach",57,"Freienstein-Teufen",NA,NA,NA,NA,2.45,2.45,NA,NA
-7,"EVP",17,"Wahlkreis XVII, Bülach",57,"Freienstein-Teufen",NA,NA,NA,NA,10.5,10.5,NA,NA
-8,"AL",17,"Wahlkreis XVII, Bülach",57,"Freienstein-Teufen",NA,NA,NA,NA,1.01,1.01,NA,NA
-9,"BDP",17,"Wahlkreis XVII, Bülach",57,"Freienstein-Teufen",NA,NA,NA,NA,3.07,3.07,NA,NA
-10,"EDU",17,"Wahlkreis XVII, Bülach",57,"Freienstein-Teufen",NA,NA,NA,NA,4.15,4.15,NA,NA
-1,"SVP",17,"Wahlkreis XVII, Bülach",58,"Glattfelden",NA,NA,NA,NA,44.05,44.05,NA,NA
-2,"SP",17,"Wahlkreis XVII, Bülach",58,"Glattfelden",NA,NA,NA,NA,15.03,15.03,NA,NA
-3,"FDP",17,"Wahlkreis XVII, Bülach",58,"Glattfelden",NA,NA,NA,NA,9.85,9.85,NA,NA
-4,"GLP",17,"Wahlkreis XVII, Bülach",58,"Glattfelden",NA,NA,NA,NA,9.41,9.41,NA,NA
-5,"Grüne",17,"Wahlkreis XVII, Bülach",58,"Glattfelden",NA,NA,NA,NA,8.03,8.03,NA,NA
-6,"CVP",17,"Wahlkreis XVII, Bülach",58,"Glattfelden",NA,NA,NA,NA,2.63,2.63,NA,NA
-7,"EVP",17,"Wahlkreis XVII, Bülach",58,"Glattfelden",NA,NA,NA,NA,3.23,3.23,NA,NA
-8,"AL",17,"Wahlkreis XVII, Bülach",58,"Glattfelden",NA,NA,NA,NA,0.69,0.69,NA,NA
-9,"BDP",17,"Wahlkreis XVII, Bülach",58,"Glattfelden",NA,NA,NA,NA,3.6,3.6,NA,NA
-10,"EDU",17,"Wahlkreis XVII, Bülach",58,"Glattfelden",NA,NA,NA,NA,3.25,3.25,NA,NA
-1,"SVP",17,"Wahlkreis XVII, Bülach",59,"Hochfelden",NA,NA,NA,NA,49.49,49.49,NA,NA
-2,"SP",17,"Wahlkreis XVII, Bülach",59,"Hochfelden",NA,NA,NA,NA,11.72,11.72,NA,NA
-3,"FDP",17,"Wahlkreis XVII, Bülach",59,"Hochfelden",NA,NA,NA,NA,9.39,9.39,NA,NA
-4,"GLP",17,"Wahlkreis XVII, Bülach",59,"Hochfelden",NA,NA,NA,NA,4.12,4.12,NA,NA
-5,"Grüne",17,"Wahlkreis XVII, Bülach",59,"Hochfelden",NA,NA,NA,NA,3.83,3.83,NA,NA
-6,"CVP",17,"Wahlkreis XVII, Bülach",59,"Hochfelden",NA,NA,NA,NA,2.42,2.42,NA,NA
-7,"EVP",17,"Wahlkreis XVII, Bülach",59,"Hochfelden",NA,NA,NA,NA,7.96,7.96,NA,NA
-8,"AL",17,"Wahlkreis XVII, Bülach",59,"Hochfelden",NA,NA,NA,NA,0.57,0.57,NA,NA
-9,"BDP",17,"Wahlkreis XVII, Bülach",59,"Hochfelden",NA,NA,NA,NA,3.4,3.4,NA,NA
-10,"EDU",17,"Wahlkreis XVII, Bülach",59,"Hochfelden",NA,NA,NA,NA,6.83,6.83,NA,NA
-1,"SVP",17,"Wahlkreis XVII, Bülach",60,"Höri",NA,NA,NA,NA,68.36,68.36,NA,NA
-2,"SP",17,"Wahlkreis XVII, Bülach",60,"Höri",NA,NA,NA,NA,6.95,6.95,NA,NA
-3,"FDP",17,"Wahlkreis XVII, Bülach",60,"Höri",NA,NA,NA,NA,5.22,5.22,NA,NA
-4,"GLP",17,"Wahlkreis XVII, Bülach",60,"Höri",NA,NA,NA,NA,4.33,4.33,NA,NA
-5,"Grüne",17,"Wahlkreis XVII, Bülach",60,"Höri",NA,NA,NA,NA,2.04,2.04,NA,NA
-6,"CVP",17,"Wahlkreis XVII, Bülach",60,"Höri",NA,NA,NA,NA,0.98,0.98,NA,NA
-7,"EVP",17,"Wahlkreis XVII, Bülach",60,"Höri",NA,NA,NA,NA,4.57,4.57,NA,NA
-8,"AL",17,"Wahlkreis XVII, Bülach",60,"Höri",NA,NA,NA,NA,0.54,0.54,NA,NA
-9,"BDP",17,"Wahlkreis XVII, Bülach",60,"Höri",NA,NA,NA,NA,1.64,1.64,NA,NA
-10,"EDU",17,"Wahlkreis XVII, Bülach",60,"Höri",NA,NA,NA,NA,5.26,5.26,NA,NA
-1,"SVP",17,"Wahlkreis XVII, Bülach",61,"Hüntwangen",NA,NA,NA,NA,45.82,45.82,NA,NA
-2,"SP",17,"Wahlkreis XVII, Bülach",61,"Hüntwangen",NA,NA,NA,NA,14.34,14.34,NA,NA
-3,"FDP",17,"Wahlkreis XVII, Bülach",61,"Hüntwangen",NA,NA,NA,NA,13.27,13.27,NA,NA
-4,"GLP",17,"Wahlkreis XVII, Bülach",61,"Hüntwangen",NA,NA,NA,NA,6.99,6.99,NA,NA
-5,"Grüne",17,"Wahlkreis XVII, Bülach",61,"Hüntwangen",NA,NA,NA,NA,3.88,3.88,NA,NA
-6,"CVP",17,"Wahlkreis XVII, Bülach",61,"Hüntwangen",NA,NA,NA,NA,2.96,2.96,NA,NA
-7,"EVP",17,"Wahlkreis XVII, Bülach",61,"Hüntwangen",NA,NA,NA,NA,1.83,1.83,NA,NA
-8,"AL",17,"Wahlkreis XVII, Bülach",61,"Hüntwangen",NA,NA,NA,NA,0.61,0.61,NA,NA
-9,"BDP",17,"Wahlkreis XVII, Bülach",61,"Hüntwangen",NA,NA,NA,NA,6.8,6.8,NA,NA
-10,"EDU",17,"Wahlkreis XVII, Bülach",61,"Hüntwangen",NA,NA,NA,NA,2.59,2.59,NA,NA
-1,"SVP",17,"Wahlkreis XVII, Bülach",62,"Kloten",NA,NA,NA,NA,40.18,40.18,NA,NA
-2,"SP",17,"Wahlkreis XVII, Bülach",62,"Kloten",NA,NA,NA,NA,18.77,18.77,NA,NA
-3,"FDP",17,"Wahlkreis XVII, Bülach",62,"Kloten",NA,NA,NA,NA,11.11,11.11,NA,NA
-4,"GLP",17,"Wahlkreis XVII, Bülach",62,"Kloten",NA,NA,NA,NA,4.26,4.26,NA,NA
-5,"Grüne",17,"Wahlkreis XVII, Bülach",62,"Kloten",NA,NA,NA,NA,5.86,5.86,NA,NA
-6,"CVP",17,"Wahlkreis XVII, Bülach",62,"Kloten",NA,NA,NA,NA,6.35,6.35,NA,NA
-7,"EVP",17,"Wahlkreis XVII, Bülach",62,"Kloten",NA,NA,NA,NA,6.14,6.14,NA,NA
-8,"AL",17,"Wahlkreis XVII, Bülach",62,"Kloten",NA,NA,NA,NA,0.79,0.79,NA,NA
-9,"BDP",17,"Wahlkreis XVII, Bülach",62,"Kloten",NA,NA,NA,NA,3.62,3.62,NA,NA
-10,"EDU",17,"Wahlkreis XVII, Bülach",62,"Kloten",NA,NA,NA,NA,2.39,2.39,NA,NA
-1,"SVP",17,"Wahlkreis XVII, Bülach",63,"Lufingen",NA,NA,NA,NA,40.07,40.07,NA,NA
-2,"SP",17,"Wahlkreis XVII, Bülach",63,"Lufingen",NA,NA,NA,NA,9.77,9.77,NA,NA
-3,"FDP",17,"Wahlkreis XVII, Bülach",63,"Lufingen",NA,NA,NA,NA,17.58,17.58,NA,NA
-4,"GLP",17,"Wahlkreis XVII, Bülach",63,"Lufingen",NA,NA,NA,NA,6.84,6.84,NA,NA
-5,"Grüne",17,"Wahlkreis XVII, Bülach",63,"Lufingen",NA,NA,NA,NA,5.4,5.4,NA,NA
-6,"CVP",17,"Wahlkreis XVII, Bülach",63,"Lufingen",NA,NA,NA,NA,3.37,3.37,NA,NA
-7,"EVP",17,"Wahlkreis XVII, Bülach",63,"Lufingen",NA,NA,NA,NA,2.54,2.54,NA,NA
-8,"AL",17,"Wahlkreis XVII, Bülach",63,"Lufingen",NA,NA,NA,NA,0.33,0.33,NA,NA
-9,"BDP",17,"Wahlkreis XVII, Bülach",63,"Lufingen",NA,NA,NA,NA,5.19,5.19,NA,NA
-10,"EDU",17,"Wahlkreis XVII, Bülach",63,"Lufingen",NA,NA,NA,NA,8.56,8.56,NA,NA
-1,"SVP",17,"Wahlkreis XVII, Bülach",64,"Nürensdorf",NA,NA,NA,NA,41.24,41.24,NA,NA
-2,"SP",17,"Wahlkreis XVII, Bülach",64,"Nürensdorf",NA,NA,NA,NA,12.47,12.47,NA,NA
-3,"FDP",17,"Wahlkreis XVII, Bülach",64,"Nürensdorf",NA,NA,NA,NA,20.19,20.19,NA,NA
-4,"GLP",17,"Wahlkreis XVII, Bülach",64,"Nürensdorf",NA,NA,NA,NA,5.56,5.56,NA,NA
-5,"Grüne",17,"Wahlkreis XVII, Bülach",64,"Nürensdorf",NA,NA,NA,NA,3.25,3.25,NA,NA
-6,"CVP",17,"Wahlkreis XVII, Bülach",64,"Nürensdorf",NA,NA,NA,NA,2.77,2.77,NA,NA
-7,"EVP",17,"Wahlkreis XVII, Bülach",64,"Nürensdorf",NA,NA,NA,NA,4.69,4.69,NA,NA
-8,"AL",17,"Wahlkreis XVII, Bülach",64,"Nürensdorf",NA,NA,NA,NA,0.32,0.32,NA,NA
-9,"BDP",17,"Wahlkreis XVII, Bülach",64,"Nürensdorf",NA,NA,NA,NA,4.9,4.9,NA,NA
-10,"EDU",17,"Wahlkreis XVII, Bülach",64,"Nürensdorf",NA,NA,NA,NA,4.38,4.38,NA,NA
-1,"SVP",17,"Wahlkreis XVII, Bülach",65,"Oberembrach",NA,NA,NA,NA,46.05,46.05,NA,NA
-2,"SP",17,"Wahlkreis XVII, Bülach",65,"Oberembrach",NA,NA,NA,NA,9.86,9.86,NA,NA
-3,"FDP",17,"Wahlkreis XVII, Bülach",65,"Oberembrach",NA,NA,NA,NA,10.6,10.6,NA,NA
-4,"GLP",17,"Wahlkreis XVII, Bülach",65,"Oberembrach",NA,NA,NA,NA,1.84,1.84,NA,NA
-5,"Grüne",17,"Wahlkreis XVII, Bülach",65,"Oberembrach",NA,NA,NA,NA,4.38,4.38,NA,NA
-6,"CVP",17,"Wahlkreis XVII, Bülach",65,"Oberembrach",NA,NA,NA,NA,3.45,3.45,NA,NA
-7,"EVP",17,"Wahlkreis XVII, Bülach",65,"Oberembrach",NA,NA,NA,NA,2.95,2.95,NA,NA
-8,"AL",17,"Wahlkreis XVII, Bülach",65,"Oberembrach",NA,NA,NA,NA,0.36,0.36,NA,NA
-9,"BDP",17,"Wahlkreis XVII, Bülach",65,"Oberembrach",NA,NA,NA,NA,6.24,6.24,NA,NA
-10,"EDU",17,"Wahlkreis XVII, Bülach",65,"Oberembrach",NA,NA,NA,NA,13.47,13.47,NA,NA
-1,"SVP",17,"Wahlkreis XVII, Bülach",66,"Opfikon",NA,NA,NA,NA,41.74,41.74,NA,NA
-2,"SP",17,"Wahlkreis XVII, Bülach",66,"Opfikon",NA,NA,NA,NA,15.78,15.78,NA,NA
-3,"FDP",17,"Wahlkreis XVII, Bülach",66,"Opfikon",NA,NA,NA,NA,15.04,15.04,NA,NA
-4,"GLP",17,"Wahlkreis XVII, Bülach",66,"Opfikon",NA,NA,NA,NA,8.19,8.19,NA,NA
-5,"Grüne",17,"Wahlkreis XVII, Bülach",66,"Opfikon",NA,NA,NA,NA,3.22,3.22,NA,NA
-6,"CVP",17,"Wahlkreis XVII, Bülach",66,"Opfikon",NA,NA,NA,NA,7.04,7.04,NA,NA
-7,"EVP",17,"Wahlkreis XVII, Bülach",66,"Opfikon",NA,NA,NA,NA,3.74,3.74,NA,NA
-8,"AL",17,"Wahlkreis XVII, Bülach",66,"Opfikon",NA,NA,NA,NA,0.87,0.87,NA,NA
-9,"BDP",17,"Wahlkreis XVII, Bülach",66,"Opfikon",NA,NA,NA,NA,2.08,2.08,NA,NA
-10,"EDU",17,"Wahlkreis XVII, Bülach",66,"Opfikon",NA,NA,NA,NA,1.63,1.63,NA,NA
-1,"SVP",17,"Wahlkreis XVII, Bülach",67,"Rafz",NA,NA,NA,NA,37.72,37.72,NA,NA
-2,"SP",17,"Wahlkreis XVII, Bülach",67,"Rafz",NA,NA,NA,NA,19.98,19.98,NA,NA
-3,"FDP",17,"Wahlkreis XVII, Bülach",67,"Rafz",NA,NA,NA,NA,13.72,13.72,NA,NA
-4,"GLP",17,"Wahlkreis XVII, Bülach",67,"Rafz",NA,NA,NA,NA,6.02,6.02,NA,NA
-5,"Grüne",17,"Wahlkreis XVII, Bülach",67,"Rafz",NA,NA,NA,NA,3.4,3.4,NA,NA
-6,"CVP",17,"Wahlkreis XVII, Bülach",67,"Rafz",NA,NA,NA,NA,2.44,2.44,NA,NA
-7,"EVP",17,"Wahlkreis XVII, Bülach",67,"Rafz",NA,NA,NA,NA,4.69,4.69,NA,NA
-8,"AL",17,"Wahlkreis XVII, Bülach",67,"Rafz",NA,NA,NA,NA,0.7,0.7,NA,NA
-9,"BDP",17,"Wahlkreis XVII, Bülach",67,"Rafz",NA,NA,NA,NA,3.48,3.48,NA,NA
-10,"EDU",17,"Wahlkreis XVII, Bülach",67,"Rafz",NA,NA,NA,NA,6.79,6.79,NA,NA
-1,"SVP",17,"Wahlkreis XVII, Bülach",68,"Rorbas",NA,NA,NA,NA,36.03,36.03,NA,NA
-2,"SP",17,"Wahlkreis XVII, Bülach",68,"Rorbas",NA,NA,NA,NA,24.2,24.2,NA,NA
-3,"FDP",17,"Wahlkreis XVII, Bülach",68,"Rorbas",NA,NA,NA,NA,12.85,12.85,NA,NA
-4,"GLP",17,"Wahlkreis XVII, Bülach",68,"Rorbas",NA,NA,NA,NA,4.49,4.49,NA,NA
-5,"Grüne",17,"Wahlkreis XVII, Bülach",68,"Rorbas",NA,NA,NA,NA,5.88,5.88,NA,NA
-6,"CVP",17,"Wahlkreis XVII, Bülach",68,"Rorbas",NA,NA,NA,NA,3.48,3.48,NA,NA
-7,"EVP",17,"Wahlkreis XVII, Bülach",68,"Rorbas",NA,NA,NA,NA,6.84,6.84,NA,NA
-8,"AL",17,"Wahlkreis XVII, Bülach",68,"Rorbas",NA,NA,NA,NA,2.58,2.58,NA,NA
-9,"BDP",17,"Wahlkreis XVII, Bülach",68,"Rorbas",NA,NA,NA,NA,0.66,0.66,NA,NA
-10,"EDU",17,"Wahlkreis XVII, Bülach",68,"Rorbas",NA,NA,NA,NA,2.6,2.6,NA,NA
-1,"SVP",17,"Wahlkreis XVII, Bülach",69,"Wallisellen",NA,NA,NA,NA,31.29,31.29,NA,NA
-2,"SP",17,"Wahlkreis XVII, Bülach",69,"Wallisellen",NA,NA,NA,NA,19.47,19.47,NA,NA
-3,"FDP",17,"Wahlkreis XVII, Bülach",69,"Wallisellen",NA,NA,NA,NA,23.99,23.99,NA,NA
-4,"GLP",17,"Wahlkreis XVII, Bülach",69,"Wallisellen",NA,NA,NA,NA,5.96,5.96,NA,NA
-5,"Grüne",17,"Wahlkreis XVII, Bülach",69,"Wallisellen",NA,NA,NA,NA,4.86,4.86,NA,NA
-6,"CVP",17,"Wahlkreis XVII, Bülach",69,"Wallisellen",NA,NA,NA,NA,4.62,4.62,NA,NA
-7,"EVP",17,"Wahlkreis XVII, Bülach",69,"Wallisellen",NA,NA,NA,NA,2.48,2.48,NA,NA
-8,"AL",17,"Wahlkreis XVII, Bülach",69,"Wallisellen",NA,NA,NA,NA,0.56,0.56,NA,NA
-9,"BDP",17,"Wahlkreis XVII, Bülach",69,"Wallisellen",NA,NA,NA,NA,4.8,4.8,NA,NA
-10,"EDU",17,"Wahlkreis XVII, Bülach",69,"Wallisellen",NA,NA,NA,NA,1.66,1.66,NA,NA
-1,"SVP",17,"Wahlkreis XVII, Bülach",70,"Wasterkingen",NA,NA,NA,NA,46.49,46.49,NA,NA
-2,"SP",17,"Wahlkreis XVII, Bülach",70,"Wasterkingen",NA,NA,NA,NA,19.54,19.54,NA,NA
-3,"FDP",17,"Wahlkreis XVII, Bülach",70,"Wasterkingen",NA,NA,NA,NA,12.18,12.18,NA,NA
-4,"GLP",17,"Wahlkreis XVII, Bülach",70,"Wasterkingen",NA,NA,NA,NA,4.59,4.59,NA,NA
-5,"Grüne",17,"Wahlkreis XVII, Bülach",70,"Wasterkingen",NA,NA,NA,NA,5.65,5.65,NA,NA
-6,"CVP",17,"Wahlkreis XVII, Bülach",70,"Wasterkingen",NA,NA,NA,NA,1.63,1.63,NA,NA
-7,"EVP",17,"Wahlkreis XVII, Bülach",70,"Wasterkingen",NA,NA,NA,NA,2.31,2.31,NA,NA
-8,"AL",17,"Wahlkreis XVII, Bülach",70,"Wasterkingen",NA,NA,NA,NA,0.3,0.3,NA,NA
-9,"BDP",17,"Wahlkreis XVII, Bülach",70,"Wasterkingen",NA,NA,NA,NA,3.87,3.87,NA,NA
-10,"EDU",17,"Wahlkreis XVII, Bülach",70,"Wasterkingen",NA,NA,NA,NA,3.38,3.38,NA,NA
-1,"SVP",17,"Wahlkreis XVII, Bülach",71,"Wil",NA,NA,NA,NA,40.06,40.06,NA,NA
-2,"SP",17,"Wahlkreis XVII, Bülach",71,"Wil",NA,NA,NA,NA,14.78,14.78,NA,NA
-3,"FDP",17,"Wahlkreis XVII, Bülach",71,"Wil",NA,NA,NA,NA,16.12,16.12,NA,NA
-4,"GLP",17,"Wahlkreis XVII, Bülach",71,"Wil",NA,NA,NA,NA,8.09,8.09,NA,NA
-5,"Grüne",17,"Wahlkreis XVII, Bülach",71,"Wil",NA,NA,NA,NA,6.08,6.08,NA,NA
-6,"CVP",17,"Wahlkreis XVII, Bülach",71,"Wil",NA,NA,NA,NA,2.45,2.45,NA,NA
-7,"EVP",17,"Wahlkreis XVII, Bülach",71,"Wil",NA,NA,NA,NA,3.31,3.31,NA,NA
-8,"AL",17,"Wahlkreis XVII, Bülach",71,"Wil",NA,NA,NA,NA,1.07,1.07,NA,NA
-9,"BDP",17,"Wahlkreis XVII, Bülach",71,"Wil",NA,NA,NA,NA,2.95,2.95,NA,NA
-10,"EDU",17,"Wahlkreis XVII, Bülach",71,"Wil",NA,NA,NA,NA,3.1,3.1,NA,NA
-1,"SVP",17,"Wahlkreis XVII, Bülach",72,"Winkel",NA,NA,NA,NA,42.28,42.28,NA,NA
-2,"SP",17,"Wahlkreis XVII, Bülach",72,"Winkel",NA,NA,NA,NA,9.82,9.82,NA,NA
-3,"FDP",17,"Wahlkreis XVII, Bülach",72,"Winkel",NA,NA,NA,NA,25.99,25.99,NA,NA
-4,"GLP",17,"Wahlkreis XVII, Bülach",72,"Winkel",NA,NA,NA,NA,4.81,4.81,NA,NA
-5,"Grüne",17,"Wahlkreis XVII, Bülach",72,"Winkel",NA,NA,NA,NA,2.54,2.54,NA,NA
-6,"CVP",17,"Wahlkreis XVII, Bülach",72,"Winkel",NA,NA,NA,NA,3,3,NA,NA
-7,"EVP",17,"Wahlkreis XVII, Bülach",72,"Winkel",NA,NA,NA,NA,4.2,4.2,NA,NA
-8,"AL",17,"Wahlkreis XVII, Bülach",72,"Winkel",NA,NA,NA,NA,0.34,0.34,NA,NA
-9,"BDP",17,"Wahlkreis XVII, Bülach",72,"Winkel",NA,NA,NA,NA,3.09,3.09,NA,NA
-10,"EDU",17,"Wahlkreis XVII, Bülach",72,"Winkel",NA,NA,NA,NA,3.35,3.35,NA,NA
-1,"SVP",18,"Wahlkreis XVIII, Dielsdorf",81,"Bachs",NA,NA,NA,NA,55.44,55.44,NA,NA
-2,"SP",18,"Wahlkreis XVIII, Dielsdorf",81,"Bachs",NA,NA,NA,NA,8.72,8.72,NA,NA
-3,"FDP",18,"Wahlkreis XVIII, Dielsdorf",81,"Bachs",NA,NA,NA,NA,6.82,6.82,NA,NA
-4,"GLP",18,"Wahlkreis XVIII, Dielsdorf",81,"Bachs",NA,NA,NA,NA,1.96,1.96,NA,NA
-5,"Grüne",18,"Wahlkreis XVIII, Dielsdorf",81,"Bachs",NA,NA,NA,NA,11.42,11.42,NA,NA
-6,"CVP",18,"Wahlkreis XVIII, Dielsdorf",81,"Bachs",NA,NA,NA,NA,0.11,0.11,NA,NA
-7,"EVP",18,"Wahlkreis XVIII, Dielsdorf",81,"Bachs",NA,NA,NA,NA,0.05,0.05,NA,NA
-8,"AL",18,"Wahlkreis XVIII, Dielsdorf",81,"Bachs",NA,NA,NA,NA,0.11,0.11,NA,NA
-9,"BDP",18,"Wahlkreis XVIII, Dielsdorf",81,"Bachs",NA,NA,NA,NA,0.32,0.32,NA,NA
-10,"EDU",18,"Wahlkreis XVIII, Dielsdorf",81,"Bachs",NA,NA,NA,NA,14.96,14.96,NA,NA
-1,"SVP",18,"Wahlkreis XVIII, Dielsdorf",82,"Boppelsen",NA,NA,NA,NA,41.32,41.32,NA,NA
-2,"SP",18,"Wahlkreis XVIII, Dielsdorf",82,"Boppelsen",NA,NA,NA,NA,12.03,12.03,NA,NA
-3,"FDP",18,"Wahlkreis XVIII, Dielsdorf",82,"Boppelsen",NA,NA,NA,NA,19.67,19.67,NA,NA
-4,"GLP",18,"Wahlkreis XVIII, Dielsdorf",82,"Boppelsen",NA,NA,NA,NA,7.29,7.29,NA,NA
-5,"Grüne",18,"Wahlkreis XVIII, Dielsdorf",82,"Boppelsen",NA,NA,NA,NA,5.19,5.19,NA,NA
-6,"CVP",18,"Wahlkreis XVIII, Dielsdorf",82,"Boppelsen",NA,NA,NA,NA,2.53,2.53,NA,NA
-7,"EVP",18,"Wahlkreis XVIII, Dielsdorf",82,"Boppelsen",NA,NA,NA,NA,7.14,7.14,NA,NA
-8,"AL",18,"Wahlkreis XVIII, Dielsdorf",82,"Boppelsen",NA,NA,NA,NA,0.05,0.05,NA,NA
-9,"BDP",18,"Wahlkreis XVIII, Dielsdorf",82,"Boppelsen",NA,NA,NA,NA,1.03,1.03,NA,NA
-10,"EDU",18,"Wahlkreis XVIII, Dielsdorf",82,"Boppelsen",NA,NA,NA,NA,3.49,3.49,NA,NA
-1,"SVP",18,"Wahlkreis XVIII, Dielsdorf",83,"Buchs",NA,NA,NA,NA,49.05,49.05,NA,NA
-2,"SP",18,"Wahlkreis XVIII, Dielsdorf",83,"Buchs",NA,NA,NA,NA,11.79,11.79,NA,NA
-3,"FDP",18,"Wahlkreis XVIII, Dielsdorf",83,"Buchs",NA,NA,NA,NA,14.69,14.69,NA,NA
-4,"GLP",18,"Wahlkreis XVIII, Dielsdorf",83,"Buchs",NA,NA,NA,NA,6.79,6.79,NA,NA
-5,"Grüne",18,"Wahlkreis XVIII, Dielsdorf",83,"Buchs",NA,NA,NA,NA,4.31,4.31,NA,NA
-6,"CVP",18,"Wahlkreis XVIII, Dielsdorf",83,"Buchs",NA,NA,NA,NA,2.46,2.46,NA,NA
-7,"EVP",18,"Wahlkreis XVIII, Dielsdorf",83,"Buchs",NA,NA,NA,NA,3.35,3.35,NA,NA
-8,"AL",18,"Wahlkreis XVIII, Dielsdorf",83,"Buchs",NA,NA,NA,NA,0.11,0.11,NA,NA
-9,"BDP",18,"Wahlkreis XVIII, Dielsdorf",83,"Buchs",NA,NA,NA,NA,2.65,2.65,NA,NA
-10,"EDU",18,"Wahlkreis XVIII, Dielsdorf",83,"Buchs",NA,NA,NA,NA,4.31,4.31,NA,NA
-1,"SVP",18,"Wahlkreis XVIII, Dielsdorf",84,"Dällikon",NA,NA,NA,NA,48.32,48.32,NA,NA
-2,"SP",18,"Wahlkreis XVIII, Dielsdorf",84,"Dällikon",NA,NA,NA,NA,11.26,11.26,NA,NA
-3,"FDP",18,"Wahlkreis XVIII, Dielsdorf",84,"Dällikon",NA,NA,NA,NA,11.48,11.48,NA,NA
-4,"GLP",18,"Wahlkreis XVIII, Dielsdorf",84,"Dällikon",NA,NA,NA,NA,12.2,12.2,NA,NA
-5,"Grüne",18,"Wahlkreis XVIII, Dielsdorf",84,"Dällikon",NA,NA,NA,NA,5.4,5.4,NA,NA
-6,"CVP",18,"Wahlkreis XVIII, Dielsdorf",84,"Dällikon",NA,NA,NA,NA,3.71,3.71,NA,NA
-7,"EVP",18,"Wahlkreis XVIII, Dielsdorf",84,"Dällikon",NA,NA,NA,NA,2.31,2.31,NA,NA
-8,"AL",18,"Wahlkreis XVIII, Dielsdorf",84,"Dällikon",NA,NA,NA,NA,0.67,0.67,NA,NA
-9,"BDP",18,"Wahlkreis XVIII, Dielsdorf",84,"Dällikon",NA,NA,NA,NA,1.23,1.23,NA,NA
-10,"EDU",18,"Wahlkreis XVIII, Dielsdorf",84,"Dällikon",NA,NA,NA,NA,2.09,2.09,NA,NA
-1,"SVP",18,"Wahlkreis XVIII, Dielsdorf",85,"Dänikon",NA,NA,NA,NA,49.08,49.08,NA,NA
-2,"SP",18,"Wahlkreis XVIII, Dielsdorf",85,"Dänikon",NA,NA,NA,NA,14.61,14.61,NA,NA
-3,"FDP",18,"Wahlkreis XVIII, Dielsdorf",85,"Dänikon",NA,NA,NA,NA,9.14,9.14,NA,NA
-4,"GLP",18,"Wahlkreis XVIII, Dielsdorf",85,"Dänikon",NA,NA,NA,NA,12.87,12.87,NA,NA
-5,"Grüne",18,"Wahlkreis XVIII, Dielsdorf",85,"Dänikon",NA,NA,NA,NA,3.42,3.42,NA,NA
-6,"CVP",18,"Wahlkreis XVIII, Dielsdorf",85,"Dänikon",NA,NA,NA,NA,3.4,3.4,NA,NA
-7,"EVP",18,"Wahlkreis XVIII, Dielsdorf",85,"Dänikon",NA,NA,NA,NA,1.46,1.46,NA,NA
-8,"AL",18,"Wahlkreis XVIII, Dielsdorf",85,"Dänikon",NA,NA,NA,NA,1.01,1.01,NA,NA
-9,"BDP",18,"Wahlkreis XVIII, Dielsdorf",85,"Dänikon",NA,NA,NA,NA,1.66,1.66,NA,NA
-10,"EDU",18,"Wahlkreis XVIII, Dielsdorf",85,"Dänikon",NA,NA,NA,NA,2.72,2.72,NA,NA
-1,"SVP",18,"Wahlkreis XVIII, Dielsdorf",86,"Dielsdorf",NA,NA,NA,NA,39.27,39.27,NA,NA
-2,"SP",18,"Wahlkreis XVIII, Dielsdorf",86,"Dielsdorf",NA,NA,NA,NA,17.48,17.48,NA,NA
-3,"FDP",18,"Wahlkreis XVIII, Dielsdorf",86,"Dielsdorf",NA,NA,NA,NA,14.87,14.87,NA,NA
-4,"GLP",18,"Wahlkreis XVIII, Dielsdorf",86,"Dielsdorf",NA,NA,NA,NA,4.88,4.88,NA,NA
-5,"Grüne",18,"Wahlkreis XVIII, Dielsdorf",86,"Dielsdorf",NA,NA,NA,NA,5.84,5.84,NA,NA
-6,"CVP",18,"Wahlkreis XVIII, Dielsdorf",86,"Dielsdorf",NA,NA,NA,NA,3.41,3.41,NA,NA
-7,"EVP",18,"Wahlkreis XVIII, Dielsdorf",86,"Dielsdorf",NA,NA,NA,NA,4.37,4.37,NA,NA
-8,"AL",18,"Wahlkreis XVIII, Dielsdorf",86,"Dielsdorf",NA,NA,NA,NA,0.82,0.82,NA,NA
-9,"BDP",18,"Wahlkreis XVIII, Dielsdorf",86,"Dielsdorf",NA,NA,NA,NA,1.45,1.45,NA,NA
-10,"EDU",18,"Wahlkreis XVIII, Dielsdorf",86,"Dielsdorf",NA,NA,NA,NA,6.34,6.34,NA,NA
-1,"SVP",18,"Wahlkreis XVIII, Dielsdorf",87,"Hüttikon",NA,NA,NA,NA,62.28,62.28,NA,NA
-2,"SP",18,"Wahlkreis XVIII, Dielsdorf",87,"Hüttikon",NA,NA,NA,NA,7.06,7.06,NA,NA
-3,"FDP",18,"Wahlkreis XVIII, Dielsdorf",87,"Hüttikon",NA,NA,NA,NA,14.57,14.57,NA,NA
-4,"GLP",18,"Wahlkreis XVIII, Dielsdorf",87,"Hüttikon",NA,NA,NA,NA,5.53,5.53,NA,NA
-5,"Grüne",18,"Wahlkreis XVIII, Dielsdorf",87,"Hüttikon",NA,NA,NA,NA,3.11,3.11,NA,NA
-6,"CVP",18,"Wahlkreis XVIII, Dielsdorf",87,"Hüttikon",NA,NA,NA,NA,2.03,2.03,NA,NA
-7,"EVP",18,"Wahlkreis XVIII, Dielsdorf",87,"Hüttikon",NA,NA,NA,NA,0.9,0.9,NA,NA
-8,"AL",18,"Wahlkreis XVIII, Dielsdorf",87,"Hüttikon",NA,NA,NA,NA,0.62,0.62,NA,NA
-9,"BDP",18,"Wahlkreis XVIII, Dielsdorf",87,"Hüttikon",NA,NA,NA,NA,1.24,1.24,NA,NA
-10,"EDU",18,"Wahlkreis XVIII, Dielsdorf",87,"Hüttikon",NA,NA,NA,NA,2.54,2.54,NA,NA
-1,"SVP",18,"Wahlkreis XVIII, Dielsdorf",88,"Neerach",NA,NA,NA,NA,52.32,52.32,NA,NA
-2,"SP",18,"Wahlkreis XVIII, Dielsdorf",88,"Neerach",NA,NA,NA,NA,8.22,8.22,NA,NA
-3,"FDP",18,"Wahlkreis XVIII, Dielsdorf",88,"Neerach",NA,NA,NA,NA,16.44,16.44,NA,NA
-4,"GLP",18,"Wahlkreis XVIII, Dielsdorf",88,"Neerach",NA,NA,NA,NA,4.69,4.69,NA,NA
-5,"Grüne",18,"Wahlkreis XVIII, Dielsdorf",88,"Neerach",NA,NA,NA,NA,3.64,3.64,NA,NA
-6,"CVP",18,"Wahlkreis XVIII, Dielsdorf",88,"Neerach",NA,NA,NA,NA,2.6,2.6,NA,NA
-7,"EVP",18,"Wahlkreis XVIII, Dielsdorf",88,"Neerach",NA,NA,NA,NA,1.93,1.93,NA,NA
-8,"AL",18,"Wahlkreis XVIII, Dielsdorf",88,"Neerach",NA,NA,NA,NA,0.33,0.33,NA,NA
-9,"BDP",18,"Wahlkreis XVIII, Dielsdorf",88,"Neerach",NA,NA,NA,NA,1.9,1.9,NA,NA
-10,"EDU",18,"Wahlkreis XVIII, Dielsdorf",88,"Neerach",NA,NA,NA,NA,7.59,7.59,NA,NA
-1,"SVP",18,"Wahlkreis XVIII, Dielsdorf",89,"Niederglatt",NA,NA,NA,NA,47.92,47.92,NA,NA
-2,"SP",18,"Wahlkreis XVIII, Dielsdorf",89,"Niederglatt",NA,NA,NA,NA,15.18,15.18,NA,NA
-3,"FDP",18,"Wahlkreis XVIII, Dielsdorf",89,"Niederglatt",NA,NA,NA,NA,12.9,12.9,NA,NA
-4,"GLP",18,"Wahlkreis XVIII, Dielsdorf",89,"Niederglatt",NA,NA,NA,NA,4.34,4.34,NA,NA
-5,"Grüne",18,"Wahlkreis XVIII, Dielsdorf",89,"Niederglatt",NA,NA,NA,NA,3.84,3.84,NA,NA
-6,"CVP",18,"Wahlkreis XVIII, Dielsdorf",89,"Niederglatt",NA,NA,NA,NA,4.59,4.59,NA,NA
-7,"EVP",18,"Wahlkreis XVIII, Dielsdorf",89,"Niederglatt",NA,NA,NA,NA,1.6,1.6,NA,NA
-8,"AL",18,"Wahlkreis XVIII, Dielsdorf",89,"Niederglatt",NA,NA,NA,NA,0.39,0.39,NA,NA
-9,"BDP",18,"Wahlkreis XVIII, Dielsdorf",89,"Niederglatt",NA,NA,NA,NA,1.83,1.83,NA,NA
-10,"EDU",18,"Wahlkreis XVIII, Dielsdorf",89,"Niederglatt",NA,NA,NA,NA,6.66,6.66,NA,NA
-1,"SVP",18,"Wahlkreis XVIII, Dielsdorf",90,"Niederhasli",NA,NA,NA,NA,42.12,42.12,NA,NA
-2,"SP",18,"Wahlkreis XVIII, Dielsdorf",90,"Niederhasli",NA,NA,NA,NA,18.35,18.35,NA,NA
-3,"FDP",18,"Wahlkreis XVIII, Dielsdorf",90,"Niederhasli",NA,NA,NA,NA,12.53,12.53,NA,NA
-4,"GLP",18,"Wahlkreis XVIII, Dielsdorf",90,"Niederhasli",NA,NA,NA,NA,5.83,5.83,NA,NA
-5,"Grüne",18,"Wahlkreis XVIII, Dielsdorf",90,"Niederhasli",NA,NA,NA,NA,4.53,4.53,NA,NA
-6,"CVP",18,"Wahlkreis XVIII, Dielsdorf",90,"Niederhasli",NA,NA,NA,NA,7.15,7.15,NA,NA
-7,"EVP",18,"Wahlkreis XVIII, Dielsdorf",90,"Niederhasli",NA,NA,NA,NA,1.93,1.93,NA,NA
-8,"AL",18,"Wahlkreis XVIII, Dielsdorf",90,"Niederhasli",NA,NA,NA,NA,0.59,0.59,NA,NA
-9,"BDP",18,"Wahlkreis XVIII, Dielsdorf",90,"Niederhasli",NA,NA,NA,NA,1.03,1.03,NA,NA
-10,"EDU",18,"Wahlkreis XVIII, Dielsdorf",90,"Niederhasli",NA,NA,NA,NA,5.01,5.01,NA,NA
-1,"SVP",18,"Wahlkreis XVIII, Dielsdorf",91,"Niederweningen",NA,NA,NA,NA,30.04,30.04,NA,NA
-2,"SP",18,"Wahlkreis XVIII, Dielsdorf",91,"Niederweningen",NA,NA,NA,NA,17.08,17.08,NA,NA
-3,"FDP",18,"Wahlkreis XVIII, Dielsdorf",91,"Niederweningen",NA,NA,NA,NA,21,21,NA,NA
-4,"GLP",18,"Wahlkreis XVIII, Dielsdorf",91,"Niederweningen",NA,NA,NA,NA,6.88,6.88,NA,NA
-5,"Grüne",18,"Wahlkreis XVIII, Dielsdorf",91,"Niederweningen",NA,NA,NA,NA,10.27,10.27,NA,NA
-6,"CVP",18,"Wahlkreis XVIII, Dielsdorf",91,"Niederweningen",NA,NA,NA,NA,1.8,1.8,NA,NA
-7,"EVP",18,"Wahlkreis XVIII, Dielsdorf",91,"Niederweningen",NA,NA,NA,NA,2.21,2.21,NA,NA
-8,"AL",18,"Wahlkreis XVIII, Dielsdorf",91,"Niederweningen",NA,NA,NA,NA,0.81,0.81,NA,NA
-9,"BDP",18,"Wahlkreis XVIII, Dielsdorf",91,"Niederweningen",NA,NA,NA,NA,1.53,1.53,NA,NA
-10,"EDU",18,"Wahlkreis XVIII, Dielsdorf",91,"Niederweningen",NA,NA,NA,NA,7.3,7.3,NA,NA
-1,"SVP",18,"Wahlkreis XVIII, Dielsdorf",92,"Oberglatt",NA,NA,NA,NA,42.14,42.14,NA,NA
-2,"SP",18,"Wahlkreis XVIII, Dielsdorf",92,"Oberglatt",NA,NA,NA,NA,15.55,15.55,NA,NA
-3,"FDP",18,"Wahlkreis XVIII, Dielsdorf",92,"Oberglatt",NA,NA,NA,NA,15.02,15.02,NA,NA
-4,"GLP",18,"Wahlkreis XVIII, Dielsdorf",92,"Oberglatt",NA,NA,NA,NA,6.6,6.6,NA,NA
-5,"Grüne",18,"Wahlkreis XVIII, Dielsdorf",92,"Oberglatt",NA,NA,NA,NA,3.55,3.55,NA,NA
-6,"CVP",18,"Wahlkreis XVIII, Dielsdorf",92,"Oberglatt",NA,NA,NA,NA,2.57,2.57,NA,NA
-7,"EVP",18,"Wahlkreis XVIII, Dielsdorf",92,"Oberglatt",NA,NA,NA,NA,3.38,3.38,NA,NA
-8,"AL",18,"Wahlkreis XVIII, Dielsdorf",92,"Oberglatt",NA,NA,NA,NA,1.14,1.14,NA,NA
-9,"BDP",18,"Wahlkreis XVIII, Dielsdorf",92,"Oberglatt",NA,NA,NA,NA,1.49,1.49,NA,NA
-10,"EDU",18,"Wahlkreis XVIII, Dielsdorf",92,"Oberglatt",NA,NA,NA,NA,8.26,8.26,NA,NA
-1,"SVP",18,"Wahlkreis XVIII, Dielsdorf",93,"Oberweningen",NA,NA,NA,NA,40,40,NA,NA
-2,"SP",18,"Wahlkreis XVIII, Dielsdorf",93,"Oberweningen",NA,NA,NA,NA,12.28,12.28,NA,NA
-3,"FDP",18,"Wahlkreis XVIII, Dielsdorf",93,"Oberweningen",NA,NA,NA,NA,16.93,16.93,NA,NA
-4,"GLP",18,"Wahlkreis XVIII, Dielsdorf",93,"Oberweningen",NA,NA,NA,NA,5.75,5.75,NA,NA
-5,"Grüne",18,"Wahlkreis XVIII, Dielsdorf",93,"Oberweningen",NA,NA,NA,NA,5.83,5.83,NA,NA
-6,"CVP",18,"Wahlkreis XVIII, Dielsdorf",93,"Oberweningen",NA,NA,NA,NA,3.15,3.15,NA,NA
-7,"EVP",18,"Wahlkreis XVIII, Dielsdorf",93,"Oberweningen",NA,NA,NA,NA,1.51,1.51,NA,NA
-8,"AL",18,"Wahlkreis XVIII, Dielsdorf",93,"Oberweningen",NA,NA,NA,NA,0.62,0.62,NA,NA
-9,"BDP",18,"Wahlkreis XVIII, Dielsdorf",93,"Oberweningen",NA,NA,NA,NA,1.64,1.64,NA,NA
-10,"EDU",18,"Wahlkreis XVIII, Dielsdorf",93,"Oberweningen",NA,NA,NA,NA,11.16,11.16,NA,NA
-1,"SVP",18,"Wahlkreis XVIII, Dielsdorf",94,"Otelfingen",NA,NA,NA,NA,44.5,44.5,NA,NA
-2,"SP",18,"Wahlkreis XVIII, Dielsdorf",94,"Otelfingen",NA,NA,NA,NA,13.84,13.84,NA,NA
-3,"FDP",18,"Wahlkreis XVIII, Dielsdorf",94,"Otelfingen",NA,NA,NA,NA,15.08,15.08,NA,NA
-4,"GLP",18,"Wahlkreis XVIII, Dielsdorf",94,"Otelfingen",NA,NA,NA,NA,13.48,13.48,NA,NA
-5,"Grüne",18,"Wahlkreis XVIII, Dielsdorf",94,"Otelfingen",NA,NA,NA,NA,3.55,3.55,NA,NA
-6,"CVP",18,"Wahlkreis XVIII, Dielsdorf",94,"Otelfingen",NA,NA,NA,NA,1.82,1.82,NA,NA
-7,"EVP",18,"Wahlkreis XVIII, Dielsdorf",94,"Otelfingen",NA,NA,NA,NA,2.84,2.84,NA,NA
-8,"AL",18,"Wahlkreis XVIII, Dielsdorf",94,"Otelfingen",NA,NA,NA,NA,0.3,0.3,NA,NA
-9,"BDP",18,"Wahlkreis XVIII, Dielsdorf",94,"Otelfingen",NA,NA,NA,NA,2.34,2.34,NA,NA
-10,"EDU",18,"Wahlkreis XVIII, Dielsdorf",94,"Otelfingen",NA,NA,NA,NA,1.4,1.4,NA,NA
-1,"SVP",18,"Wahlkreis XVIII, Dielsdorf",95,"Regensberg",NA,NA,NA,NA,35.06,35.06,NA,NA
-2,"SP",18,"Wahlkreis XVIII, Dielsdorf",95,"Regensberg",NA,NA,NA,NA,11.64,11.64,NA,NA
-3,"FDP",18,"Wahlkreis XVIII, Dielsdorf",95,"Regensberg",NA,NA,NA,NA,13.5,13.5,NA,NA
-4,"GLP",18,"Wahlkreis XVIII, Dielsdorf",95,"Regensberg",NA,NA,NA,NA,9.64,9.64,NA,NA
-5,"Grüne",18,"Wahlkreis XVIII, Dielsdorf",95,"Regensberg",NA,NA,NA,NA,11.29,11.29,NA,NA
-6,"CVP",18,"Wahlkreis XVIII, Dielsdorf",95,"Regensberg",NA,NA,NA,NA,3.24,3.24,NA,NA
-7,"EVP",18,"Wahlkreis XVIII, Dielsdorf",95,"Regensberg",NA,NA,NA,NA,2.75,2.75,NA,NA
-8,"AL",18,"Wahlkreis XVIII, Dielsdorf",95,"Regensberg",NA,NA,NA,NA,0.14,0.14,NA,NA
-9,"BDP",18,"Wahlkreis XVIII, Dielsdorf",95,"Regensberg",NA,NA,NA,NA,1.1,1.1,NA,NA
-10,"EDU",18,"Wahlkreis XVIII, Dielsdorf",95,"Regensberg",NA,NA,NA,NA,9.3,9.3,NA,NA
-1,"SVP",18,"Wahlkreis XVIII, Dielsdorf",96,"Regensdorf",NA,NA,NA,NA,49.29,49.29,NA,NA
-2,"SP",18,"Wahlkreis XVIII, Dielsdorf",96,"Regensdorf",NA,NA,NA,NA,16.48,16.48,NA,NA
-3,"FDP",18,"Wahlkreis XVIII, Dielsdorf",96,"Regensdorf",NA,NA,NA,NA,12.06,12.06,NA,NA
-4,"GLP",18,"Wahlkreis XVIII, Dielsdorf",96,"Regensdorf",NA,NA,NA,NA,5.91,5.91,NA,NA
-5,"Grüne",18,"Wahlkreis XVIII, Dielsdorf",96,"Regensdorf",NA,NA,NA,NA,4.08,4.08,NA,NA
-6,"CVP",18,"Wahlkreis XVIII, Dielsdorf",96,"Regensdorf",NA,NA,NA,NA,4.98,4.98,NA,NA
-7,"EVP",18,"Wahlkreis XVIII, Dielsdorf",96,"Regensdorf",NA,NA,NA,NA,2.06,2.06,NA,NA
-8,"AL",18,"Wahlkreis XVIII, Dielsdorf",96,"Regensdorf",NA,NA,NA,NA,0.68,0.68,NA,NA
-9,"BDP",18,"Wahlkreis XVIII, Dielsdorf",96,"Regensdorf",NA,NA,NA,NA,1.84,1.84,NA,NA
-10,"EDU",18,"Wahlkreis XVIII, Dielsdorf",96,"Regensdorf",NA,NA,NA,NA,1.7,1.7,NA,NA
-1,"SVP",18,"Wahlkreis XVIII, Dielsdorf",97,"Rümlang",NA,NA,NA,NA,45.92,45.92,NA,NA
-2,"SP",18,"Wahlkreis XVIII, Dielsdorf",97,"Rümlang",NA,NA,NA,NA,19.4,19.4,NA,NA
-3,"FDP",18,"Wahlkreis XVIII, Dielsdorf",97,"Rümlang",NA,NA,NA,NA,10.49,10.49,NA,NA
-4,"GLP",18,"Wahlkreis XVIII, Dielsdorf",97,"Rümlang",NA,NA,NA,NA,5.38,5.38,NA,NA
-5,"Grüne",18,"Wahlkreis XVIII, Dielsdorf",97,"Rümlang",NA,NA,NA,NA,5.09,5.09,NA,NA
-6,"CVP",18,"Wahlkreis XVIII, Dielsdorf",97,"Rümlang",NA,NA,NA,NA,1.69,1.69,NA,NA
-7,"EVP",18,"Wahlkreis XVIII, Dielsdorf",97,"Rümlang",NA,NA,NA,NA,2.97,2.97,NA,NA
-8,"AL",18,"Wahlkreis XVIII, Dielsdorf",97,"Rümlang",NA,NA,NA,NA,0.71,0.71,NA,NA
-9,"BDP",18,"Wahlkreis XVIII, Dielsdorf",97,"Rümlang",NA,NA,NA,NA,2.26,2.26,NA,NA
-10,"EDU",18,"Wahlkreis XVIII, Dielsdorf",97,"Rümlang",NA,NA,NA,NA,5.54,5.54,NA,NA
-1,"SVP",18,"Wahlkreis XVIII, Dielsdorf",98,"Schleinikon",NA,NA,NA,NA,38.27,38.27,NA,NA
-2,"SP",18,"Wahlkreis XVIII, Dielsdorf",98,"Schleinikon",NA,NA,NA,NA,16.12,16.12,NA,NA
-3,"FDP",18,"Wahlkreis XVIII, Dielsdorf",98,"Schleinikon",NA,NA,NA,NA,10.3,10.3,NA,NA
-4,"GLP",18,"Wahlkreis XVIII, Dielsdorf",98,"Schleinikon",NA,NA,NA,NA,9.69,9.69,NA,NA
-5,"Grüne",18,"Wahlkreis XVIII, Dielsdorf",98,"Schleinikon",NA,NA,NA,NA,10.6,10.6,NA,NA
-6,"CVP",18,"Wahlkreis XVIII, Dielsdorf",98,"Schleinikon",NA,NA,NA,NA,1.51,1.51,NA,NA
-7,"EVP",18,"Wahlkreis XVIII, Dielsdorf",98,"Schleinikon",NA,NA,NA,NA,3.21,3.21,NA,NA
-8,"AL",18,"Wahlkreis XVIII, Dielsdorf",98,"Schleinikon",NA,NA,NA,NA,0.05,0.05,NA,NA
-9,"BDP",18,"Wahlkreis XVIII, Dielsdorf",98,"Schleinikon",NA,NA,NA,NA,2.06,2.06,NA,NA
-10,"EDU",18,"Wahlkreis XVIII, Dielsdorf",98,"Schleinikon",NA,NA,NA,NA,8.04,8.04,NA,NA
-1,"SVP",18,"Wahlkreis XVIII, Dielsdorf",99,"Schöfflisdorf",NA,NA,NA,NA,37.23,37.23,NA,NA
-2,"SP",18,"Wahlkreis XVIII, Dielsdorf",99,"Schöfflisdorf",NA,NA,NA,NA,10.78,10.78,NA,NA
-3,"FDP",18,"Wahlkreis XVIII, Dielsdorf",99,"Schöfflisdorf",NA,NA,NA,NA,16.64,16.64,NA,NA
-4,"GLP",18,"Wahlkreis XVIII, Dielsdorf",99,"Schöfflisdorf",NA,NA,NA,NA,7.5,7.5,NA,NA
-5,"Grüne",18,"Wahlkreis XVIII, Dielsdorf",99,"Schöfflisdorf",NA,NA,NA,NA,7.02,7.02,NA,NA
-6,"CVP",18,"Wahlkreis XVIII, Dielsdorf",99,"Schöfflisdorf",NA,NA,NA,NA,3.35,3.35,NA,NA
-7,"EVP",18,"Wahlkreis XVIII, Dielsdorf",99,"Schöfflisdorf",NA,NA,NA,NA,2.92,2.92,NA,NA
-8,"AL",18,"Wahlkreis XVIII, Dielsdorf",99,"Schöfflisdorf",NA,NA,NA,NA,0.89,0.89,NA,NA
-9,"BDP",18,"Wahlkreis XVIII, Dielsdorf",99,"Schöfflisdorf",NA,NA,NA,NA,0.63,0.63,NA,NA
-10,"EDU",18,"Wahlkreis XVIII, Dielsdorf",99,"Schöfflisdorf",NA,NA,NA,NA,11.41,11.41,NA,NA
-1,"SVP",18,"Wahlkreis XVIII, Dielsdorf",100,"Stadel",NA,NA,NA,NA,53.29,53.29,NA,NA
-2,"SP",18,"Wahlkreis XVIII, Dielsdorf",100,"Stadel",NA,NA,NA,NA,8.76,8.76,NA,NA
-3,"FDP",18,"Wahlkreis XVIII, Dielsdorf",100,"Stadel",NA,NA,NA,NA,11.54,11.54,NA,NA
-4,"GLP",18,"Wahlkreis XVIII, Dielsdorf",100,"Stadel",NA,NA,NA,NA,3.16,3.16,NA,NA
-5,"Grüne",18,"Wahlkreis XVIII, Dielsdorf",100,"Stadel",NA,NA,NA,NA,9.9,9.9,NA,NA
-6,"CVP",18,"Wahlkreis XVIII, Dielsdorf",100,"Stadel",NA,NA,NA,NA,1.39,1.39,NA,NA
-7,"EVP",18,"Wahlkreis XVIII, Dielsdorf",100,"Stadel",NA,NA,NA,NA,2.1,2.1,NA,NA
-8,"AL",18,"Wahlkreis XVIII, Dielsdorf",100,"Stadel",NA,NA,NA,NA,0.35,0.35,NA,NA
-9,"BDP",18,"Wahlkreis XVIII, Dielsdorf",100,"Stadel",NA,NA,NA,NA,2.14,2.14,NA,NA
-10,"EDU",18,"Wahlkreis XVIII, Dielsdorf",100,"Stadel",NA,NA,NA,NA,7.22,7.22,NA,NA
-1,"SVP",18,"Wahlkreis XVIII, Dielsdorf",101,"Steinmaur",NA,NA,NA,NA,34.26,34.26,NA,NA
-2,"SP",18,"Wahlkreis XVIII, Dielsdorf",101,"Steinmaur",NA,NA,NA,NA,10.52,10.52,NA,NA
-3,"FDP",18,"Wahlkreis XVIII, Dielsdorf",101,"Steinmaur",NA,NA,NA,NA,15.34,15.34,NA,NA
-4,"GLP",18,"Wahlkreis XVIII, Dielsdorf",101,"Steinmaur",NA,NA,NA,NA,6.17,6.17,NA,NA
-5,"Grüne",18,"Wahlkreis XVIII, Dielsdorf",101,"Steinmaur",NA,NA,NA,NA,12.27,12.27,NA,NA
-6,"CVP",18,"Wahlkreis XVIII, Dielsdorf",101,"Steinmaur",NA,NA,NA,NA,1.98,1.98,NA,NA
-7,"EVP",18,"Wahlkreis XVIII, Dielsdorf",101,"Steinmaur",NA,NA,NA,NA,2.02,2.02,NA,NA
-8,"AL",18,"Wahlkreis XVIII, Dielsdorf",101,"Steinmaur",NA,NA,NA,NA,0.07,0.07,NA,NA
-9,"BDP",18,"Wahlkreis XVIII, Dielsdorf",101,"Steinmaur",NA,NA,NA,NA,1.33,1.33,NA,NA
-10,"EDU",18,"Wahlkreis XVIII, Dielsdorf",101,"Steinmaur",NA,NA,NA,NA,15.65,15.65,NA,NA
-1,"SVP",18,"Wahlkreis XVIII, Dielsdorf",102,"Weiach",NA,NA,NA,NA,59.77,59.77,NA,NA
-2,"SP",18,"Wahlkreis XVIII, Dielsdorf",102,"Weiach",NA,NA,NA,NA,10.57,10.57,NA,NA
-3,"FDP",18,"Wahlkreis XVIII, Dielsdorf",102,"Weiach",NA,NA,NA,NA,6.21,6.21,NA,NA
-4,"GLP",18,"Wahlkreis XVIII, Dielsdorf",102,"Weiach",NA,NA,NA,NA,3.13,3.13,NA,NA
-5,"Grüne",18,"Wahlkreis XVIII, Dielsdorf",102,"Weiach",NA,NA,NA,NA,4.61,4.61,NA,NA
-6,"CVP",18,"Wahlkreis XVIII, Dielsdorf",102,"Weiach",NA,NA,NA,NA,2.14,2.14,NA,NA
-7,"EVP",18,"Wahlkreis XVIII, Dielsdorf",102,"Weiach",NA,NA,NA,NA,5.84,5.84,NA,NA
-8,"AL",18,"Wahlkreis XVIII, Dielsdorf",102,"Weiach",NA,NA,NA,NA,0.04,0.04,NA,NA
-9,"BDP",18,"Wahlkreis XVIII, Dielsdorf",102,"Weiach",NA,NA,NA,NA,3.13,3.13,NA,NA
-10,"EDU",18,"Wahlkreis XVIII, Dielsdorf",102,"Weiach",NA,NA,NA,NA,4.57,4.57,NA,NA
-1,"SVP",NA,NA,261,"Kanton Zürich",NA,NA,NA,NA,NA,NA,NA,NA
-2,"SP",NA,NA,261,"Kanton Zürich",NA,NA,NA,NA,NA,NA,NA,NA
-3,"FDP",NA,NA,261,"Kanton Zürich",NA,NA,NA,NA,NA,NA,NA,NA
-4,"GLP",NA,NA,261,"Kanton Zürich",NA,NA,NA,NA,NA,NA,NA,NA
-5,"Grüne",NA,NA,261,"Kanton Zürich",NA,NA,NA,NA,NA,NA,NA,NA
-6,"CVP",NA,NA,261,"Kanton Zürich",NA,NA,NA,NA,NA,NA,NA,NA
-7,"EVP",NA,NA,261,"Kanton Zürich",NA,NA,NA,NA,NA,NA,NA,NA
-8,"AL",NA,NA,261,"Kanton Zürich",NA,NA,NA,NA,NA,NA,NA,NA
-9,"BDP",NA,NA,261,"Kanton Zürich",NA,NA,NA,NA,NA,NA,NA,NA
-10,"EDU",NA,NA,261,"Kanton Zürich",NA,NA,NA,NA,NA,NA,NA,NA
-11,"Helvida",NA,NA,261,"Kanton Zürich",NA,NA,NA,NA,NA,NA,NA,NA
-12,"die Guten",NA,NA,261,"Kanton Zürich",NA,NA,NA,NA,NA,NA,NA,NA
-13,"PdA",NA,NA,261,"Kanton Zürich",NA,NA,NA,NA,NA,NA,NA,NA
+"jahr","gemeinde_bfsnr","waehlerproz"
+2019,10261,NA
+2019,10261,NA
+2019,10261,NA
+2019,10261,NA
+2019,10261,NA
+2019,10261,NA
+2019,10261,NA
+2019,10261,NA
+2019,10261,NA
+2019,10261,NA
+2019,20261,NA
+2019,20261,NA
+2019,20261,NA
+2019,20261,NA
+2019,20261,NA
+2019,20261,NA
+2019,20261,NA
+2019,20261,NA
+2019,20261,NA
+2019,20261,NA
+2019,20261,NA
+2019,20261,NA
+2019,60261,NA
+2019,60261,NA
+2019,60261,NA
+2019,60261,NA
+2019,60261,NA
+2019,60261,NA
+2019,60261,NA
+2019,60261,NA
+2019,60261,NA
+2019,60261,NA
+2019,60261,NA
+2019,60261,NA
+2019,30261,NA
+2019,30261,NA
+2019,30261,NA
+2019,30261,NA
+2019,30261,NA
+2019,30261,NA
+2019,30261,NA
+2019,30261,NA
+2019,30261,NA
+2019,30261,NA
+2019,40261,NA
+2019,40261,NA
+2019,40261,NA
+2019,40261,NA
+2019,40261,NA
+2019,40261,NA
+2019,40261,NA
+2019,40261,NA
+2019,40261,NA
+2019,40261,NA
+2019,40261,NA
+2019,40261,NA
+2019,70261,NA
+2019,70261,NA
+2019,70261,NA
+2019,70261,NA
+2019,70261,NA
+2019,70261,NA
+2019,70261,NA
+2019,70261,NA
+2019,70261,NA
+2019,70261,NA
+2019,70261,NA
+2019,70261,NA
+2019,50261,NA
+2019,50261,NA
+2019,50261,NA
+2019,50261,NA
+2019,50261,NA
+2019,50261,NA
+2019,50261,NA
+2019,50261,NA
+2019,50261,NA
+2019,50261,NA
+2019,80261,NA
+2019,80261,NA
+2019,80261,NA
+2019,80261,NA
+2019,80261,NA
+2019,80261,NA
+2019,80261,NA
+2019,80261,NA
+2019,80261,NA
+2019,80261,NA
+2019,80261,NA
+2019,90261,NA
+2019,90261,NA
+2019,90261,NA
+2019,90261,NA
+2019,90261,NA
+2019,90261,NA
+2019,90261,NA
+2019,90261,NA
+2019,90261,NA
+2019,90261,NA
+2019,90261,NA
+2019,241,NA
+2019,241,NA
+2019,241,NA
+2019,241,NA
+2019,241,NA
+2019,241,NA
+2019,241,NA
+2019,241,NA
+2019,241,NA
+2019,241,NA
+2019,242,NA
+2019,242,NA
+2019,242,NA
+2019,242,NA
+2019,242,NA
+2019,242,NA
+2019,242,NA
+2019,242,NA
+2019,242,NA
+2019,242,NA
+2019,243,NA
+2019,243,NA
+2019,243,NA
+2019,243,NA
+2019,243,NA
+2019,243,NA
+2019,243,NA
+2019,243,NA
+2019,243,NA
+2019,243,NA
+2019,244,NA
+2019,244,NA
+2019,244,NA
+2019,244,NA
+2019,244,NA
+2019,244,NA
+2019,244,NA
+2019,244,NA
+2019,244,NA
+2019,244,NA
+2019,245,NA
+2019,245,NA
+2019,245,NA
+2019,245,NA
+2019,245,NA
+2019,245,NA
+2019,245,NA
+2019,245,NA
+2019,245,NA
+2019,245,NA
+2019,246,NA
+2019,246,NA
+2019,246,NA
+2019,246,NA
+2019,246,NA
+2019,246,NA
+2019,246,NA
+2019,246,NA
+2019,246,NA
+2019,246,NA
+2019,247,NA
+2019,247,NA
+2019,247,NA
+2019,247,NA
+2019,247,NA
+2019,247,NA
+2019,247,NA
+2019,247,NA
+2019,247,NA
+2019,247,NA
+2019,248,NA
+2019,248,NA
+2019,248,NA
+2019,248,NA
+2019,248,NA
+2019,248,NA
+2019,248,NA
+2019,248,NA
+2019,248,NA
+2019,248,NA
+2019,249,NA
+2019,249,NA
+2019,249,NA
+2019,249,NA
+2019,249,NA
+2019,249,NA
+2019,249,NA
+2019,249,NA
+2019,249,NA
+2019,249,NA
+2019,250,NA
+2019,250,NA
+2019,250,NA
+2019,250,NA
+2019,250,NA
+2019,250,NA
+2019,250,NA
+2019,250,NA
+2019,250,NA
+2019,250,NA
+2019,251,NA
+2019,251,NA
+2019,251,NA
+2019,251,NA
+2019,251,NA
+2019,251,NA
+2019,251,NA
+2019,251,NA
+2019,251,NA
+2019,251,NA
+2019,1,NA
+2019,1,NA
+2019,1,NA
+2019,1,NA
+2019,1,NA
+2019,1,NA
+2019,1,NA
+2019,1,NA
+2019,1,NA
+2019,1,NA
+2019,2,NA
+2019,2,NA
+2019,2,NA
+2019,2,NA
+2019,2,NA
+2019,2,NA
+2019,2,NA
+2019,2,NA
+2019,2,NA
+2019,2,NA
+2019,3,NA
+2019,3,NA
+2019,3,NA
+2019,3,NA
+2019,3,NA
+2019,3,NA
+2019,3,NA
+2019,3,NA
+2019,3,NA
+2019,3,NA
+2019,4,NA
+2019,4,NA
+2019,4,NA
+2019,4,NA
+2019,4,NA
+2019,4,NA
+2019,4,NA
+2019,4,NA
+2019,4,NA
+2019,4,NA
+2019,5,NA
+2019,5,NA
+2019,5,NA
+2019,5,NA
+2019,5,NA
+2019,5,NA
+2019,5,NA
+2019,5,NA
+2019,5,NA
+2019,5,NA
+2019,6,NA
+2019,6,NA
+2019,6,NA
+2019,6,NA
+2019,6,NA
+2019,6,NA
+2019,6,NA
+2019,6,NA
+2019,6,NA
+2019,6,NA
+2019,7,NA
+2019,7,NA
+2019,7,NA
+2019,7,NA
+2019,7,NA
+2019,7,NA
+2019,7,NA
+2019,7,NA
+2019,7,NA
+2019,7,NA
+2019,8,NA
+2019,8,NA
+2019,8,NA
+2019,8,NA
+2019,8,NA
+2019,8,NA
+2019,8,NA
+2019,8,NA
+2019,8,NA
+2019,8,NA
+2019,9,NA
+2019,9,NA
+2019,9,NA
+2019,9,NA
+2019,9,NA
+2019,9,NA
+2019,9,NA
+2019,9,NA
+2019,9,NA
+2019,9,NA
+2019,10,NA
+2019,10,NA
+2019,10,NA
+2019,10,NA
+2019,10,NA
+2019,10,NA
+2019,10,NA
+2019,10,NA
+2019,10,NA
+2019,10,NA
+2019,11,NA
+2019,11,NA
+2019,11,NA
+2019,11,NA
+2019,11,NA
+2019,11,NA
+2019,11,NA
+2019,11,NA
+2019,11,NA
+2019,11,NA
+2019,12,NA
+2019,12,NA
+2019,12,NA
+2019,12,NA
+2019,12,NA
+2019,12,NA
+2019,12,NA
+2019,12,NA
+2019,12,NA
+2019,12,NA
+2019,13,NA
+2019,13,NA
+2019,13,NA
+2019,13,NA
+2019,13,NA
+2019,13,NA
+2019,13,NA
+2019,13,NA
+2019,13,NA
+2019,13,NA
+2019,14,NA
+2019,14,NA
+2019,14,NA
+2019,14,NA
+2019,14,NA
+2019,14,NA
+2019,14,NA
+2019,14,NA
+2019,14,NA
+2019,14,NA
+2019,131,NA
+2019,131,NA
+2019,131,NA
+2019,131,NA
+2019,131,NA
+2019,131,NA
+2019,131,NA
+2019,131,NA
+2019,131,NA
+2019,131,NA
+2019,135,NA
+2019,135,NA
+2019,135,NA
+2019,135,NA
+2019,135,NA
+2019,135,NA
+2019,135,NA
+2019,135,NA
+2019,135,NA
+2019,135,NA
+2019,136,NA
+2019,136,NA
+2019,136,NA
+2019,136,NA
+2019,136,NA
+2019,136,NA
+2019,136,NA
+2019,136,NA
+2019,136,NA
+2019,136,NA
+2019,137,NA
+2019,137,NA
+2019,137,NA
+2019,137,NA
+2019,137,NA
+2019,137,NA
+2019,137,NA
+2019,137,NA
+2019,137,NA
+2019,137,NA
+2019,138,NA
+2019,138,NA
+2019,138,NA
+2019,138,NA
+2019,138,NA
+2019,138,NA
+2019,138,NA
+2019,138,NA
+2019,138,NA
+2019,138,NA
+2019,139,NA
+2019,139,NA
+2019,139,NA
+2019,139,NA
+2019,139,NA
+2019,139,NA
+2019,139,NA
+2019,139,NA
+2019,139,NA
+2019,139,NA
+2019,141,NA
+2019,141,NA
+2019,141,NA
+2019,141,NA
+2019,141,NA
+2019,141,NA
+2019,141,NA
+2019,141,NA
+2019,141,NA
+2019,141,NA
+2019,293,NA
+2019,293,NA
+2019,293,NA
+2019,293,NA
+2019,293,NA
+2019,293,NA
+2019,293,NA
+2019,293,NA
+2019,293,NA
+2019,293,NA
+2019,295,NA
+2019,295,NA
+2019,295,NA
+2019,295,NA
+2019,295,NA
+2019,295,NA
+2019,295,NA
+2019,295,NA
+2019,295,NA
+2019,295,NA
+2019,151,NA
+2019,151,NA
+2019,151,NA
+2019,151,NA
+2019,151,NA
+2019,151,NA
+2019,151,NA
+2019,151,NA
+2019,151,NA
+2019,151,NA
+2019,152,NA
+2019,152,NA
+2019,152,NA
+2019,152,NA
+2019,152,NA
+2019,152,NA
+2019,152,NA
+2019,152,NA
+2019,152,NA
+2019,152,NA
+2019,153,NA
+2019,153,NA
+2019,153,NA
+2019,153,NA
+2019,153,NA
+2019,153,NA
+2019,153,NA
+2019,153,NA
+2019,153,NA
+2019,153,NA
+2019,154,NA
+2019,154,NA
+2019,154,NA
+2019,154,NA
+2019,154,NA
+2019,154,NA
+2019,154,NA
+2019,154,NA
+2019,154,NA
+2019,154,NA
+2019,155,NA
+2019,155,NA
+2019,155,NA
+2019,155,NA
+2019,155,NA
+2019,155,NA
+2019,155,NA
+2019,155,NA
+2019,155,NA
+2019,155,NA
+2019,156,NA
+2019,156,NA
+2019,156,NA
+2019,156,NA
+2019,156,NA
+2019,156,NA
+2019,156,NA
+2019,156,NA
+2019,156,NA
+2019,156,NA
+2019,157,NA
+2019,157,NA
+2019,157,NA
+2019,157,NA
+2019,157,NA
+2019,157,NA
+2019,157,NA
+2019,157,NA
+2019,157,NA
+2019,157,NA
+2019,158,NA
+2019,158,NA
+2019,158,NA
+2019,158,NA
+2019,158,NA
+2019,158,NA
+2019,158,NA
+2019,158,NA
+2019,158,NA
+2019,158,NA
+2019,159,NA
+2019,159,NA
+2019,159,NA
+2019,159,NA
+2019,159,NA
+2019,159,NA
+2019,159,NA
+2019,159,NA
+2019,159,NA
+2019,159,NA
+2019,160,NA
+2019,160,NA
+2019,160,NA
+2019,160,NA
+2019,160,NA
+2019,160,NA
+2019,160,NA
+2019,160,NA
+2019,160,NA
+2019,160,NA
+2019,161,NA
+2019,161,NA
+2019,161,NA
+2019,161,NA
+2019,161,NA
+2019,161,NA
+2019,161,NA
+2019,161,NA
+2019,161,NA
+2019,161,NA
+2019,111,NA
+2019,111,NA
+2019,111,NA
+2019,111,NA
+2019,111,NA
+2019,111,NA
+2019,111,NA
+2019,111,NA
+2019,111,NA
+2019,111,NA
+2019,112,NA
+2019,112,NA
+2019,112,NA
+2019,112,NA
+2019,112,NA
+2019,112,NA
+2019,112,NA
+2019,112,NA
+2019,112,NA
+2019,112,NA
+2019,113,NA
+2019,113,NA
+2019,113,NA
+2019,113,NA
+2019,113,NA
+2019,113,NA
+2019,113,NA
+2019,113,NA
+2019,113,NA
+2019,113,NA
+2019,114,NA
+2019,114,NA
+2019,114,NA
+2019,114,NA
+2019,114,NA
+2019,114,NA
+2019,114,NA
+2019,114,NA
+2019,114,NA
+2019,114,NA
+2019,115,NA
+2019,115,NA
+2019,115,NA
+2019,115,NA
+2019,115,NA
+2019,115,NA
+2019,115,NA
+2019,115,NA
+2019,115,NA
+2019,115,NA
+2019,116,NA
+2019,116,NA
+2019,116,NA
+2019,116,NA
+2019,116,NA
+2019,116,NA
+2019,116,NA
+2019,116,NA
+2019,116,NA
+2019,116,NA
+2019,117,NA
+2019,117,NA
+2019,117,NA
+2019,117,NA
+2019,117,NA
+2019,117,NA
+2019,117,NA
+2019,117,NA
+2019,117,NA
+2019,117,NA
+2019,118,NA
+2019,118,NA
+2019,118,NA
+2019,118,NA
+2019,118,NA
+2019,118,NA
+2019,118,NA
+2019,118,NA
+2019,118,NA
+2019,118,NA
+2019,119,NA
+2019,119,NA
+2019,119,NA
+2019,119,NA
+2019,119,NA
+2019,119,NA
+2019,119,NA
+2019,119,NA
+2019,119,NA
+2019,119,NA
+2019,120,NA
+2019,120,NA
+2019,120,NA
+2019,120,NA
+2019,120,NA
+2019,120,NA
+2019,120,NA
+2019,120,NA
+2019,120,NA
+2019,120,NA
+2019,121,NA
+2019,121,NA
+2019,121,NA
+2019,121,NA
+2019,121,NA
+2019,121,NA
+2019,121,NA
+2019,121,NA
+2019,121,NA
+2019,121,NA
+2019,191,NA
+2019,191,NA
+2019,191,NA
+2019,191,NA
+2019,191,NA
+2019,191,NA
+2019,191,NA
+2019,191,NA
+2019,191,NA
+2019,191,NA
+2019,192,NA
+2019,192,NA
+2019,192,NA
+2019,192,NA
+2019,192,NA
+2019,192,NA
+2019,192,NA
+2019,192,NA
+2019,192,NA
+2019,192,NA
+2019,193,NA
+2019,193,NA
+2019,193,NA
+2019,193,NA
+2019,193,NA
+2019,193,NA
+2019,193,NA
+2019,193,NA
+2019,193,NA
+2019,193,NA
+2019,194,NA
+2019,194,NA
+2019,194,NA
+2019,194,NA
+2019,194,NA
+2019,194,NA
+2019,194,NA
+2019,194,NA
+2019,194,NA
+2019,194,NA
+2019,195,NA
+2019,195,NA
+2019,195,NA
+2019,195,NA
+2019,195,NA
+2019,195,NA
+2019,195,NA
+2019,195,NA
+2019,195,NA
+2019,195,NA
+2019,196,NA
+2019,196,NA
+2019,196,NA
+2019,196,NA
+2019,196,NA
+2019,196,NA
+2019,196,NA
+2019,196,NA
+2019,196,NA
+2019,196,NA
+2019,197,NA
+2019,197,NA
+2019,197,NA
+2019,197,NA
+2019,197,NA
+2019,197,NA
+2019,197,NA
+2019,197,NA
+2019,197,NA
+2019,197,NA
+2019,198,NA
+2019,198,NA
+2019,198,NA
+2019,198,NA
+2019,198,NA
+2019,198,NA
+2019,198,NA
+2019,198,NA
+2019,198,NA
+2019,198,NA
+2019,199,NA
+2019,199,NA
+2019,199,NA
+2019,199,NA
+2019,199,NA
+2019,199,NA
+2019,199,NA
+2019,199,NA
+2019,199,NA
+2019,199,NA
+2019,200,NA
+2019,200,NA
+2019,200,NA
+2019,200,NA
+2019,200,NA
+2019,200,NA
+2019,200,NA
+2019,200,NA
+2019,200,NA
+2019,200,NA
+2019,172,NA
+2019,172,NA
+2019,172,NA
+2019,172,NA
+2019,172,NA
+2019,172,NA
+2019,172,NA
+2019,172,NA
+2019,172,NA
+2019,172,NA
+2019,173,NA
+2019,173,NA
+2019,173,NA
+2019,173,NA
+2019,173,NA
+2019,173,NA
+2019,173,NA
+2019,173,NA
+2019,173,NA
+2019,173,NA
+2019,176,NA
+2019,176,NA
+2019,176,NA
+2019,176,NA
+2019,176,NA
+2019,176,NA
+2019,176,NA
+2019,176,NA
+2019,176,NA
+2019,176,NA
+2019,177,NA
+2019,177,NA
+2019,177,NA
+2019,177,NA
+2019,177,NA
+2019,177,NA
+2019,177,NA
+2019,177,NA
+2019,177,NA
+2019,177,NA
+2019,178,NA
+2019,178,NA
+2019,178,NA
+2019,178,NA
+2019,178,NA
+2019,178,NA
+2019,178,NA
+2019,178,NA
+2019,178,NA
+2019,178,NA
+2019,180,NA
+2019,180,NA
+2019,180,NA
+2019,180,NA
+2019,180,NA
+2019,180,NA
+2019,180,NA
+2019,180,NA
+2019,180,NA
+2019,180,NA
+2019,181,NA
+2019,181,NA
+2019,181,NA
+2019,181,NA
+2019,181,NA
+2019,181,NA
+2019,181,NA
+2019,181,NA
+2019,181,NA
+2019,181,NA
+2019,182,NA
+2019,182,NA
+2019,182,NA
+2019,182,NA
+2019,182,NA
+2019,182,NA
+2019,182,NA
+2019,182,NA
+2019,182,NA
+2019,182,NA
+2019,296,NA
+2019,296,NA
+2019,296,NA
+2019,296,NA
+2019,296,NA
+2019,296,NA
+2019,296,NA
+2019,296,NA
+2019,296,NA
+2019,296,NA
+2019,297,NA
+2019,297,NA
+2019,297,NA
+2019,297,NA
+2019,297,NA
+2019,297,NA
+2019,297,NA
+2019,297,NA
+2019,297,NA
+2019,297,NA
+2019,10230,NA
+2019,10230,NA
+2019,10230,NA
+2019,10230,NA
+2019,10230,NA
+2019,10230,NA
+2019,10230,NA
+2019,10230,NA
+2019,10230,NA
+2019,10230,NA
+2019,20230,NA
+2019,20230,NA
+2019,20230,NA
+2019,20230,NA
+2019,20230,NA
+2019,20230,NA
+2019,20230,NA
+2019,20230,NA
+2019,20230,NA
+2019,20230,NA
+2019,30230,NA
+2019,30230,NA
+2019,30230,NA
+2019,30230,NA
+2019,30230,NA
+2019,30230,NA
+2019,30230,NA
+2019,30230,NA
+2019,30230,NA
+2019,30230,NA
+2019,40230,NA
+2019,40230,NA
+2019,40230,NA
+2019,40230,NA
+2019,40230,NA
+2019,40230,NA
+2019,40230,NA
+2019,40230,NA
+2019,40230,NA
+2019,40230,NA
+2019,50230,NA
+2019,50230,NA
+2019,50230,NA
+2019,50230,NA
+2019,50230,NA
+2019,50230,NA
+2019,50230,NA
+2019,50230,NA
+2019,50230,NA
+2019,50230,NA
+2019,60230,NA
+2019,60230,NA
+2019,60230,NA
+2019,60230,NA
+2019,60230,NA
+2019,60230,NA
+2019,60230,NA
+2019,60230,NA
+2019,60230,NA
+2019,60230,NA
+2019,70230,NA
+2019,70230,NA
+2019,70230,NA
+2019,70230,NA
+2019,70230,NA
+2019,70230,NA
+2019,70230,NA
+2019,70230,NA
+2019,70230,NA
+2019,70230,NA
+2019,211,NA
+2019,211,NA
+2019,211,NA
+2019,211,NA
+2019,211,NA
+2019,211,NA
+2019,211,NA
+2019,211,NA
+2019,211,NA
+2019,211,NA
+2019,213,NA
+2019,213,NA
+2019,213,NA
+2019,213,NA
+2019,213,NA
+2019,213,NA
+2019,213,NA
+2019,213,NA
+2019,213,NA
+2019,213,NA
+2019,214,NA
+2019,214,NA
+2019,214,NA
+2019,214,NA
+2019,214,NA
+2019,214,NA
+2019,214,NA
+2019,214,NA
+2019,214,NA
+2019,214,NA
+2019,215,NA
+2019,215,NA
+2019,215,NA
+2019,215,NA
+2019,215,NA
+2019,215,NA
+2019,215,NA
+2019,215,NA
+2019,215,NA
+2019,215,NA
+2019,216,NA
+2019,216,NA
+2019,216,NA
+2019,216,NA
+2019,216,NA
+2019,216,NA
+2019,216,NA
+2019,216,NA
+2019,216,NA
+2019,216,NA
+2019,218,NA
+2019,218,NA
+2019,218,NA
+2019,218,NA
+2019,218,NA
+2019,218,NA
+2019,218,NA
+2019,218,NA
+2019,218,NA
+2019,218,NA
+2019,219,NA
+2019,219,NA
+2019,219,NA
+2019,219,NA
+2019,219,NA
+2019,219,NA
+2019,219,NA
+2019,219,NA
+2019,219,NA
+2019,219,NA
+2019,220,NA
+2019,220,NA
+2019,220,NA
+2019,220,NA
+2019,220,NA
+2019,220,NA
+2019,220,NA
+2019,220,NA
+2019,220,NA
+2019,220,NA
+2019,221,NA
+2019,221,NA
+2019,221,NA
+2019,221,NA
+2019,221,NA
+2019,221,NA
+2019,221,NA
+2019,221,NA
+2019,221,NA
+2019,221,NA
+2019,223,NA
+2019,223,NA
+2019,223,NA
+2019,223,NA
+2019,223,NA
+2019,223,NA
+2019,223,NA
+2019,223,NA
+2019,223,NA
+2019,223,NA
+2019,224,NA
+2019,224,NA
+2019,224,NA
+2019,224,NA
+2019,224,NA
+2019,224,NA
+2019,224,NA
+2019,224,NA
+2019,224,NA
+2019,224,NA
+2019,225,NA
+2019,225,NA
+2019,225,NA
+2019,225,NA
+2019,225,NA
+2019,225,NA
+2019,225,NA
+2019,225,NA
+2019,225,NA
+2019,225,NA
+2019,226,NA
+2019,226,NA
+2019,226,NA
+2019,226,NA
+2019,226,NA
+2019,226,NA
+2019,226,NA
+2019,226,NA
+2019,226,NA
+2019,226,NA
+2019,227,NA
+2019,227,NA
+2019,227,NA
+2019,227,NA
+2019,227,NA
+2019,227,NA
+2019,227,NA
+2019,227,NA
+2019,227,NA
+2019,227,NA
+2019,228,NA
+2019,228,NA
+2019,228,NA
+2019,228,NA
+2019,228,NA
+2019,228,NA
+2019,228,NA
+2019,228,NA
+2019,228,NA
+2019,228,NA
+2019,231,NA
+2019,231,NA
+2019,231,NA
+2019,231,NA
+2019,231,NA
+2019,231,NA
+2019,231,NA
+2019,231,NA
+2019,231,NA
+2019,231,NA
+2019,294,NA
+2019,294,NA
+2019,294,NA
+2019,294,NA
+2019,294,NA
+2019,294,NA
+2019,294,NA
+2019,294,NA
+2019,294,NA
+2019,294,NA
+2019,298,NA
+2019,298,NA
+2019,298,NA
+2019,298,NA
+2019,298,NA
+2019,298,NA
+2019,298,NA
+2019,298,NA
+2019,298,NA
+2019,298,NA
+2019,21,NA
+2019,21,NA
+2019,21,NA
+2019,21,NA
+2019,21,NA
+2019,21,NA
+2019,21,NA
+2019,21,NA
+2019,21,NA
+2019,21,NA
+2019,22,NA
+2019,22,NA
+2019,22,NA
+2019,22,NA
+2019,22,NA
+2019,22,NA
+2019,22,NA
+2019,22,NA
+2019,22,NA
+2019,22,NA
+2019,23,NA
+2019,23,NA
+2019,23,NA
+2019,23,NA
+2019,23,NA
+2019,23,NA
+2019,23,NA
+2019,23,NA
+2019,23,NA
+2019,23,NA
+2019,24,NA
+2019,24,NA
+2019,24,NA
+2019,24,NA
+2019,24,NA
+2019,24,NA
+2019,24,NA
+2019,24,NA
+2019,24,NA
+2019,24,NA
+2019,25,NA
+2019,25,NA
+2019,25,NA
+2019,25,NA
+2019,25,NA
+2019,25,NA
+2019,25,NA
+2019,25,NA
+2019,25,NA
+2019,25,NA
+2019,26,NA
+2019,26,NA
+2019,26,NA
+2019,26,NA
+2019,26,NA
+2019,26,NA
+2019,26,NA
+2019,26,NA
+2019,26,NA
+2019,26,NA
+2019,27,NA
+2019,27,NA
+2019,27,NA
+2019,27,NA
+2019,27,NA
+2019,27,NA
+2019,27,NA
+2019,27,NA
+2019,27,NA
+2019,27,NA
+2019,28,NA
+2019,28,NA
+2019,28,NA
+2019,28,NA
+2019,28,NA
+2019,28,NA
+2019,28,NA
+2019,28,NA
+2019,28,NA
+2019,28,NA
+2019,29,NA
+2019,29,NA
+2019,29,NA
+2019,29,NA
+2019,29,NA
+2019,29,NA
+2019,29,NA
+2019,29,NA
+2019,29,NA
+2019,29,NA
+2019,30,NA
+2019,30,NA
+2019,30,NA
+2019,30,NA
+2019,30,NA
+2019,30,NA
+2019,30,NA
+2019,30,NA
+2019,30,NA
+2019,30,NA
+2019,31,NA
+2019,31,NA
+2019,31,NA
+2019,31,NA
+2019,31,NA
+2019,31,NA
+2019,31,NA
+2019,31,NA
+2019,31,NA
+2019,31,NA
+2019,32,NA
+2019,32,NA
+2019,32,NA
+2019,32,NA
+2019,32,NA
+2019,32,NA
+2019,32,NA
+2019,32,NA
+2019,32,NA
+2019,32,NA
+2019,33,NA
+2019,33,NA
+2019,33,NA
+2019,33,NA
+2019,33,NA
+2019,33,NA
+2019,33,NA
+2019,33,NA
+2019,33,NA
+2019,33,NA
+2019,34,NA
+2019,34,NA
+2019,34,NA
+2019,34,NA
+2019,34,NA
+2019,34,NA
+2019,34,NA
+2019,34,NA
+2019,34,NA
+2019,34,NA
+2019,35,NA
+2019,35,NA
+2019,35,NA
+2019,35,NA
+2019,35,NA
+2019,35,NA
+2019,35,NA
+2019,35,NA
+2019,35,NA
+2019,35,NA
+2019,37,NA
+2019,37,NA
+2019,37,NA
+2019,37,NA
+2019,37,NA
+2019,37,NA
+2019,37,NA
+2019,37,NA
+2019,37,NA
+2019,37,NA
+2019,38,NA
+2019,38,NA
+2019,38,NA
+2019,38,NA
+2019,38,NA
+2019,38,NA
+2019,38,NA
+2019,38,NA
+2019,38,NA
+2019,38,NA
+2019,39,NA
+2019,39,NA
+2019,39,NA
+2019,39,NA
+2019,39,NA
+2019,39,NA
+2019,39,NA
+2019,39,NA
+2019,39,NA
+2019,39,NA
+2019,40,NA
+2019,40,NA
+2019,40,NA
+2019,40,NA
+2019,40,NA
+2019,40,NA
+2019,40,NA
+2019,40,NA
+2019,40,NA
+2019,40,NA
+2019,41,NA
+2019,41,NA
+2019,41,NA
+2019,41,NA
+2019,41,NA
+2019,41,NA
+2019,41,NA
+2019,41,NA
+2019,41,NA
+2019,41,NA
+2019,43,NA
+2019,43,NA
+2019,43,NA
+2019,43,NA
+2019,43,NA
+2019,43,NA
+2019,43,NA
+2019,43,NA
+2019,43,NA
+2019,43,NA
+2019,292,NA
+2019,292,NA
+2019,292,NA
+2019,292,NA
+2019,292,NA
+2019,292,NA
+2019,292,NA
+2019,292,NA
+2019,292,NA
+2019,292,NA
+2019,51,NA
+2019,51,NA
+2019,51,NA
+2019,51,NA
+2019,51,NA
+2019,51,NA
+2019,51,NA
+2019,51,NA
+2019,51,NA
+2019,51,NA
+2019,52,NA
+2019,52,NA
+2019,52,NA
+2019,52,NA
+2019,52,NA
+2019,52,NA
+2019,52,NA
+2019,52,NA
+2019,52,NA
+2019,52,NA
+2019,53,NA
+2019,53,NA
+2019,53,NA
+2019,53,NA
+2019,53,NA
+2019,53,NA
+2019,53,NA
+2019,53,NA
+2019,53,NA
+2019,53,NA
+2019,54,NA
+2019,54,NA
+2019,54,NA
+2019,54,NA
+2019,54,NA
+2019,54,NA
+2019,54,NA
+2019,54,NA
+2019,54,NA
+2019,54,NA
+2019,55,NA
+2019,55,NA
+2019,55,NA
+2019,55,NA
+2019,55,NA
+2019,55,NA
+2019,55,NA
+2019,55,NA
+2019,55,NA
+2019,55,NA
+2019,56,NA
+2019,56,NA
+2019,56,NA
+2019,56,NA
+2019,56,NA
+2019,56,NA
+2019,56,NA
+2019,56,NA
+2019,56,NA
+2019,56,NA
+2019,57,NA
+2019,57,NA
+2019,57,NA
+2019,57,NA
+2019,57,NA
+2019,57,NA
+2019,57,NA
+2019,57,NA
+2019,57,NA
+2019,57,NA
+2019,58,NA
+2019,58,NA
+2019,58,NA
+2019,58,NA
+2019,58,NA
+2019,58,NA
+2019,58,NA
+2019,58,NA
+2019,58,NA
+2019,58,NA
+2019,59,NA
+2019,59,NA
+2019,59,NA
+2019,59,NA
+2019,59,NA
+2019,59,NA
+2019,59,NA
+2019,59,NA
+2019,59,NA
+2019,59,NA
+2019,60,NA
+2019,60,NA
+2019,60,NA
+2019,60,NA
+2019,60,NA
+2019,60,NA
+2019,60,NA
+2019,60,NA
+2019,60,NA
+2019,60,NA
+2019,61,NA
+2019,61,NA
+2019,61,NA
+2019,61,NA
+2019,61,NA
+2019,61,NA
+2019,61,NA
+2019,61,NA
+2019,61,NA
+2019,61,NA
+2019,62,NA
+2019,62,NA
+2019,62,NA
+2019,62,NA
+2019,62,NA
+2019,62,NA
+2019,62,NA
+2019,62,NA
+2019,62,NA
+2019,62,NA
+2019,63,NA
+2019,63,NA
+2019,63,NA
+2019,63,NA
+2019,63,NA
+2019,63,NA
+2019,63,NA
+2019,63,NA
+2019,63,NA
+2019,63,NA
+2019,64,NA
+2019,64,NA
+2019,64,NA
+2019,64,NA
+2019,64,NA
+2019,64,NA
+2019,64,NA
+2019,64,NA
+2019,64,NA
+2019,64,NA
+2019,65,NA
+2019,65,NA
+2019,65,NA
+2019,65,NA
+2019,65,NA
+2019,65,NA
+2019,65,NA
+2019,65,NA
+2019,65,NA
+2019,65,NA
+2019,66,NA
+2019,66,NA
+2019,66,NA
+2019,66,NA
+2019,66,NA
+2019,66,NA
+2019,66,NA
+2019,66,NA
+2019,66,NA
+2019,66,NA
+2019,67,NA
+2019,67,NA
+2019,67,NA
+2019,67,NA
+2019,67,NA
+2019,67,NA
+2019,67,NA
+2019,67,NA
+2019,67,NA
+2019,67,NA
+2019,68,NA
+2019,68,NA
+2019,68,NA
+2019,68,NA
+2019,68,NA
+2019,68,NA
+2019,68,NA
+2019,68,NA
+2019,68,NA
+2019,68,NA
+2019,69,NA
+2019,69,NA
+2019,69,NA
+2019,69,NA
+2019,69,NA
+2019,69,NA
+2019,69,NA
+2019,69,NA
+2019,69,NA
+2019,69,NA
+2019,70,NA
+2019,70,NA
+2019,70,NA
+2019,70,NA
+2019,70,NA
+2019,70,NA
+2019,70,NA
+2019,70,NA
+2019,70,NA
+2019,70,NA
+2019,71,NA
+2019,71,NA
+2019,71,NA
+2019,71,NA
+2019,71,NA
+2019,71,NA
+2019,71,NA
+2019,71,NA
+2019,71,NA
+2019,71,NA
+2019,72,NA
+2019,72,NA
+2019,72,NA
+2019,72,NA
+2019,72,NA
+2019,72,NA
+2019,72,NA
+2019,72,NA
+2019,72,NA
+2019,72,NA
+2019,81,NA
+2019,81,NA
+2019,81,NA
+2019,81,NA
+2019,81,NA
+2019,81,NA
+2019,81,NA
+2019,81,NA
+2019,81,NA
+2019,81,NA
+2019,82,NA
+2019,82,NA
+2019,82,NA
+2019,82,NA
+2019,82,NA
+2019,82,NA
+2019,82,NA
+2019,82,NA
+2019,82,NA
+2019,82,NA
+2019,83,NA
+2019,83,NA
+2019,83,NA
+2019,83,NA
+2019,83,NA
+2019,83,NA
+2019,83,NA
+2019,83,NA
+2019,83,NA
+2019,83,NA
+2019,84,NA
+2019,84,NA
+2019,84,NA
+2019,84,NA
+2019,84,NA
+2019,84,NA
+2019,84,NA
+2019,84,NA
+2019,84,NA
+2019,84,NA
+2019,85,NA
+2019,85,NA
+2019,85,NA
+2019,85,NA
+2019,85,NA
+2019,85,NA
+2019,85,NA
+2019,85,NA
+2019,85,NA
+2019,85,NA
+2019,86,NA
+2019,86,NA
+2019,86,NA
+2019,86,NA
+2019,86,NA
+2019,86,NA
+2019,86,NA
+2019,86,NA
+2019,86,NA
+2019,86,NA
+2019,87,NA
+2019,87,NA
+2019,87,NA
+2019,87,NA
+2019,87,NA
+2019,87,NA
+2019,87,NA
+2019,87,NA
+2019,87,NA
+2019,87,NA
+2019,88,NA
+2019,88,NA
+2019,88,NA
+2019,88,NA
+2019,88,NA
+2019,88,NA
+2019,88,NA
+2019,88,NA
+2019,88,NA
+2019,88,NA
+2019,89,NA
+2019,89,NA
+2019,89,NA
+2019,89,NA
+2019,89,NA
+2019,89,NA
+2019,89,NA
+2019,89,NA
+2019,89,NA
+2019,89,NA
+2019,90,NA
+2019,90,NA
+2019,90,NA
+2019,90,NA
+2019,90,NA
+2019,90,NA
+2019,90,NA
+2019,90,NA
+2019,90,NA
+2019,90,NA
+2019,91,NA
+2019,91,NA
+2019,91,NA
+2019,91,NA
+2019,91,NA
+2019,91,NA
+2019,91,NA
+2019,91,NA
+2019,91,NA
+2019,91,NA
+2019,92,NA
+2019,92,NA
+2019,92,NA
+2019,92,NA
+2019,92,NA
+2019,92,NA
+2019,92,NA
+2019,92,NA
+2019,92,NA
+2019,92,NA
+2019,93,NA
+2019,93,NA
+2019,93,NA
+2019,93,NA
+2019,93,NA
+2019,93,NA
+2019,93,NA
+2019,93,NA
+2019,93,NA
+2019,93,NA
+2019,94,NA
+2019,94,NA
+2019,94,NA
+2019,94,NA
+2019,94,NA
+2019,94,NA
+2019,94,NA
+2019,94,NA
+2019,94,NA
+2019,94,NA
+2019,95,NA
+2019,95,NA
+2019,95,NA
+2019,95,NA
+2019,95,NA
+2019,95,NA
+2019,95,NA
+2019,95,NA
+2019,95,NA
+2019,95,NA
+2019,96,NA
+2019,96,NA
+2019,96,NA
+2019,96,NA
+2019,96,NA
+2019,96,NA
+2019,96,NA
+2019,96,NA
+2019,96,NA
+2019,96,NA
+2019,97,NA
+2019,97,NA
+2019,97,NA
+2019,97,NA
+2019,97,NA
+2019,97,NA
+2019,97,NA
+2019,97,NA
+2019,97,NA
+2019,97,NA
+2019,98,NA
+2019,98,NA
+2019,98,NA
+2019,98,NA
+2019,98,NA
+2019,98,NA
+2019,98,NA
+2019,98,NA
+2019,98,NA
+2019,98,NA
+2019,99,NA
+2019,99,NA
+2019,99,NA
+2019,99,NA
+2019,99,NA
+2019,99,NA
+2019,99,NA
+2019,99,NA
+2019,99,NA
+2019,99,NA
+2019,100,NA
+2019,100,NA
+2019,100,NA
+2019,100,NA
+2019,100,NA
+2019,100,NA
+2019,100,NA
+2019,100,NA
+2019,100,NA
+2019,100,NA
+2019,101,NA
+2019,101,NA
+2019,101,NA
+2019,101,NA
+2019,101,NA
+2019,101,NA
+2019,101,NA
+2019,101,NA
+2019,101,NA
+2019,101,NA
+2019,102,NA
+2019,102,NA
+2019,102,NA
+2019,102,NA
+2019,102,NA
+2019,102,NA
+2019,102,NA
+2019,102,NA
+2019,102,NA
+2019,102,NA
+2019,261,NA
+2019,261,NA
+2019,261,NA
+2019,261,NA
+2019,261,NA
+2019,261,NA
+2019,261,NA
+2019,261,NA
+2019,261,NA
+2019,261,NA
+2019,261,NA
+2019,261,NA
+2019,261,NA

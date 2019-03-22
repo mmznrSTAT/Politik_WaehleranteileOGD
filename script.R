@@ -37,8 +37,8 @@ flat2$letzte_wahl_sitze <- NULL
 
 flat <- rbind(flat1,flat2)
 
-flat <- add_column(flat, jahr = 2019)
-flat3 <- add_column(flat3, jahr = 2019)
+flat$jahr <- 2019
+flat3$jahr <- 2019
 
 flat <- flat %>%  select(jahr,gemeinde_bfsnr,waehlerproz)
 flat3 <- flat3 %>%  select(jahr,waehlerproz)
@@ -76,7 +76,7 @@ wahlbetStadtZH <- wahlbetStadtZH %>%
 
 
 wahlbetGem <- rbind(wahlbetGem,wahlbetStadtZH)
-wahlbetGem <- add_column(wahlbetGem, jahr = 2019)
+wahlbetGem$jahr <- 2019
 wahlbetGem <- wahlbetGem %>%
   select(jahr,gemeinde_bfsnr,wahlbeteiligung)
 
@@ -86,12 +86,12 @@ kanton <- toJSON(kanton)
 kanton <- c("[",kanton,"]")
 kanton <- jsonlite::fromJSON(kanton)
 
-head(kanton)
-head(wahlbetZH)
+
+wahlbetZH <- kanton
 wahlbetZH$gemeinde_bfsnr <- 1
 wahlbetZH$gemeinde_bez <- "Kanton Zürich"
 
-wahlbetZH <- add_column(wahlbetZH, jahr = 2019)
+wahlbetZH$jahr <- 2019
 
 wahlbetZH <- wahlbetZH %>% select(jahr, wahlbeteiligung)
 
