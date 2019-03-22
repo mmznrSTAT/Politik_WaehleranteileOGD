@@ -1,7 +1,8 @@
-library("rjson")
+library(rjson)
 library(jsonlite)
 library(dplyr)
 library(RJSONIO)
+library(tibble)
 
 #####################
 ##  Wähleranteile  ##
@@ -36,9 +37,15 @@ flat2$letzte_wahl_sitze <- NULL
 
 flat <- rbind(flat1,flat2)
 
+flat <- add_column(flat, jahr = 2019)
+flat3 <- add_column(flat3, jahr = 2019)
+
+flat <- flat %>%  select(jahr,gemeinde_bfsnr,waehlerproz)
+flat3 <- flat3 %>%  select(jahr,waehlerproz)
+
+
 write.csv(flat, file = "Waehleranteile_KRW19_Gemeinden.csv", row.names=FALSE)
 write.csv(flat3, file = "Waehleranteile_KRW19_Kanton.csv", row.names=FALSE)
-
 
 #####################
 ## Wahlbeteiligung ##
@@ -61,13 +68,17 @@ wahlbetStadtZH$gemeinde_bfsnr <- 261
 wahlbetStadtZH$gemeinde_bez <- "Zürich"
 
 wahlbetGem <- wahlbetGem %>%
-    select(gemeinde_bfsnr,gemeinde_bez,wahlbeteiligung,letzte_wahl_wahlbeteiligung)
+    select(gemeinde_bfsnr,wahlbeteiligung)
 
 wahlbetStadtZH <- wahlbetStadtZH %>%
-  select(gemeinde_bfsnr,gemeinde_bez,wahlbeteiligung,letzte_wahl_wahlbeteiligung)
+  select(gemeinde_bfsnr,wahlbeteiligung)
+
+
 
 wahlbetGem <- rbind(wahlbetGem,wahlbetStadtZH)
-
+wahlbetGem <- add_column(wahlbetGem, jahr = 2019)
+wahlbetGem <- wahlbetGem %>%
+  select(jahr,gemeinde_bfsnr,wahlbeteiligung)
 
 #Kantonsebene
 kanton <- json_wahlbet$wahlbeteiligung_auf_kantonsebene
@@ -80,8 +91,9 @@ head(wahlbetZH)
 wahlbetZH$gemeinde_bfsnr <- 1
 wahlbetZH$gemeinde_bez <- "Kanton Zürich"
 
-wahlbetZH <- wahlbetZH %>%
-  select(gemeinde_bfsnr,gemeinde_bez,wahlbeteiligung,letzte_wahl_wahlbeteiligung)
+wahlbetZH <- add_column(wahlbetZH, jahr = 2019)
+
+wahlbetZH <- wahlbetZH %>% select(jahr, wahlbeteiligung)
 
 write.csv(wahlbetZH, file = "wahlbeteiligung_KRW2019_Kanton.csv", row.names=FALSE)
 write.csv(wahlbetGem, file = "wahlbeteiligung_KRW2019_Gemeinden.csv", row.names=FALSE)
